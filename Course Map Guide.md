@@ -100,8 +100,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Number Systems Relay](Module 01 - Intro/Activity 1 - Number Systems Relay.md) (20-25 min, teams) | 1, 3 |
-| In-class: [Activity 2 - Hello Git Pair Lab](Module 01 - Intro/Activity 2 - Hello Git Pair Lab.md) (25-30 min, pairs) | 1, 5, 6 |
+| In-class: [Activity 1 - Number Systems Relay](Module%2001%20-%20Intro/Activity%201%20-%20Number%20Systems%20Relay.md) (20-25 min, teams) | 1, 3 |
+| In-class: [Activity 2 - Hello Git Pair Lab](Module%2001%20-%20Intro/Activity%202%20-%20Hello%20Git%20Pair%20Lab.md) (25-30 min, pairs) | 1, 5, 6 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -157,8 +157,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Error Autopsy](Module 02 - Basics/Activity 1 - Error Autopsy.md) (25 min, teams) | 5 |
-| In-class: [Activity 2 - F-String Gallery Walk](Module 02 - Basics/Activity 2 - F-String Gallery Walk.md) (20-25 min, pairs) | 3, 4, 6 |
+| In-class: [Activity 1 - Error Autopsy](Module%2002%20-%20Basics/Activity%201%20-%20Error%20Autopsy.md) (25 min, teams) | 5 |
+| In-class: [Activity 2 - F-String Gallery Walk](Module%2002%20-%20Basics/Activity%202%20-%20F-String%20Gallery%20Walk.md) (20-25 min, pairs) | 3, 4, 6 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -214,8 +214,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Truthy / Falsy Card Sort](Module 03 - Conditionals and Functions/Activity 1 - Truthy Falsy Card Sort.md) (20-25 min, teams) | 2 |
-| In-class: [Activity 2 - Function Signature Trade](Module 03 - Conditionals and Functions/Activity 2 - Function Signature Trade.md) (25-30 min, pairs) | 3, 4, 6 |
+| In-class: [Activity 1 - Truthy / Falsy Card Sort](Module%2003%20-%20Conditionals%20and%20Functions/Activity%201%20-%20Truthy%20Falsy%20Card%20Sort.md) (20-25 min, teams) | 2 |
+| In-class: [Activity 2 - Function Signature Trade](Module%2003%20-%20Conditionals%20and%20Functions/Activity%202%20-%20Function%20Signature%20Trade.md) (25-30 min, pairs) | 3, 4, 6 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -271,8 +271,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Human Call Stack](Module 04 - Functions and Recursion/Activity 1 - Human Call Stack.md) (20-25 min, whole class) | 4 |
-| In-class: [Activity 2 - Decompose the Spec](Module 04 - Functions and Recursion/Activity 2 - Decompose the Spec.md) (25-30 min, teams) | 3, 6 |
+| In-class: [Activity 1 - Human Call Stack](Module%2004%20-%20Functions%20and%20Recursion/Activity%201%20-%20Human%20Call%20Stack.md) (20-25 min, whole class) | 4 |
+| In-class: [Activity 2 - Decompose the Spec](Module%2004%20-%20Functions%20and%20Recursion/Activity%202%20-%20Decompose%20the%20Spec.md) (25-30 min, teams) | 3, 6 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -328,8 +328,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Loop Translation Race](Module 05 - Iteration/Activity 1 - Loop Translation Race.md) (20-25 min, pairs) | 1, 2 |
-| In-class: [Activity 2 - Accumulator Clinic](Module 05 - Iteration/Activity 2 - Accumulator Clinic.md) (25 min, teams) | 3, 6 |
+| In-class: [Activity 1 - Loop Translation Race](Module%2005%20-%20Iteration/Activity%201%20-%20Loop%20Translation%20Race.md) (20-25 min, pairs) | 1, 2 |
+| In-class: [Activity 2 - Accumulator Clinic](Module%2005%20-%20Iteration/Activity%202%20-%20Accumulator%20Clinic.md) (25 min, teams) | 3, 6 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -385,8 +385,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Structure Speed Dating](Module 06 - Data Structures/Activity 1 - Structure Speed Dating.md) (25-30 min, trios) | 5 |
-| In-class: [Activity 2 - Mutation Mystery](Module 06 - Data Structures/Activity 2 - Mutation Mystery.md) (20-25 min, pairs) | 4 |
+| In-class: [Activity 1 - Structure Speed Dating](Module%2006%20-%20Data%20Structures/Activity%201%20-%20Structure%20Speed%20Dating.md) (25-30 min, trios) | 5 |
+| In-class: [Activity 2 - Mutation Mystery](Module%2006%20-%20Data%20Structures/Activity%202%20-%20Mutation%20Mystery.md) (20-25 min, pairs) | 4 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -442,8 +442,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Escape Hatch Decode](Module 07 - String Manipulation/Activity 1 - Escape Hatch Decode.md) (20 min, teams) | 3 |
-| In-class: [Activity 2 - Text Surgery Relay](Module 07 - String Manipulation/Activity 2 - Text Surgery Relay.md) (25-30 min, relay teams) | 2, 6 |
+| In-class: [Activity 1 - Escape Hatch Decode](Module%2007%20-%20String%20Manipulation/Activity%201%20-%20Escape%20Hatch%20Decode.md) (20 min, teams) | 3 |
+| In-class: [Activity 2 - Text Surgery Relay](Module%2007%20-%20String%20Manipulation/Activity%202%20-%20Text%20Surgery%20Relay.md) (25-30 min, relay teams) | 2, 6 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -499,8 +499,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Path Scavenger Hunt](Module 08 - File IO/Activity 1 - Path Scavenger Hunt.md) (25 min, pairs) | 3 |
-| In-class: [Activity 2 - Broken File Clinic](Module 08 - File IO/Activity 2 - Broken File Clinic.md) (25-30 min, teams) | 1, 4 |
+| In-class: [Activity 1 - Path Scavenger Hunt](Module%2008%20-%20File%20IO/Activity%201%20-%20Path%20Scavenger%20Hunt.md) (25 min, pairs) | 3 |
+| In-class: [Activity 2 - Broken File Clinic](Module%2008%20-%20File%20IO/Activity%202%20-%20Broken%20File%20Clinic.md) (25-30 min, teams) | 1, 4 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -556,8 +556,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Class Design Studio](Module 09 - Classes/Activity 1 - Class Design Studio.md) (25-30 min, teams) | 1, 3 |
-| In-class: [Activity 2 - Inheritance Family Tree](Module 09 - Classes/Activity 2 - Inheritance Family Tree.md) (25 min, pairs) | 4, 5 |
+| In-class: [Activity 1 - Class Design Studio](Module%2009%20-%20Classes/Activity%201%20-%20Class%20Design%20Studio.md) (25-30 min, teams) | 1, 3 |
+| In-class: [Activity 2 - Inheritance Family Tree](Module%2009%20-%20Classes/Activity%202%20-%20Inheritance%20Family%20Tree.md) (25 min, pairs) | 4, 5 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -613,8 +613,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Seeded Random Showdown](Module 10 - Random and Memory/Activity 1 - Seeded Random Showdown.md) (20-25 min, pairs) | 1, 2 |
-| In-class: [Activity 2 - Complexity Sorting Cards](Module 10 - Random and Memory/Activity 2 - Complexity Sorting Cards.md) (25 min, teams) | 4 |
+| In-class: [Activity 1 - Seeded Random Showdown](Module%2010%20-%20Random%20and%20Memory/Activity%201%20-%20Seeded%20Random%20Showdown.md) (20-25 min, pairs) | 1, 2 |
+| In-class: [Activity 2 - Complexity Sorting Cards](Module%2010%20-%20Random%20and%20Memory/Activity%202%20-%20Complexity%20Sorting%20Cards.md) (25 min, teams) | 4 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -670,8 +670,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Comprehension Translation Desk](Module 11 - Python Tricks/Activity 1 - Comprehension Translation Desk.md) (25 min, pairs) | 2 |
-| In-class: [Activity 2 - Pythonic Rewrite Relay](Module 11 - Python Tricks/Activity 2 - Pythonic Rewrite Relay.md) (20-25 min, relay) | 3, 5 |
+| In-class: [Activity 1 - Comprehension Translation Desk](Module%2011%20-%20Python%20Tricks/Activity%201%20-%20Comprehension%20Translation%20Desk.md) (25 min, pairs) | 2 |
+| In-class: [Activity 2 - Pythonic Rewrite Relay](Module%2011%20-%20Python%20Tricks/Activity%202%20-%20Pythonic%20Rewrite%20Relay.md) (20-25 min, relay) | 3, 5 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -727,8 +727,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Build-a-BST Live](Module 12 - Fancy Data Structures/Activity 1 - Build-a-BST Live.md) (25-30 min, whole class) | 3, 4 |
-| In-class: [Activity 2 - Algorithm Auction](Module 12 - Fancy Data Structures/Activity 2 - Algorithm Auction.md) (20-25 min, teams) | 1, 5 |
+| In-class: [Activity 1 - Build-a-BST Live](Module%2012%20-%20Fancy%20Data%20Structures/Activity%201%20-%20Build-a-BST%20Live.md) (25-30 min, whole class) | 3, 4 |
+| In-class: [Activity 2 - Algorithm Auction](Module%2012%20-%20Fancy%20Data%20Structures/Activity%202%20-%20Algorithm%20Auction.md) (20-25 min, teams) | 1, 5 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -784,8 +784,8 @@ For each module below:
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Python to C++ Translation Relay](Module 13 - C C++ Primer/Activity 1 - Python to C++ Translation Relay.md) (25-30 min, teams) | 1, 2, 4 |
-| In-class: [Activity 2 - Compile Error Clinic](Module 13 - C C++ Primer/Activity 2 - Compile Error Clinic.md) (20-25 min, pairs) | 2, 6 |
+| In-class: [Activity 1 - Python to C++ Translation Relay](Module%2013%20-%20C%20C%2B%2B%20Primer/Activity%201%20-%20Python%20to%20C%2B%2B%20Translation%20Relay.md) (25-30 min, teams) | 1, 2, 4 |
+| In-class: [Activity 2 - Compile Error Clinic](Module%2013%20-%20C%20C%2B%2B%20Primer/Activity%202%20-%20Compile%20Error%20Clinic.md) (20-25 min, pairs) | 2, 6 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
