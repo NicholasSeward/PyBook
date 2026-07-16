@@ -12,7 +12,7 @@ Conversational lesson content as `.md` **sections** inside numbered topic **modu
 
 | Term | Meaning | Example |
 |------|---------|---------|
-| **Module** | A numbered topic folder and its lesson files | `Module 7 - String Manipulation/` |
+| **Module** | A numbered topic folder and its lesson files | `Module 07 - String Manipulation/` |
 | **Section** | One lesson `.md` file in a module folder | `Escape Characters.md` |
 
 - Say **section** for a single `.md` file.
@@ -135,7 +135,7 @@ Fenced blocks get a **Run** button. Prefer `py` for runnable Python (Pyodide in 
 
 ## Files
 
-- **Modules:** `Module N - Topic` (e.g. `Module 2 - Basics`)
+- **Modules:** `Module NN - Topic` with a two-digit number (e.g. `Module 02 - Basics`, `Module 10 - Random and Memory`)
 - **Sections:** descriptive names ending in `.md`
 - No extra front matter unless the build needs it
 
