@@ -57,7 +57,7 @@ For each module below:
 
 - **MLOs** are measurable outcomes. CLO numbers in parentheses show course alignment.
 - **Assessments** are Quiz, Tutorial, and Practice unless noted.
-- **Instructional materials** center on the TxtBook module (with Think Python links). Videos live in the course shell.
+- **Instructional materials** center on the TxtBook module (with Think Python links). Videos live in the course shell. Each module folder also has a `README.md` with reading order.
 - **Student steps** follow the same workflow every module.
 
 ### Default student steps (every module)
@@ -113,15 +113,15 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2001%20-%20Intro/README.md) | Guide |
 | Course-shell videos for Module 01 | 1, 5, 6 |
-| [Compiled vs Interpreted](Module%2001%20-%20Intro/Compiled%20vs%20Interpreted.md) | see MLOs |
-| [Git GitHub Basics](Module%2001%20-%20Intro/Git%20GitHub%20Basics.md) | see MLOs |
 | [Hello World and Comments](Module%2001%20-%20Intro/Hello%20World%20and%20Comments.md) | see MLOs |
-| [Integrated Development Environments (IDEs)](Module%2001%20-%20Intro/Integrated%20Development%20Environments%20%28IDEs%29.md) | see MLOs |
-| [Number Systems](Module%2001%20-%20Intro/Number%20Systems.md) | see MLOs |
 | [Chapter 01 (Programming as a way of thinking)](Module%2001%20-%20Intro/Chapter%2001%20%28Programming%20as%20a%20way%20of%20thinking%29.md) | see MLOs |
+| [Compiled vs Interpreted](Module%2001%20-%20Intro/Compiled%20vs%20Interpreted.md) | see MLOs |
+| [Number Systems](Module%2001%20-%20Intro/Number%20Systems.md) | see MLOs |
+| [Integrated Development Environments (IDEs)](Module%2001%20-%20Intro/Integrated%20Development%20Environments%20%28IDEs%29.md) | see MLOs |
+| [Git GitHub Basics](Module%2001%20-%20Intro/Git%20GitHub%20Basics.md) | see MLOs |
 | [Slides (Module 1 - Intro)](Module%2001%20-%20Intro/Slides%20%28Module%201%20-%20Intro%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -175,14 +175,14 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2002%20-%20Basics/README.md) | Guide |
 | Course-shell videos for Module 02 | 1, 5, 6 |
+| [Chapter 02 (Variables and Statements)](Module%2002%20-%20Basics/Chapter%2002%20%28Variables%20and%20Statements%29.md) | see MLOs |
 | [Casting between types](Module%2002%20-%20Basics/Casting%20between%20types.md) | see MLOs |
+| [Formatting Strings (f-strings)](Module%2002%20-%20Basics/Formatting%20Strings%20%28f-strings%29.md) | see MLOs |
 | [Coding Conventions (PEP 8)](Module%2002%20-%20Basics/Coding%20Conventions%20%28PEP%208%29.md) | see MLOs |
 | [Errors and Tracebacks](Module%2002%20-%20Basics/Errors%20and%20Tracebacks.md) | see MLOs |
-| [Formatting Strings (f-strings)](Module%2002%20-%20Basics/Formatting%20Strings%20%28f-strings%29.md) | see MLOs |
-| [Chapter 02 (Variables and Statements)](Module%2002%20-%20Basics/Chapter%2002%20%28Variables%20and%20Statements%29.md) | see MLOs |
 | [Slides (Module 2 - Basics)](Module%2002%20-%20Basics/Slides%20%28Module%202%20-%20Basics%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -236,13 +236,13 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2003%20-%20Conditionals%20and%20Functions/README.md) | Guide |
 | Course-shell videos for Module 03 | 1, 3, 5 |
-| [Scope (local, global)](Module%2003%20-%20Conditionals%20and%20Functions/Scope%20%28local%2C%20global%29.md) | see MLOs |
 | [Truthy and Falsy Values](Module%2003%20-%20Conditionals%20and%20Functions/Truthy%20and%20Falsy%20Values.md) | see MLOs |
-| [Chapter 03 (Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Chapter%2003%20%28Functions%29.md) | see MLOs |
 | [Chapter 05 (Conditionals and Recursion)](Module%2003%20-%20Conditionals%20and%20Functions/Chapter%2005%20%28Conditionals%20and%20Recursion%29.md) | see MLOs |
+| [Chapter 03 (Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Chapter%2003%20%28Functions%29.md) | see MLOs |
+| [Scope (local, global)](Module%2003%20-%20Conditionals%20and%20Functions/Scope%20%28local%2C%20global%29.md) | see MLOs |
 | [Slides (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Slides%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -296,15 +296,15 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2004%20-%20Functions%20and%20Recursion/README.md) | Guide |
 | Course-shell videos for Module 04 | 3, 4, 6 |
-| [Call Stack Visualization](Module%2004%20-%20Functions%20and%20Recursion/Call%20Stack%20Visualization.md) | see MLOs |
+| [Chapter 06 (Return Values)](Module%2004%20-%20Functions%20and%20Recursion/Chapter%2006%20%28Return%20Values%29.md) | see MLOs |
 | [Default Arguments](Module%2004%20-%20Functions%20and%20Recursion/Default%20Arguments.md) | see MLOs |
 | [Function Signatures and Annotations](Module%2004%20-%20Functions%20and%20Recursion/Function%20Signatures%20and%20Annotations.md) | see MLOs |
 | [Modular Design and Decomposition](Module%2004%20-%20Functions%20and%20Recursion/Modular%20Design%20and%20Decomposition.md) | see MLOs |
+| [Call Stack Visualization](Module%2004%20-%20Functions%20and%20Recursion/Call%20Stack%20Visualization.md) | see MLOs |
 | [Chapter 04 (Functions and Interfaces)](Module%2004%20-%20Functions%20and%20Recursion/Chapter%2004%20%28Functions%20and%20Interfaces%29.md) | see MLOs |
-| [Chapter 06 (Return Values)](Module%2004%20-%20Functions%20and%20Recursion/Chapter%2006%20%28Return%20Values%29.md) | see MLOs |
 | [Slides (Module 4 - Functions and Recursion)](Module%2004%20-%20Functions%20and%20Recursion/Slides%20%28Module%204%20-%20Functions%20and%20Recursion%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -358,14 +358,14 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2005%20-%20Iteration/README.md) | Guide |
 | Course-shell videos for Module 05 | 1-4 |
-| [Accumulators and Counters](Module%2005%20-%20Iteration/Accumulators%20and%20Counters.md) | see MLOs |
-| [Index-based vs Direct Iteration](Module%2005%20-%20Iteration/Index-based%20vs%20Direct%20Iteration.md) | see MLOs |
-| [Loop Control](Module%2005%20-%20Iteration/Loop%20Control.md) | see MLOs |
 | [While Loops](Module%2005%20-%20Iteration/While%20Loops.md) | see MLOs |
 | [Chapter 07 (Iteration and Search)](Module%2005%20-%20Iteration/Chapter%2007%20%28Iteration%20and%20Search%29.md) | see MLOs |
+| [Accumulators and Counters](Module%2005%20-%20Iteration/Accumulators%20and%20Counters.md) | see MLOs |
+| [Loop Control](Module%2005%20-%20Iteration/Loop%20Control.md) | see MLOs |
+| [Index-based vs Direct Iteration](Module%2005%20-%20Iteration/Index-based%20vs%20Direct%20Iteration.md) | see MLOs |
 | [Slides (Module 5 - Iteration)](Module%2005%20-%20Iteration/Slides%20%28Module%205%20-%20Iteration%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -419,14 +419,14 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2006%20-%20Data%20Structures/README.md) | Guide |
 | Course-shell videos for Module 06 | 1-4 |
-| [Immutable vs Mutable](Module%2006%20-%20Data%20Structures/Immutable%20vs%20Mutable.md) | see MLOs |
-| [List Methods](Module%2006%20-%20Data%20Structures/List%20Methods.md) | see MLOs |
 | [Chapter 09 (Lists)](Module%2006%20-%20Data%20Structures/Chapter%2009%20%28Lists%29.md) | see MLOs |
+| [List Methods](Module%2006%20-%20Data%20Structures/List%20Methods.md) | see MLOs |
+| [Immutable vs Mutable](Module%2006%20-%20Data%20Structures/Immutable%20vs%20Mutable.md) | see MLOs |
 | [Chapter 10 (Dictionaries)](Module%2006%20-%20Data%20Structures/Chapter%2010%20%28Dictionaries%29.md) | see MLOs |
 | [Chapter 11 (Tuples)](Module%2006%20-%20Data%20Structures/Chapter%2011%20%28Tuples%29.md) | see MLOs |
 | [Slides (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Slides%20%28Module%206%20-%20Data%20Structures%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -480,12 +480,12 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2007%20-%20String%20Manipulation/README.md) | Guide |
 | Course-shell videos for Module 07 | 1-4 |
-| [ASCII and Unicode](Module%2007%20-%20String%20Manipulation/ASCII%20and%20Unicode.md) | see MLOs |
-| [Escape Characters](Module%2007%20-%20String%20Manipulation/Escape%20Characters.md) | see MLOs |
 | [Chapter 08 (Strings and Regular Expressions)](Module%2007%20-%20String%20Manipulation/Chapter%2008%20%28Strings%20and%20Regular%20Expressions%29.md) | see MLOs |
+| [Escape Characters](Module%2007%20-%20String%20Manipulation/Escape%20Characters.md) | see MLOs |
+| [ASCII and Unicode](Module%2007%20-%20String%20Manipulation/ASCII%20and%20Unicode.md) | see MLOs |
 | [Slides (Module 7 - String Manipulation)](Module%2007%20-%20String%20Manipulation/Slides%20%28Module%207%20-%20String%20Manipulation%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -539,16 +539,16 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2008%20-%20File%20IO/README.md) | Guide |
 | Course-shell videos for Module 08 | 1-4 |
-| [Error Handling with try except](Module%2008%20-%20File%20IO/Error%20Handling%20with%20try%20except.md) | see MLOs |
-| [File Open Modes](Module%2008%20-%20File%20IO/File%20Open%20Modes.md) | see MLOs |
 | [File Paths](Module%2008%20-%20File%20IO/File%20Paths.md) | see MLOs |
+| [File Open Modes](Module%2008%20-%20File%20IO/File%20Open%20Modes.md) | see MLOs |
 | [Reading Line by Line vs All at Once](Module%2008%20-%20File%20IO/Reading%20Line%20by%20Line%20vs%20All%20at%20Once.md) | see MLOs |
+| [Error Handling with try except](Module%2008%20-%20File%20IO/Error%20Handling%20with%20try%20except.md) | see MLOs |
+| [Chapter 13 (Files and Databases)](Module%2008%20-%20File%20IO/Chapter%2013%20%28Files%20and%20Databases%29.md) | see MLOs |
 | [Serialization (Pickle)](Module%2008%20-%20File%20IO/Serialization%20%28Pickle%29.md) | see MLOs |
 | [Simple DB Concepts](Module%2008%20-%20File%20IO/Simple%20DB%20Concepts.md) | see MLOs |
-| [Chapter 13 (Files and Databases)](Module%2008%20-%20File%20IO/Chapter%2013%20%28Files%20and%20Databases%29.md) | see MLOs |
 | [Slides (Module 8 - File IO)](Module%2008%20-%20File%20IO/Slides%20%28Module%208%20-%20File%20IO%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -602,14 +602,14 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2009%20-%20Classes/README.md) | Guide |
 | Course-shell videos for Module 09 | 1-4 |
-| [Encapsulation and Interface Design](Module%2009%20-%20Classes/Encapsulation%20and%20Interface%20Design.md) | see MLOs |
 | [Chapter 14 (Classes and Functions)](Module%2009%20-%20Classes/Chapter%2014%20%28Classes%20and%20Functions%29.md) | see MLOs |
 | [Chapter 15 (Classes and Methods)](Module%2009%20-%20Classes/Chapter%2015%20%28Classes%20and%20Methods%29.md) | see MLOs |
 | [Chapter 16 (Classes and Objects)](Module%2009%20-%20Classes/Chapter%2016%20%28Classes%20and%20Objects%29.md) | see MLOs |
+| [Encapsulation and Interface Design](Module%2009%20-%20Classes/Encapsulation%20and%20Interface%20Design.md) | see MLOs |
 | [Chapter 17 (Inheritance)](Module%2009%20-%20Classes/Chapter%2017%20%28Inheritance%29.md) | see MLOs |
 | [Slides (Module 9 - Classes)](Module%2009%20-%20Classes/Slides%20%28Module%209%20-%20Classes%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -663,15 +663,15 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2010%20-%20Random%20and%20Memory/README.md) | Guide |
 | Course-shell videos for Module 10 | 1-5 |
-| [Aliasing and Deep Copy](Module%2010%20-%20Random%20and%20Memory/Aliasing%20and%20Deep%20Copy.md) | see MLOs |
-| [Common Algorithms](Module%2010%20-%20Random%20and%20Memory/Common%20Algorithms.md) | see MLOs |
-| [Intro to Time and Space Complexity](Module%2010%20-%20Random%20and%20Memory/Intro%20to%20Time%20and%20Space%20Complexity.md) | see MLOs |
-| [Pseudorandom vs True Random](Module%2010%20-%20Random%20and%20Memory/Pseudorandom%20vs%20True%20Random.md) | see MLOs |
 | [Random Module](Module%2010%20-%20Random%20and%20Memory/Random%20Module.md) | see MLOs |
+| [Pseudorandom vs True Random](Module%2010%20-%20Random%20and%20Memory/Pseudorandom%20vs%20True%20Random.md) | see MLOs |
+| [Aliasing and Deep Copy](Module%2010%20-%20Random%20and%20Memory/Aliasing%20and%20Deep%20Copy.md) | see MLOs |
+| [Intro to Time and Space Complexity](Module%2010%20-%20Random%20and%20Memory/Intro%20to%20Time%20and%20Space%20Complexity.md) | see MLOs |
+| [Common Algorithms](Module%2010%20-%20Random%20and%20Memory/Common%20Algorithms.md) | see MLOs |
 | [Time Module Basics](Module%2010%20-%20Random%20and%20Memory/Time%20Module%20Basics.md) | see MLOs |
 | [Slides (Module 10 - Random and Memory)](Module%2010%20-%20Random%20and%20Memory/Slides%20%28Module%2010%20-%20Random%20and%20Memory%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -725,16 +725,16 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2011%20-%20Python%20Tricks/README.md) | Guide |
 | Course-shell videos for Module 11 | 1-5 |
+| [Sets](Module%2011%20-%20Python%20Tricks/Sets.md) | see MLOs |
 | [Comprehensions](Module%2011%20-%20Python%20Tricks/Comprehensions.md) | see MLOs |
 | [Conditional Expressions](Module%2011%20-%20Python%20Tricks/Conditional%20Expressions.md) | see MLOs |
-| [Iterators and Generators](Module%2011%20-%20Python%20Tricks/Iterators%20and%20Generators.md) | see MLOs |
 | [Lambda Functions and map filter](Module%2011%20-%20Python%20Tricks/Lambda%20Functions%20and%20map%20filter.md) | see MLOs |
-| [Sets](Module%2011%20-%20Python%20Tricks/Sets.md) | see MLOs |
+| [Iterators and Generators](Module%2011%20-%20Python%20Tricks/Iterators%20and%20Generators.md) | see MLOs |
 | [zip and Unpacking](Module%2011%20-%20Python%20Tricks/zip%20and%20Unpacking.md) | see MLOs |
 | [Chapter 18 (Python Extras)](Module%2011%20-%20Python%20Tricks/Chapter%2018%20%28Python%20Extras%29.md) | see MLOs |
 | [Slides (Module 11 - Python Tricks)](Module%2011%20-%20Python%20Tricks/Slides%20%28Module%2011%20-%20Python%20Tricks%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -788,13 +788,13 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2012%20-%20Fancy%20Data%20Structures/README.md) | Guide |
 | Course-shell videos for Module 12 | 1-5 |
-| [Advanced Complexity](Module%2012%20-%20Fancy%20Data%20Structures/Advanced%20Complexity.md) | see MLOs |
 | [Algorithm Analysis](Module%2012%20-%20Fancy%20Data%20Structures/Algorithm%20Analysis.md) | see MLOs |
-| [Binary Search Tree](Module%2012%20-%20Fancy%20Data%20Structures/Binary%20Search%20Tree.md) | see MLOs |
 | [Linked Lists](Module%2012%20-%20Fancy%20Data%20Structures/Linked%20Lists.md) | see MLOs |
+| [Binary Search Tree](Module%2012%20-%20Fancy%20Data%20Structures/Binary%20Search%20Tree.md) | see MLOs |
+| [Advanced Complexity](Module%2012%20-%20Fancy%20Data%20Structures/Advanced%20Complexity.md) | see MLOs |
 | [Slides (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Slides%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -848,13 +848,13 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
+| [Module README (reading order)](Module%2013%20-%20C%20C%2B%2B%20Primer/README.md) | Guide |
 | Course-shell videos for Module 13 | 1-5 |
-| [Manual Memory Management](Module%2013%20-%20C%20C%2B%2B%20Primer/Manual%20Memory%20Management.md) | see MLOs |
-| [Performance Considerations](Module%2013%20-%20C%20C%2B%2B%20Primer/Performance%20Considerations.md) | see MLOs |
 | [Syntax Comparisons](Module%2013%20-%20C%20C%2B%2B%20Primer/Syntax%20Comparisons.md) | see MLOs |
 | [Type Declarations and Compilation Model](Module%2013%20-%20C%20C%2B%2B%20Primer/Type%20Declarations%20and%20Compilation%20Model.md) | see MLOs |
+| [Manual Memory Management](Module%2013%20-%20C%20C%2B%2B%20Primer/Manual%20Memory%20Management.md) | see MLOs |
+| [Performance Considerations](Module%2013%20-%20C%20C%2B%2B%20Primer/Performance%20Considerations.md) | see MLOs |
 | [Slides (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Slides%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) | Supplemental |
-
 
 **Steps to complete this module**
 
@@ -864,6 +864,9 @@ For each module below:
 4. Complete the [Quiz (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Quiz%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) (autograded).
 5. Complete the Tutorial (autograded), when offered.
 6. Complete [Practice (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Practice%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) and submit through GitHub, when offered.
+
+
+
 
 
 
