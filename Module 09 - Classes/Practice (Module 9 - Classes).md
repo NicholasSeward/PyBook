@@ -59,7 +59,7 @@ Perimeter: 24
 
 **Here's how your main code should look (complete the class definition):**
 
-```python
+```
 # Write your Rectangle class here
 class Rectangle:
     # TODO: Implement the __init__ method
@@ -118,7 +118,7 @@ Total: $2.50
 
 **Here's how your main code should look (complete the class definitions):**
 
-```python
+```
 # Write your classes here
 class Item:
     # TODO: Implement the __init__ method
@@ -173,7 +173,7 @@ Bob (Salaried): $1200.00
 
 **Here's how your main code should look (complete the class definitions):**
 
-```python
+```
 # Write your classes here
 class Employee:
     # TODO: Implement the __init__ method
@@ -225,7 +225,7 @@ Sam is doing their thing
 
 **Here's how your main code should look (complete the class definitions):**
 
-```python
+```
 # Write your classes here
 class Person:
     # TODO: Implement the __init__ method (store name)

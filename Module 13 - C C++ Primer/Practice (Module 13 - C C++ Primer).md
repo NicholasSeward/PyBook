@@ -1,13 +1,13 @@
 # Practice Assignment: Module 13 - C/C++ Primer
 
 ## Overview
-Complete 1 problem total — choose either the Triangle (Section 1) or Hi‑Lo (Section 2). Each reinforces core C++ basics (I/O, loops, randomness/control flow).
+Complete 1 problem total  -  choose either the Triangle (Section 1) or Hi-Lo (Section 2). Each reinforces core C++ basics (I/O, loops, randomness/control flow).
 
 ## Instructions
 - Choose 1 problem (either Section 1 or Section 2)
 - Use clear, readable code and standard C++17
 - Test your code with different inputs
-- In GitHub Codespaces, you do NOT need bash commands — open your file and press the Run button (or Run → Run Without Debugging) to build and run the active C++ file
+- In GitHub Codespaces, you do NOT need bash commands  -  open your file and press the Run button (or Run → Run Without Debugging) to build and run the active C++ file
 
 ## Build and Run
 - In GitHub Codespaces: open your C++ file and press the Run button; it will compile and run the active file.
@@ -38,7 +38,7 @@ Example repository URL: `https://github.com/Seward-Classes/practice-13-username`
 
 File: `program1a.cpp`
 
-Write a program that asks for a positive integer `n` and prints a left‑aligned triangle of `*` of height `n`.
+Write a program that asks for a positive integer `n` and prints a left-aligned triangle of `*` of height `n`.
 
 Requirements:
 - Prompt the user: "Enter a positive integer: " and read `n`
@@ -78,7 +78,7 @@ int main() {
 
 ## Section 2: Randomness and Control Flow (Choose 1)
 
-### 2a: Hi‑Lo Guessing Game (Mersenne Twister)
+### 2a: Hi-Lo Guessing Game (Mersenne Twister)
 
 File: `program2a.cpp`
 
@@ -131,7 +131,7 @@ Hints:
 ---
 
 ## Submission Checklist
-- [ ] Completed ONE problem (Triangle OR Hi‑Lo)
+- [ ] Completed ONE problem (Triangle OR Hi-Lo)
 - [ ] Files are named correctly (`program1a.cpp`, `program2a.cpp`)
 - [ ] Each file includes an AI Disclaimer at the top
 - [ ] Tested with multiple inputs and edge cases

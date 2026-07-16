@@ -29,12 +29,12 @@ Accept the assignment here:
 
 Use one of these (copy/paste exactly):
 
-```python
+```py
 # AI Disclaimer: This code was written without the use of AI tools.
 # Any assistance received was from course materials, textbooks, or instructor guidance only.
 ```
 
-```python
+```py
 # AI Disclaimer: AI tools were used to help generate ideas and/or debug this code.
 # All final code was reviewed, tested, and fully understood by me.
 ```

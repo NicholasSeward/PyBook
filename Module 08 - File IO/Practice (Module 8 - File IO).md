@@ -2,7 +2,7 @@
 
 ## Overview
 
-Complete **3 problems total** — choose **1 from each section** below. Each section focuses on different aspects of file I/O in Python.
+Complete **3 problems total**  -  choose **1 from each section** below. Each section focuses on different aspects of file I/O in Python.
 
 ## Instructions
 
@@ -120,8 +120,8 @@ Create a program that reads a file containing one number per line, computes stat
 - After reading, compute:
   - count of valid numbers
   - sum
-  - average (rounded to 2 decimals) — only if count > 0
-  - min and max — only if count > 0
+  - average (rounded to 2 decimals)  -  only if count > 0
+  - min and max  -  only if count > 0
 - **Write these results to the output file** in a clear report format, for example:
 - If there were no valid numbers, write a message like “No valid numbers found.”
 - Handle missing input file with a friendly message (no crash)

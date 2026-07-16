@@ -12,7 +12,7 @@
 
 **Step 2:** Type the following code exactly as shown:
 
-```python
+```py
 print("Hello, World!")
 ```
 
@@ -30,7 +30,7 @@ print("Hello, World!")
 
 **Step 1:** Add a comment to your program. Modify it to look like this:
 
-```python
+```py
 # This is my first Python program
 print("Hello, World!")
 ```
@@ -50,7 +50,7 @@ print("Hello, World!")
 
 **Step 1:** Add another print statement to your program. Make it look like this:
 
-```python
+```py
 # This is my first Python program
 print("Hello, World!")
 print("I am learning Python!")
@@ -71,7 +71,7 @@ print("I am learning Python!")
 
 **Step 1:** Try changing the text in your print statements. Modify your program to print your name:
 
-```python
+```py
 # This program prints my name
 print("Hello, World!")
 print("My name is [Your Actual Name]")
@@ -95,7 +95,7 @@ print("My name is [Your Actual Name]")
 
 **Step 1:** Intentionally create an error. Change your program to:
 
-```python
+```py
 # This program has an error
 print("Hello, World!")
 prnt("This line has an error")
@@ -118,7 +118,7 @@ prnt("This line has an error")
 
 **Step 1:** Fix the error by changing "prnt" back to "print":
 
-```python
+```py
 # This program has been fixed
 print("Hello, World!")
 print("This line has been fixed")
@@ -139,7 +139,7 @@ print("This line has been fixed")
 
 **Step 1:** Add more information to your program. Make it look like this:
 
-```python
+```py
 # This program introduces me
 print("Hello, World!")
 print("My name is [Your Name]")
@@ -163,7 +163,7 @@ print("I am learning Python programming")
 
 **Step 1:** Experiment with different types of text. Try this:
 
-```python
+```py
 # Testing different text
 print("Hello, World!")
 print("12345")
@@ -197,7 +197,7 @@ print("This line has no text")
 
 **Step 1:** Write your program in the space below:
 
-```python
+```py
 # [Write your comment here]
 
 # [Write your print statements here]

@@ -27,34 +27,34 @@ Each problem should be a separate file:
 **Examples of AI Disclaimers (choose the most appropriate or write your own):**
 
 **No AI Use:**
-```python
+```
 # AI Disclaimer: This code was written without the use of AI tools.
 # Any assistance received was from course materials, textbooks, or instructor guidance only.
 ```
 
 **Minimal AI Use (e.g., syntax help, debugging):**
-```python
+```
 # AI Disclaimer: This code was written with minimal AI assistance.
 # Used AI for: syntax checking and debugging only.
 # Core logic and problem-solving approach are my own work.
 ```
 
 **Moderate AI Use (e.g., code structure, algorithm suggestions):**
-```python
+```
 # AI Disclaimer: This code was written with moderate AI assistance.
 # Used AI for: code structure suggestions and algorithm guidance.
 # I implemented the solutions and modified the AI suggestions to fit the requirements.
 ```
 
 **Extensive AI Use (e.g., significant code generation):**
-```python
+```
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: code generation, debugging, and optimization.
 # I reviewed, tested, and modified all AI-generated code to ensure it meets requirements.
 ```
 
 **Unacceptable AI Use (e.g., "vibe coding" without learning):**
-```python
+```
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: complete code generation to pass autograder.
 # I copied the code without understanding it, just to get a green checkmark.
