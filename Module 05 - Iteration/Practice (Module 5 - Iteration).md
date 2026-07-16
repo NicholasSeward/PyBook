@@ -27,34 +27,34 @@ Each problem should be a separate file:
 **Examples of AI Disclaimers (choose the most appropriate or write your own):**
 
 **No AI Use:**
-```
+```text
 # AI Disclaimer: This code was written without the use of AI tools.
 # Any assistance received was from course materials, textbooks, or instructor guidance only.
 ```
 
 **Minimal AI Use (e.g., syntax help, debugging):**
-```
+```text
 # AI Disclaimer: This code was written with minimal AI assistance.
 # Used AI for: syntax checking and debugging only.
 # Core logic and problem-solving approach are my own work.
 ```
 
 **Moderate AI Use (e.g., code structure, algorithm suggestions):**
-```
+```text
 # AI Disclaimer: This code was written with moderate AI assistance.
 # Used AI for: code structure suggestions and algorithm guidance.
 # I implemented the solutions and modified the AI suggestions to fit the requirements.
 ```
 
 **Extensive AI Use (e.g., significant code generation):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: code generation, debugging, and optimization.
 # I reviewed, tested, and modified all AI-generated code to ensure it meets requirements.
 ```
 
 **Unacceptable AI Use (e.g., "vibe coding" without learning):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: complete code generation to pass autograder.
 # I copied the code without understanding it, just to get a green checkmark.
@@ -93,7 +93,7 @@ Create a program that generates number patterns using for loops and range().
 - Odd numbers from 1 to n (if n is odd)
 
 **Sample Output:**
-```
+```text
 Enter a positive integer: 6
 ==========================================
 NUMBER PATTERN GENERATOR
@@ -120,7 +120,7 @@ Create a program that generates a multiplication table using for loops and range
 - Use range() to control the loop iterations
 
 **Sample Output:**
-```
+```text
 Enter a number (1-12): 5
 ==========================================
 MULTIPLICATION TABLE FOR 5
@@ -154,7 +154,7 @@ Create a program that implements a number guessing game using while loops.
 - End the loop when the correct number is guessed
 
 **Sample Output:**
-```
+```text
 ==========================================
 NUMBER GUESSING GAME
 ==========================================
@@ -184,7 +184,7 @@ Create a program that calculates the sum of numbers entered by the user using wh
 - Handle invalid input gracefully
 
 **Sample Output:**
-```
+```text
 ==========================================
 SUM CALCULATOR
 ==========================================
@@ -215,7 +215,7 @@ Create a program that finds prime numbers using loop control statements.
 - Use efficient prime checking algorithm
 
 **Sample Output:**
-```
+```text
 Enter a positive integer: 20
 ==========================================
 PRIME NUMBER FINDER
@@ -241,7 +241,7 @@ Create a program that implements a menu system using loop control statements.
 - Implement at least 3 different menu options
 
 **Sample Output:**
-```
+```text
 ==========================================
 MENU SYSTEM
 ==========================================

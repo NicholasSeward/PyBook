@@ -24,34 +24,34 @@ Each problem should be a separate file:
 **Examples of AI Disclaimers (choose the most appropriate or write your own):**
 
 **No AI Use:**
-```
+```text
 # AI Disclaimer: This code was written without the use of AI tools.
 # Any assistance received was from course materials, textbooks, or instructor guidance only.
 ```
 
 **Minimal AI Use (e.g., syntax help, debugging):**
-```
+```text
 # AI Disclaimer: This code was written with minimal AI assistance.
 # Used AI for: syntax checking and debugging only.
 # Core logic and problem-solving approach are my own work.
 ```
 
 **Moderate AI Use (e.g., code structure, algorithm suggestions):**
-```
+```text
 # AI Disclaimer: This code was written with moderate AI assistance.
 # Used AI for: code structure suggestions and algorithm guidance.
 # I implemented the solutions and modified the AI suggestions to fit the requirements.
 ```
 
 **Extensive AI Use (e.g., significant code generation):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: code generation, debugging, and optimization.
 # I reviewed, tested, and modified all AI-generated code to ensure it meets requirements.
 ```
 
 **Unacceptable AI Use (e.g., "vibe coding" without learning):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: complete code generation to pass autograder.
 # I copied the code without understanding it, just to get a green checkmark.
@@ -83,7 +83,7 @@ Create a program that calculates the area and circumference of a circle given it
 - Use the math module for π
 
 **Sample Output:**
-```
+```text
 Enter the radius of the circle: 5.0
 Area: 78.54 square units
 Circumference: 31.42 units
@@ -102,7 +102,7 @@ Create a program that converts Celsius to Fahrenheit and Kelvin.
 - Display all three temperatures formatted to 1 decimal place
 
 **Sample Output:**
-```
+```text
 Enter temperature in Celsius: 25
 25.0°C = 77.0°F = 298.2K
 ```
@@ -119,7 +119,7 @@ Create a program that performs all four basic arithmetic operations.
 - Display all results formatted to 2 decimal places
 
 **Sample Output:**
-```
+```text
 Enter first number: 10
 Enter second number: 3
 ==========================================
@@ -146,7 +146,7 @@ Create a program that calculates the total cost of items.
 - Display formatted receipt
 
 **Sample Output:**
-```
+```text
 Enter item name: Apples
 Enter price: 2.50
 Enter quantity: 3
@@ -172,7 +172,7 @@ Create a program that analyzes text input using the len() function.
 - Calculate and display the number of characters using len()
 
 **Sample Output:**
-```
+```text
 Enter some text: Hello World!
 ==========================================
 TEXT ANALYSIS REPORT

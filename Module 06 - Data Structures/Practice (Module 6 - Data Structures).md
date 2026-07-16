@@ -27,34 +27,34 @@ Each problem should be a separate file:
 **Examples of AI Disclaimers (choose the most appropriate or write your own):**
 
 **No AI Use:**
-```
+```text
 # AI Disclaimer: This code was written without the use of AI tools.
 # Any assistance received was from course materials, textbooks, or instructor guidance only.
 ```
 
 **Minimal AI Use (e.g., syntax help, debugging):**
-```
+```text
 # AI Disclaimer: This code was written with minimal AI assistance.
 # Used AI for: syntax checking and debugging only.
 # Core logic and problem-solving approach are my own work.
 ```
 
 **Moderate AI Use (e.g., code structure, algorithm suggestions):**
-```
+```text
 # AI Disclaimer: This code was written with moderate AI assistance.
 # Used AI for: code structure suggestions and algorithm guidance.
 # I implemented the solutions and modified the AI suggestions to fit the requirements.
 ```
 
 **Extensive AI Use (e.g., significant code generation):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: code generation, debugging, and optimization.
 # I reviewed, tested, and modified all AI-generated code to ensure it meets requirements.
 ```
 
 **Unacceptable AI Use (e.g., "vibe coding" without learning):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: complete code generation to pass autograder.
 # I copied the code without understanding it, just to get a green checkmark.
@@ -88,7 +88,7 @@ Create a program that manages student grades using lists and list methods.
 - Handle empty list cases
 
 **Sample Output:**
-```
+```text
 ==========================================
 STUDENT GRADE MANAGER
 ==========================================
@@ -123,7 +123,7 @@ Create a program that manages a shopping list using lists and list operations.
 - Handle duplicate items and invalid operations
 
 **Sample Output:**
-```
+```text
 ==========================================
 SHOPPING LIST MANAGER
 ==========================================
@@ -171,7 +171,7 @@ Create a program that manages contacts using dictionaries.
 - Handle contact not found cases
 
 **Sample Output:**
-```
+```text
 ==========================================
 CONTACT BOOK
 ==========================================
@@ -221,7 +221,7 @@ Create a program that counts word frequencies in text using dictionaries.
 - Sort results by frequency
 
 **Sample Output:**
-```
+```text
 Enter a sentence: The quick brown fox jumps over the lazy dog
 ==========================================
 WORD FREQUENCY COUNTER
@@ -258,7 +258,7 @@ Create a program that works with coordinate points using tuples.
 - Use tuple methods: count(), index()
 
 **Sample Output:**
-```
+```text
 ==========================================
 COORDINATE CALCULATOR
 ==========================================
@@ -293,7 +293,7 @@ Create a program that works with RGB color values using tuples.
 - Use tuple methods: count(), index()
 
 **Sample Output:**
-```
+```text
 ==========================================
 RGB COLOR CONVERTER
 ==========================================

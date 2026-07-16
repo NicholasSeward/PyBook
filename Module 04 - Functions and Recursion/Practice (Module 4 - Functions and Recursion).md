@@ -27,34 +27,34 @@ Each problem should be a separate file:
 **Examples of AI Disclaimers (choose the most appropriate or write your own):**
 
 **No AI Use:**
-```
+```text
 # AI Disclaimer: This code was written without the use of AI tools.
 # Any assistance received was from course materials, textbooks, or instructor guidance only.
 ```
 
 **Minimal AI Use (e.g., syntax help, debugging):**
-```
+```text
 # AI Disclaimer: This code was written with minimal AI assistance.
 # Used AI for: syntax checking and debugging only.
 # Core logic and problem-solving approach are my own work.
 ```
 
 **Moderate AI Use (e.g., code structure, algorithm suggestions):**
-```
+```text
 # AI Disclaimer: This code was written with moderate AI assistance.
 # Used AI for: code structure suggestions and algorithm guidance.
 # I implemented the solutions and modified the AI suggestions to fit the requirements.
 ```
 
 **Extensive AI Use (e.g., significant code generation):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: code generation, debugging, and optimization.
 # I reviewed, tested, and modified all AI-generated code to ensure it meets requirements.
 ```
 
 **Unacceptable AI Use (e.g., "vibe coding" without learning):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: complete code generation to pass autograder.
 # I copied the code without understanding it, just to get a green checkmark.
@@ -90,7 +90,7 @@ Create a program that performs calculations with default arguments for optional 
 - Display both addition and multiplication results
 
 **Sample Output:**
-```
+```text
 Enter first number: 5
 Enter second number: 3
 Add a third number? (y/n): y
@@ -119,7 +119,7 @@ Create a program that calculates area for rectangles and squares using default a
 - Display shape type and area
 
 **Sample Output:**
-```
+```text
 Enter length: 5
 Enter width (or press Enter for square): 3
 ==========================================
@@ -152,7 +152,7 @@ Create a program with two functions that work together to check password strengt
 - Weak: Less than 8 characters OR no uppercase letters
 
 **Sample Output:**
-```
+```text
 Enter a password: MySecret123
 ==========================================
 PASSWORD STRENGTH CHECKER
@@ -182,7 +182,7 @@ Create a program with two functions where one function calls another to calculat
 - Circumference: 2 × π × radius
 
 **Sample Output:**
-```
+```text
 Enter radius: 5
 ==========================================
 CIRCLE CALCULATOR
@@ -209,7 +209,7 @@ Create a program with a recursive function that calculates Fibonacci numbers.
 - Handle edge cases (n = 0, n = 1)
 
 **Sample Output:**
-```
+```text
 Enter a positive integer: 8
 ==========================================
 FIBONACCI CALCULATOR
@@ -232,7 +232,7 @@ Create a program with a recursive function that calculates powers.
 - Handle edge cases (exponent = 0, exponent = 1)
 
 **Sample Output:**
-```
+```text
 Enter base: 2
 Enter exponent: 5
 ==========================================

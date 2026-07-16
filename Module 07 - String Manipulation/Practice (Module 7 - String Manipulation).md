@@ -27,34 +27,34 @@ Each problem should be a separate file:
 **Examples of AI Disclaimers (choose the most appropriate or write your own):**
 
 **No AI Use:**
-```
+```text
 # AI Disclaimer: This code was written without the use of AI tools.
 # Any assistance received was from course materials, textbooks, or instructor guidance only.
 ```
 
 **Minimal AI Use (e.g., syntax help, debugging):**
-```
+```text
 # AI Disclaimer: This code was written with minimal AI assistance.
 # Used AI for: syntax checking and debugging only.
 # Core logic and problem-solving approach are my own work.
 ```
 
 **Moderate AI Use (e.g., code structure, algorithm suggestions):**
-```
+```text
 # AI Disclaimer: This code was written with moderate AI assistance.
 # Used AI for: code structure suggestions and algorithm guidance.
 # I implemented the solutions and modified the AI suggestions to fit the requirements.
 ```
 
 **Extensive AI Use (e.g., significant code generation):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: code generation, debugging, and optimization.
 # I reviewed, tested, and modified all AI-generated code to ensure it meets requirements.
 ```
 
 **Unacceptable AI Use (e.g., "vibe coding" without learning):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: complete code generation to pass autograder.
 # I copied the code without understanding it, just to get a green checkmark.
@@ -89,7 +89,7 @@ Create a program that reverses text in various ways using string slicing and str
 - Display all versions of the reversed text
 
 **Sample Output:**
-```
+```text
 ==========================================
 TEXT REVERSER
 ==========================================
@@ -121,7 +121,7 @@ Create a program that validates passwords using string methods.
 - Display whether password is valid or invalid
 
 **Sample Output:**
-```
+```text
 ==========================================
 PASSWORD VALIDATOR
 ==========================================
@@ -175,7 +175,7 @@ Create a program that extracts and validates email addresses using regular expre
 - Handle multiple emails in one text block
 
 **Sample Output:**
-```
+```text
 ==========================================
 EMAIL EXTRACTOR
 ==========================================
@@ -211,7 +211,7 @@ Create a program that analyzes text using string methods and character operation
 - Handle punctuation appropriately
 
 **Sample Output:**
-```
+```text
 ==========================================
 TEXT ANALYZER
 ==========================================

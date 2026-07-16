@@ -27,34 +27,34 @@ Each problem should be a separate file:
 **Examples of AI Disclaimers (choose the most appropriate or write your own):**
 
 **No AI Use:**
-```
+```text
 # AI Disclaimer: This code was written without the use of AI tools.
 # Any assistance received was from course materials, textbooks, or instructor guidance only.
 ```
 
 **Minimal AI Use (e.g., syntax help, debugging):**
-```
+```text
 # AI Disclaimer: This code was written with minimal AI assistance.
 # Used AI for: syntax checking and debugging only.
 # Core logic and problem-solving approach are my own work.
 ```
 
 **Moderate AI Use (e.g., code structure, algorithm suggestions):**
-```
+```text
 # AI Disclaimer: This code was written with moderate AI assistance.
 # Used AI for: code structure suggestions and algorithm guidance.
 # I implemented the solutions and modified the AI suggestions to fit the requirements.
 ```
 
 **Extensive AI Use (e.g., significant code generation):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: code generation, debugging, and optimization.
 # I reviewed, tested, and modified all AI-generated code to ensure it meets requirements.
 ```
 
 **Unacceptable AI Use (e.g., "vibe coding" without learning):**
-```
+```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: complete code generation to pass autograder.
 # I copied the code without understanding it, just to get a green checkmark.
@@ -95,7 +95,7 @@ Create a program that classifies weather conditions based on temperature and pre
 - Cold & Wet: temp < 50 and precipitation >= 0.1
 
 **Sample Output:**
-```
+```text
 Enter temperature (F): 85
 Enter precipitation (inches): 0.05
 ==========================================
@@ -129,7 +129,7 @@ Create a program that calculates letter grades and provides feedback using condi
 - Invalid: < 0 or > 100 ("Please enter a valid score between 0 and 100")
 
 **Sample Output:**
-```
+```text
 Enter your score (0-100): 85
 ==========================================
 GRADE REPORT
@@ -158,7 +158,7 @@ Create a program with multiple functions to perform mathematical operations.
 - Use the modulus operator (%) in the is_even function
 
 **Sample Output:**
-```
+```text
 Enter first number: 10
 Enter second number: 7
 ==========================================
@@ -189,7 +189,7 @@ Create a program with functions to analyze and process text.
 - Use the len() function and string methods
 
 **Sample Output:**
-```
+```text
 Enter a sentence: Hello world from Python
 ==========================================
 TEXT PROCESSING RESULTS
@@ -218,7 +218,7 @@ Create a program with a recursive function that counts down from a given number.
 - Keep it simple - just count down and print each number
 
 **Sample Output:**
-```
+```text
 Enter starting number: 5
 ==========================================
 COUNTDOWN TIMER
@@ -247,7 +247,7 @@ Create a program with a recursive function that calculates the sum of numbers fr
 - Keep it simple - just add numbers from 1 to n
 
 **Sample Output:**
-```
+```text
 Enter a positive integer: 5
 ==========================================
 NUMBER SUM CALCULATOR
