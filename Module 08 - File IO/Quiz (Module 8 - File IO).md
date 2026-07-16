@@ -105,33 +105,3 @@
 19. The `_____` method removes whitespace from the beginning and end of a string.
 
 20. The `_____` module is used to serialize Python objects to files.
-
-## Answer Key
-
-**Multiple Choice:**
-1. b) Ephemeral programs lose data when they end, persistent programs keep data
-2. a) `open('file.txt', 'r')`
-3. b) A new file is created
-4. b) To automatically close files when done
-5. c) The file is created with 'Hello' in it
-6. a) To remove whitespace characters from the beginning and end
-7. a) `for line in open('filename.txt'):`
-8. b) To handle errors gracefully
-9. c) Opens file for appending
-10. b) To serialize Python objects
-
-**Matching:**
-11. A-2, B-1, C-3, D-4
-12. A-1, B-2, C-3, D-4
-
-**True/False:**
-13. True
-14. True
-15. False
-
-**Fill in the Blank:**
-16. `with`
-17. `'a'`
-18. `read()`
-19. `strip()`
-20. `pickle`

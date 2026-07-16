@@ -101,33 +101,3 @@
 19. A `_____` is a note in code that explains what the code does.
 
 20. The `_____` function converts a string to an integer.
-
-## Answer Key
-
-**Multiple Choice:**
-1. b) `n = 17`
-2. c) `my_name`
-3. c) 3
-4. b) `float()`
-5. b) `False`
-6. b) lowercase_with_underscores
-7. a) `<class 'bool'>`
-8. c) `float("hello")`
-9. b) `"53"`
-10. b) To create a comment
-
-**Matching:**
-11. A-2, B-3, C-1, D-4
-12. A-2, B-1, C-3, D-4
-
-**True/False:**
-13. True
-14. False
-15. False
-
-**Fill in the Blank:**
-16. `str()`
-17. `isinstance()`
-18. `=`
-19. `comment`
-20. `int()`

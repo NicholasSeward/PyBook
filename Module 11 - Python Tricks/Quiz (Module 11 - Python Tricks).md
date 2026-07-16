@@ -120,33 +120,3 @@ names = ['Alice', 'Bob']
 ages = [25, 30]
 pairs = list(_____(names, ages))
 ```
-
-## Answer Key
-
-**Multiple Choice:**
-1. a) A collection of unique elements
-2. b) Sets use O(1) time for membership testing
-3. a) A way to create lists using a concise syntax
-4. a) `[0, 1, 4, 9, 16]`
-5. a) A way to write if-else statements in one line
-6. a) `5`
-7. b) An object that can be iterated over
-8. b) A function that yields values one at a time
-9. a) To create anonymous functions
-10. b) `[(1, 'a'), (2, 'b')]`
-
-**Matching:**
-11. A-1, B-2, C-3, D-4
-12. A-1, B-2, C-3, D-4
-
-**True/False:**
-13. False
-14. False
-15. False
-
-**Fill in the Blank:**
-16. `set(numbers)` or `list(set(numbers))`
-17. `x**2` or `x * x`
-18. `lambda`
-19. `map`
-20. `zip`

@@ -114,33 +114,3 @@
 19. A `_____` is a parameter that has a value specified in the function signature.
 
 20. The `_____` of a function includes its name and parameters.
-
-## Answer Key
-
-**Multiple Choice:**
-1. b) To send a value back to the caller
-2. b) It returns `None`
-3. b) Last In, First Out (LIFO)
-4. a) 5
-5. c) The function's name and parameters
-6. a) To make arguments optional
-7. b) 9
-8. b) To provide hints about parameter and return types
-9. b) A TypeError occurs
-10. b) To do nothing (placeholder)
-
-**Matching:**
-11. A-2, B-1, C-3, D-4
-12. A-2, B-1, C-3, D-4
-
-**True/False:**
-13. True
-14. True
-15. False
-
-**Fill in the Blank:**
-16. `return`
-17. `recursive`
-18. `stack`
-19. `default`
-20. `signature`

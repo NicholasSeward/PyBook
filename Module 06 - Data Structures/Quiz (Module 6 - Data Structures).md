@@ -110,33 +110,3 @@
 19. A `_____` is an ordered, immutable collection of items.
 
 20. The `_____` method removes and returns an item from a list at a specific index.
-
-## Answer Key
-
-**Multiple Choice:**
-1. a) `list = []`
-2. c) List
-3. a) `[1, 2, 10, 4, 5]`
-4. b) `append()`
-5. a) 3
-6. b) To check if an item exists in a list
-7. b) `1`
-8. a) `get()`
-9. b) `2`
-10. b) To get all the keys
-
-**Matching:**
-11. A-2, B-1, C-3, D-4
-12. A-2, B-1, C-3, D-4
-
-**True/False:**
-13. True
-14. False
-15. True
-
-**Fill in the Blank:**
-16. `list`
-17. `dictionary`
-18. `append()`
-19. `tuple`
-20. `pop()`

@@ -112,33 +112,3 @@
 19. The `_____` type is used to store a single character in C++.
 
 20. The function `_____()` is the entry point of every C++ program.
-
-## Answer Key
-
-**Multiple Choice:**
-1. b) Python automatically manages memory, C++ requires manual management
-2. b) When you forget to delete memory that was allocated with `new`
-3. d) Both a and c
-4. b) It lets the compiler know about `cout` and related functionality
-5. a) 5
-6. b) To allocate memory on the heap
-7. b) To free memory allocated with `new`
-8. c) 3
-9. a) To declare the variable's data type
-10. b) `++` is used to increment variables in C++, but Python uses `+= 1`
-
-**Matching:**
-11. A-1, B-2, C-3, D-4
-12. A-1, B-2, C-3, D-4
-
-**True/False:**
-13. True
-14. False
-15. True
-
-**Fill in the Blank:**
-16. `cout`
-17. `for`
-18. `braces`
-19. `char`
-20. `main`

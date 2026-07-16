@@ -105,33 +105,3 @@
 19. The `_____` method splits a string into a list of substrings.
 
 20. The `_____` method joins a list of strings into one string.
-
-## Answer Key
-
-**Multiple Choice:**
-1. a) 65
-2. b) 97
-3. a) 'A'
-4. b) To create a new line
-5. b) 'e'
-6. b) `"HELLO"`
-7. a) To remove whitespace from both ends
-8. a) `['hello', 'world']`
-9. b) To join a list of strings into one string
-10. b) `"Jython"`
-
-**Matching:**
-11. A-2, B-1, C-3, D-4
-12. A-2, B-1, C-3, D-4
-
-**True/False:**
-13. True
-14. True
-15. False
-
-**Fill in the Blank:**
-16. `ord()`
-17. `chr()`
-18. `strip()`
-19. `split()`
-20. `join()`

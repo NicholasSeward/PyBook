@@ -108,33 +108,3 @@
 19. A `_____` is a variable that is accessible throughout the entire program.
 
 20. The `_____` keyword allows you to modify a global variable inside a function.
-
-## Answer Key
-
-**Multiple Choice:**
-1. b) `def`
-2. c) 1
-3. b) `0`
-4. b) To modify a global variable inside a function
-5. b) `False`
-6. a) `Hello, Alice!`
-7. c) `**`
-8. b) To send a value back to the caller
-9. b) `False`
-10. b) 3
-
-**Matching:**
-11. A-2, B-1, C-4, D-3
-12. A-2, B-1, C-3, D-4
-
-**True/False:**
-13. True
-14. True
-15. False
-
-**Fill in the Blank:**
-16. `def`
-17. `%`
-18. `return`
-19. `global variable`
-20. `global`

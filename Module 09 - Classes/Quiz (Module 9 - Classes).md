@@ -121,33 +121,3 @@
 19. `_____` allows a child class to reuse code from a parent class.
 
 20. The `_____` function checks if an object is an instance of a specific class.
-
-## Answer Key
-
-**Multiple Choice:**
-1. b) To initialize the attributes of a new object
-2. a) A class is a template, an instance is a specific object created from that template
-3. b) It refers to the specific instance of the class
-4. b) `Buddy`
-5. b) To reuse code from a parent class in a child class
-6. a) `True`
-7. a) To call methods from the parent class
-8. b) `"Meow"`
-9. a) To hide data and methods from outside access
-10. a) `<class 'Dog'>`
-
-**Matching:**
-11. A-2, B-1, C-3, D-4
-12. A-2, B-1, C-3, D-4
-
-**True/False:**
-13. False
-14. True
-15. True
-
-**Fill in the Blank:**
-16. `__init__`
-17. `instance`
-18. `self`
-19. `Inheritance`
-20. `isinstance()`

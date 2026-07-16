@@ -101,33 +101,3 @@
 19. `_____` complexity measures how much memory an algorithm uses.
 
 20. The `_____` case describes the worst possible performance of an algorithm. (Example: Searching for a value that isn't present in a list.)
-
-## Answer Key
-
-**Multiple Choice:**
-1. c) O(n)
-2. c) O(log n)
-3. b) ArrayList / Dynamic array
-4. a) O(1)
-5. c) Hash table
-6. a) A collection of nodes where each node points to the next
-7. c) Easier to insert and delete elements
-8. a) A tree where each node has at most two children
-9. b) O(log n)
-10. a) Slower access to elements by index
-
-**Matching:**
-11. A-1, B-2, C-3, D-4
-12. A-1, B-2, C-3, D-4
-
-**True/False:**
-13. False
-14. True
-15. False
-
-**Fill in the Blank:**
-16. `complexity`
-17. `nodes`
-18. `tree`
-19. `space`
-20. `worst`

@@ -112,33 +112,3 @@
 19. The `_____` statement exits a loop immediately.
 
 20. The `_____` statement skips the current iteration and continues to the next.
-
-## Answer Key
-
-**Multiple Choice:**
-1. b) To add up values as you go through a loop
-2. b) `counter = 0`
-3. b) 15
-4. b) To create a sequence of numbers for iteration
-5. a) `[0, 1, 2, 3, 4]`
-6. b) To get both index and value while iterating
-7. c) `0 1 2 `
-8. b) To exit the loop completely
-9. a) To skip the current iteration and continue to the next
-10. a) 3
-
-**Matching:**
-11. A-2, B-1, C-3, D-4
-12. A-2, B-1, C-3, D-4
-
-**True/False:**
-13. True
-14. False
-15. True
-
-**Fill in the Blank:**
-16. `accumulator`
-17. `range()`
-18. `counter`
-19. `break`
-20. `continue`

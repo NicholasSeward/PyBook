@@ -101,33 +101,3 @@
 19. `_____` search checks each element in a list until the target is found.
 
 20. The `_____` function sets a starting point for the random number generator.
-
-## Answer Key
-
-**Multiple Choice:**
-1. a) When multiple variables point to the same object in memory
-2. b) A shallow copy doesn't copy nested objects, a deep copy does
-3. a) A random integer between 1 and 10, inclusive
-4. b) To set a starting point for the random number generator
-5. a) A random number from the list
-6. c) O(n)
-7. b) O(log n)
-8. c) The number of seconds since the epoch
-9. b) To pause the program for a specified number of seconds
-10. b) `[1, [2, 3]]` (but with independent nested objects)
-
-**Matching:**
-11. A-2, B-1, C-3, D-4
-12. A-2, B-1, C-3, D-4
-
-**True/False:**
-13. False
-14. True
-15. True
-
-**Fill in the Blank:**
-16. `random.random()`
-17. `shallow`
-18. `time.sleep()`
-19. `linear`
-20. `random.seed()`

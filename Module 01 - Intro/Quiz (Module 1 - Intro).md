@@ -101,33 +101,3 @@
 19. A `_____` is a collection of characters enclosed in quotes.
 
 20. The `_____` function tells you the data type of a value.
-
-## Answer Key
-
-**Multiple Choice:**
-1. b) 49
-2. c) `'It's a test'`
-3. b) 42
-4. b) `len()`
-5. b) `'Spam, Spam, Spam, Spam, '`
-6. a) `<class 'int'>`
-7. c) `my_name`
-8. a) `'Hello World'`
-9. c) `%`
-10. c) 3
-
-**Matching:**
-11. A-2, B-1, C-3, D-4
-12. A-1, B-2, C-3, D-4
-
-**True/False:**
-13. True
-14. False
-15. True
-
-**Fill in the Blank:**
-16. `int()`
-17. `\n`
-18. `**`
-19. `string`
-20. `type()`
