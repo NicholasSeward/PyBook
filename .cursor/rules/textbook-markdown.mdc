@@ -1,0 +1,144 @@
+---
+description: Conventions for writing Python textbook markdown sections and modules
+globs: "**/*.md"
+alwaysApply: false
+---
+
+# Textbook Markdown
+
+Conversational lesson content as `.md` **sections** inside numbered topic **modules** (folders).
+
+## Book structure
+
+| Term | Meaning | Example |
+|------|---------|---------|
+| **Module** | A numbered topic folder and its lesson files | `Module 7 - String Manipulation/` |
+| **Section** | One lesson `.md` file in a module folder | `Escape Characters.md` |
+
+- Say **section** for a single `.md` file.
+- Say **module** for the folder (or the whole topic: "the String Manipulation module").
+- Inside a section, `##` / `###` are **blocks** or **subsections**, not separate book sections.
+
+## Voice
+
+- One concept at a time; build on earlier sections and modules when needed.
+- Plain language, short paragraphs; explain **why**, not only **what**.
+- End sections with something to **try** when hands-on practice fits.
+- Do not use em dashes (`—`), en dashes as punctuation (`–`), or `--` as a stand-in. Use a period, comma, colon, parentheses, or two sentences instead.
+- Teach the content directly. Do not explain why something is or is not in a module.
+
+## Headings
+
+Use ATX headings (`#`). Do not skip levels. One `#` per file (section title).
+
+| Level | Use |
+|-------|-----|
+| `#` | Section title, once at the top |
+| `##` | Major blocks (hook, explanation, examples, mistakes, try it) |
+| `###` | Subsections within a `##` block |
+
+Prefer `##` / `###` over bold pseudo-headings. Callouts stay as blockquotes, not headings.
+
+## Typical flow
+
+1. Hook: what it is and when you use it
+2. Explanation: definitions and rules
+3. Simple example → richer example
+4. Common mistakes (when relevant)
+5. Optional callouts
+6. Tie back to prior material when needed
+
+## Diagrams
+
+Use **Mermaid** when a diagram clarifies flow or relationships better than prose. Use sparingly: one clear diagram beats several overlapping ones.
+
+## Try it now
+
+Optional. When you include it, end with `## Try it now` and 1 to 3 exercises.
+
+Each exercise is typically a **Prompt:** plus a `py` playground with starter code the reader edits. Starter code must be runnable, with enough left to do (missing pieces, bugs, or `TODO`s). The prompt should be **similar in skill** to the section examples but **not a copy**.
+
+After the playground, add optional collapsible help:
+
+```markdown
+:::details Hint
+
+Try breaking the problem into smaller steps.
+
+:::
+
+:::details Answer
+
+`42`
+
+:::
+
+:::details Solution
+
+**Reasoning:** Why this works, in one or two sentences.
+
+```py
+# full solution
+```
+
+:::
+```
+
+| Label | Use |
+|-------|-----|
+| `Hint` | Nudge toward the idea; no full answer |
+| `Answer` | Result only (value, output, short fact) |
+| `Solution` | Worked answer plus **Reasoning:** |
+
+Put hints before answers or solutions. Do not put spoilers inside the starter fence.
+
+## Callouts
+
+Blockquotes with an all-caps prefix. Every line starts with `>`.
+
+```markdown
+> NOTE: This is book-specific context.
+```
+
+| Prefix | Purpose |
+|--------|---------|
+| `PROTIP:` | Shortcuts and workflow |
+| `PREFERENCE:` | Style guidance, not language rules |
+| `NOTE:` | Book-specific context |
+| `HISTORY:` | Background of a feature |
+| `AI:` | How AI affects learning or debugging here |
+
+## TxtBook playgrounds
+
+Fenced blocks get a **Run** button. Prefer `py` for runnable Python (Pyodide in the browser).
+
+| Fence tag | Behavior |
+|-----------|----------|
+| `py` | Run in browser (Pyodide) |
+| `turtle` | Turtle graphics; book handles these specially |
+| `md` or `markdown` | Editable source + live preview |
+| (untagged) | Fragment or non-runnable sketch |
+
+- One `py` or `turtle` fence per playground.
+- Use `turtle` for any example that imports or drives the `turtle` module (including `make_turtle` / `jumpto` / `moveto` helpers).
+- Use untagged fences for expressions, partial snippets, or sketches that cannot run alone.
+- Use `md` playgrounds only for formatting demos.
+
+## Code and examples
+
+- Use `py` for runnable Python. Use `turtle` for turtle graphics. Use untagged fences for fragments.
+- Follow PEP 8: 4 spaces, `snake_case` names, spaces around operators.
+- Prefer f-strings for formatting demos once introduced.
+- Use good/bad pairs for style topics.
+- Use `inline code` for syntax, names, and literals.
+- Link first mention of important external terms; define acronyms once.
+
+## Files
+
+- **Modules:** `Module N - Topic` (e.g. `Module 2 - Basics`)
+- **Sections:** descriptive names ending in `.md`
+- No extra front matter unless the build needs it
+
+## Outlines
+
+Expand bullet notes into full prose. Keep intent, callouts, and teaching order. Drop jargon the reader has not seen yet.
