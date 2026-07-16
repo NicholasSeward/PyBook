@@ -92,9 +92,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 1 - Intro) | Autograded | 1, 2, 3, 4 |
-| Tutorial (Module 1 - Intro) | Autograded | 1, 4, 6 |
-| Practice (Module 1 - Intro) | [Practice Rubric](#practice-rubric) | 1, 4, 5, 6 |
+| [Quiz (Module 1 - Intro)](Module%2001%20-%20Intro/Quiz%20%28Module%201%20-%20Intro%29.md) | Autograded | 1, 2, 3, 4 |
+| [Tutorial (Module 1 - Intro)](Module%2001%20-%20Intro/Tutorial%20%28Module%201%20-%20Intro%29.md) | Autograded | 1, 4, 6 |
+| [Practice (Module 1 - Intro)](Module%2001%20-%20Intro/Practice%20%28Module%201%20-%20Intro%29.md) | [Practice Rubric](#practice-rubric) | 1, 4, 5, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -113,19 +113,24 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 01 - Intro (includes Think Python Chapter 1 links) | 1-6 |
 | Course-shell videos for Module 01 | 1, 5, 6 |
-| Sections: Hello World and Comments; Compiled vs Interpreted; Number Systems; IDEs; Git GitHub Basics | 1-6 |
-| Slides (Module 1 - Intro) | Supplemental |
+| [Compiled vs Interpreted](Module%2001%20-%20Intro/Compiled%20vs%20Interpreted.md) | see MLOs |
+| [Git GitHub Basics](Module%2001%20-%20Intro/Git%20GitHub%20Basics.md) | see MLOs |
+| [Hello World and Comments](Module%2001%20-%20Intro/Hello%20World%20and%20Comments.md) | see MLOs |
+| [Integrated Development Environments (IDEs)](Module%2001%20-%20Intro/Integrated%20Development%20Environments%20%28IDEs%29.md) | see MLOs |
+| [Number Systems](Module%2001%20-%20Intro/Number%20Systems.md) | see MLOs |
+| [Chapter 01 (Programming as a way of thinking)](Module%2001%20-%20Intro/Chapter%2001%20%28Programming%20as%20a%20way%20of%20thinking%29.md) | see MLOs |
+| [Slides (Module 1 - Intro)](Module%2001%20-%20Intro/Slides%20%28Module%201%20-%20Intro%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Number Systems Relay](Module%2001%20-%20Intro/Activity%201%20-%20Number%20Systems%20Relay.md), [Activity 2 - Hello Git Pair Lab](Module%2001%20-%20Intro/Activity%202%20-%20Hello%20Git%20Pair%20Lab.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 1 - Intro)](Module%2001%20-%20Intro/Quiz%20%28Module%201%20-%20Intro%29.md) (autograded).
+5. Complete the [Tutorial (Module 1 - Intro)](Module%2001%20-%20Intro/Tutorial%20%28Module%201%20-%20Intro%29.md) (autograded), when offered.
+6. Complete [Practice (Module 1 - Intro)](Module%2001%20-%20Intro/Practice%20%28Module%201%20-%20Intro%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -149,9 +154,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 2 - Basics) | Autograded | 1-5 |
-| Tutorial (Module 2 - Basics) | Autograded | 1-4, 6 |
-| Practice (Module 2 - Basics) | [Practice Rubric](#practice-rubric) | 1-4, 6 |
+| [Quiz (Module 2 - Basics)](Module%2002%20-%20Basics/Quiz%20%28Module%202%20-%20Basics%29.md) | Autograded | 1-5 |
+| [Tutorial (Module 2 - Basics)](Module%2002%20-%20Basics/Tutorial%20%28Module%202%20-%20Basics%29.md) | Autograded | 1-4, 6 |
+| [Practice (Module 2 - Basics)](Module%2002%20-%20Basics/Practice%20%28Module%202%20-%20Basics%29.md) | [Practice Rubric](#practice-rubric) | 1-4, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -170,19 +175,23 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 02 - Basics (includes Think Python Chapter 2 links) | 1-6 |
 | Course-shell videos for Module 02 | 1, 5, 6 |
-| Sections: Casting; Formatting Strings; Coding Conventions (PEP 8); Errors and Tracebacks | 2-5 |
-| Slides (Module 2 - Basics) | Supplemental |
+| [Casting between types](Module%2002%20-%20Basics/Casting%20between%20types.md) | see MLOs |
+| [Coding Conventions (PEP 8)](Module%2002%20-%20Basics/Coding%20Conventions%20%28PEP%208%29.md) | see MLOs |
+| [Errors and Tracebacks](Module%2002%20-%20Basics/Errors%20and%20Tracebacks.md) | see MLOs |
+| [Formatting Strings (f-strings)](Module%2002%20-%20Basics/Formatting%20Strings%20%28f-strings%29.md) | see MLOs |
+| [Chapter 02 (Variables and Statements)](Module%2002%20-%20Basics/Chapter%2002%20%28Variables%20and%20Statements%29.md) | see MLOs |
+| [Slides (Module 2 - Basics)](Module%2002%20-%20Basics/Slides%20%28Module%202%20-%20Basics%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Error Autopsy](Module%2002%20-%20Basics/Activity%201%20-%20Error%20Autopsy.md), [Activity 2 - F-String Gallery Walk](Module%2002%20-%20Basics/Activity%202%20-%20F-String%20Gallery%20Walk.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 2 - Basics)](Module%2002%20-%20Basics/Quiz%20%28Module%202%20-%20Basics%29.md) (autograded).
+5. Complete the [Tutorial (Module 2 - Basics)](Module%2002%20-%20Basics/Tutorial%20%28Module%202%20-%20Basics%29.md) (autograded), when offered.
+6. Complete [Practice (Module 2 - Basics)](Module%2002%20-%20Basics/Practice%20%28Module%202%20-%20Basics%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -206,9 +215,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 3 - Conditionals and Functions) | Autograded | 1-5 |
-| Tutorial (Module 3 - Conditionals and Functions) | Autograded | 1-4, 6 |
-| Practice (Module 3 - Conditionals and Functions) | [Practice Rubric](#practice-rubric) | 1, 3, 6 |
+| [Quiz (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Quiz%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) | Autograded | 1-5 |
+| [Tutorial (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Tutorial%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) | Autograded | 1-4, 6 |
+| [Practice (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Practice%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) | [Practice Rubric](#practice-rubric) | 1, 3, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -227,19 +236,22 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 03 - Conditionals and Functions (Think Python Chapters 3 and 5 links) | 1-6 |
 | Course-shell videos for Module 03 | 1, 3, 5 |
-| Sections: Scope; Truthy and Falsy Values | 2, 4 |
-| Slides (Module 3 - Conditionals and Functions) | Supplemental |
+| [Scope (local, global)](Module%2003%20-%20Conditionals%20and%20Functions/Scope%20%28local%2C%20global%29.md) | see MLOs |
+| [Truthy and Falsy Values](Module%2003%20-%20Conditionals%20and%20Functions/Truthy%20and%20Falsy%20Values.md) | see MLOs |
+| [Chapter 03 (Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Chapter%2003%20%28Functions%29.md) | see MLOs |
+| [Chapter 05 (Conditionals and Recursion)](Module%2003%20-%20Conditionals%20and%20Functions/Chapter%2005%20%28Conditionals%20and%20Recursion%29.md) | see MLOs |
+| [Slides (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Slides%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Truthy Falsy Card Sort](Module%2003%20-%20Conditionals%20and%20Functions/Activity%201%20-%20Truthy%20Falsy%20Card%20Sort.md), [Activity 2 - Function Signature Trade](Module%2003%20-%20Conditionals%20and%20Functions/Activity%202%20-%20Function%20Signature%20Trade.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Quiz%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) (autograded).
+5. Complete the [Tutorial (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Tutorial%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) (autograded), when offered.
+6. Complete [Practice (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Practice%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -263,9 +275,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 4 - Functions and Recursion) | Autograded | 1-5 |
-| Tutorial (Module 4 - Functions and Recursion) | Autograded | 1-3, 6 |
-| Practice (Module 4 - Functions and Recursion) | [Practice Rubric](#practice-rubric) | 1, 3, 6 |
+| [Quiz (Module 4 - Functions and Recursion)](Module%2004%20-%20Functions%20and%20Recursion/Quiz%20%28Module%204%20-%20Functions%20and%20Recursion%29.md) | Autograded | 1-5 |
+| [Tutorial (Module 4 - Functions and Recursion)](Module%2004%20-%20Functions%20and%20Recursion/Tutorial%20%28Module%204%20-%20Functions%20and%20Recursion%29.md) | Autograded | 1-3, 6 |
+| [Practice (Module 4 - Functions and Recursion)](Module%2004%20-%20Functions%20and%20Recursion/Practice%20%28Module%204%20-%20Functions%20and%20Recursion%29.md) | [Practice Rubric](#practice-rubric) | 1, 3, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -284,19 +296,24 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 04 - Functions and Recursion (Think Python Chapters 4 and 6 links) | 1-6 |
 | Course-shell videos for Module 04 | 3, 4, 6 |
-| Sections: Default Arguments; Function Signatures; Modular Design; Call Stack Visualization | 2-5 |
-| Slides (Module 4 - Functions and Recursion) | Supplemental |
+| [Call Stack Visualization](Module%2004%20-%20Functions%20and%20Recursion/Call%20Stack%20Visualization.md) | see MLOs |
+| [Default Arguments](Module%2004%20-%20Functions%20and%20Recursion/Default%20Arguments.md) | see MLOs |
+| [Function Signatures and Annotations](Module%2004%20-%20Functions%20and%20Recursion/Function%20Signatures%20and%20Annotations.md) | see MLOs |
+| [Modular Design and Decomposition](Module%2004%20-%20Functions%20and%20Recursion/Modular%20Design%20and%20Decomposition.md) | see MLOs |
+| [Chapter 04 (Functions and Interfaces)](Module%2004%20-%20Functions%20and%20Recursion/Chapter%2004%20%28Functions%20and%20Interfaces%29.md) | see MLOs |
+| [Chapter 06 (Return Values)](Module%2004%20-%20Functions%20and%20Recursion/Chapter%2006%20%28Return%20Values%29.md) | see MLOs |
+| [Slides (Module 4 - Functions and Recursion)](Module%2004%20-%20Functions%20and%20Recursion/Slides%20%28Module%204%20-%20Functions%20and%20Recursion%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Human Call Stack](Module%2004%20-%20Functions%20and%20Recursion/Activity%201%20-%20Human%20Call%20Stack.md), [Activity 2 - Decompose the Spec](Module%2004%20-%20Functions%20and%20Recursion/Activity%202%20-%20Decompose%20the%20Spec.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 4 - Functions and Recursion)](Module%2004%20-%20Functions%20and%20Recursion/Quiz%20%28Module%204%20-%20Functions%20and%20Recursion%29.md) (autograded).
+5. Complete the [Tutorial (Module 4 - Functions and Recursion)](Module%2004%20-%20Functions%20and%20Recursion/Tutorial%20%28Module%204%20-%20Functions%20and%20Recursion%29.md) (autograded), when offered.
+6. Complete [Practice (Module 4 - Functions and Recursion)](Module%2004%20-%20Functions%20and%20Recursion/Practice%20%28Module%204%20-%20Functions%20and%20Recursion%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -320,9 +337,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 5 - Iteration) | Autograded | 1-5 |
-| Tutorial (Module 5 - Iteration) | Autograded | 1-4, 6 |
-| Practice (Module 5 - Iteration) | [Practice Rubric](#practice-rubric) | 1-3, 6 |
+| [Quiz (Module 5 - Iteration)](Module%2005%20-%20Iteration/Quiz%20%28Module%205%20-%20Iteration%29.md) | Autograded | 1-5 |
+| [Tutorial (Module 5 - Iteration)](Module%2005%20-%20Iteration/Tutorial%20%28Module%205%20-%20Iteration%29.md) | Autograded | 1-4, 6 |
+| [Practice (Module 5 - Iteration)](Module%2005%20-%20Iteration/Practice%20%28Module%205%20-%20Iteration%29.md) | [Practice Rubric](#practice-rubric) | 1-3, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -341,19 +358,23 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 05 - Iteration (Think Python Chapter 7 links) | 1-6 |
 | Course-shell videos for Module 05 | 1-4 |
-| Sections: While Loops; Accumulators and Counters; Loop Control; Index-based vs Direct Iteration | 1-5 |
-| Slides (Module 5 - Iteration) | Supplemental |
+| [Accumulators and Counters](Module%2005%20-%20Iteration/Accumulators%20and%20Counters.md) | see MLOs |
+| [Index-based vs Direct Iteration](Module%2005%20-%20Iteration/Index-based%20vs%20Direct%20Iteration.md) | see MLOs |
+| [Loop Control](Module%2005%20-%20Iteration/Loop%20Control.md) | see MLOs |
+| [While Loops](Module%2005%20-%20Iteration/While%20Loops.md) | see MLOs |
+| [Chapter 07 (Iteration and Search)](Module%2005%20-%20Iteration/Chapter%2007%20%28Iteration%20and%20Search%29.md) | see MLOs |
+| [Slides (Module 5 - Iteration)](Module%2005%20-%20Iteration/Slides%20%28Module%205%20-%20Iteration%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Loop Translation Race](Module%2005%20-%20Iteration/Activity%201%20-%20Loop%20Translation%20Race.md), [Activity 2 - Accumulator Clinic](Module%2005%20-%20Iteration/Activity%202%20-%20Accumulator%20Clinic.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 5 - Iteration)](Module%2005%20-%20Iteration/Quiz%20%28Module%205%20-%20Iteration%29.md) (autograded).
+5. Complete the [Tutorial (Module 5 - Iteration)](Module%2005%20-%20Iteration/Tutorial%20%28Module%205%20-%20Iteration%29.md) (autograded), when offered.
+6. Complete [Practice (Module 5 - Iteration)](Module%2005%20-%20Iteration/Practice%20%28Module%205%20-%20Iteration%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -377,9 +398,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 6 - Data Structures) | Autograded | 1-5 |
-| Tutorial (Module 6 - Data Structures) | Autograded | 1-3, 6 |
-| Practice (Module 6 - Data Structures) | [Practice Rubric](#practice-rubric) | 1, 2, 5, 6 |
+| [Quiz (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Quiz%20%28Module%206%20-%20Data%20Structures%29.md) | Autograded | 1-5 |
+| [Tutorial (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Tutorial%20%28Module%206%20-%20Data%20Structures%29.md) | Autograded | 1-3, 6 |
+| [Practice (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Practice%20%28Module%206%20-%20Data%20Structures%29.md) | [Practice Rubric](#practice-rubric) | 1, 2, 5, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -398,19 +419,23 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 06 - Data Structures (Think Python Chapters 9-11 links) | 1-6 |
 | Course-shell videos for Module 06 | 1-4 |
-| Sections: List Methods; Immutable vs Mutable | 1, 4 |
-| Slides (Module 6 - Data Structures) | Supplemental |
+| [Immutable vs Mutable](Module%2006%20-%20Data%20Structures/Immutable%20vs%20Mutable.md) | see MLOs |
+| [List Methods](Module%2006%20-%20Data%20Structures/List%20Methods.md) | see MLOs |
+| [Chapter 09 (Lists)](Module%2006%20-%20Data%20Structures/Chapter%2009%20%28Lists%29.md) | see MLOs |
+| [Chapter 10 (Dictionaries)](Module%2006%20-%20Data%20Structures/Chapter%2010%20%28Dictionaries%29.md) | see MLOs |
+| [Chapter 11 (Tuples)](Module%2006%20-%20Data%20Structures/Chapter%2011%20%28Tuples%29.md) | see MLOs |
+| [Slides (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Slides%20%28Module%206%20-%20Data%20Structures%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Structure Speed Dating](Module%2006%20-%20Data%20Structures/Activity%201%20-%20Structure%20Speed%20Dating.md), [Activity 2 - Mutation Mystery](Module%2006%20-%20Data%20Structures/Activity%202%20-%20Mutation%20Mystery.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Quiz%20%28Module%206%20-%20Data%20Structures%29.md) (autograded).
+5. Complete the [Tutorial (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Tutorial%20%28Module%206%20-%20Data%20Structures%29.md) (autograded), when offered.
+6. Complete [Practice (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Practice%20%28Module%206%20-%20Data%20Structures%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -434,9 +459,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 7 - String Manipulation) | Autograded | 1-5 |
-| Tutorial (Module 7 - String Manipulation) | Autograded | 1-3, 6 |
-| Practice (Module 7 - String Manipulation) | [Practice Rubric](#practice-rubric) | 1, 2, 6 |
+| [Quiz (Module 7 - String Manipulation)](Module%2007%20-%20String%20Manipulation/Quiz%20%28Module%207%20-%20String%20Manipulation%29.md) | Autograded | 1-5 |
+| [Tutorial (Module 7 - String Manipulation)](Module%2007%20-%20String%20Manipulation/Tutorial%20%28Module%207%20-%20String%20Manipulation%29.md) | Autograded | 1-3, 6 |
+| [Practice (Module 7 - String Manipulation)](Module%2007%20-%20String%20Manipulation/Practice%20%28Module%207%20-%20String%20Manipulation%29.md) | [Practice Rubric](#practice-rubric) | 1, 2, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -455,19 +480,21 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 07 - String Manipulation (Think Python Chapter 8 links) | 1-6 |
 | Course-shell videos for Module 07 | 1-4 |
-| Sections: Escape Characters; ASCII and Unicode | 3, 4 |
-| Slides (Module 7 - String Manipulation) | Supplemental |
+| [ASCII and Unicode](Module%2007%20-%20String%20Manipulation/ASCII%20and%20Unicode.md) | see MLOs |
+| [Escape Characters](Module%2007%20-%20String%20Manipulation/Escape%20Characters.md) | see MLOs |
+| [Chapter 08 (Strings and Regular Expressions)](Module%2007%20-%20String%20Manipulation/Chapter%2008%20%28Strings%20and%20Regular%20Expressions%29.md) | see MLOs |
+| [Slides (Module 7 - String Manipulation)](Module%2007%20-%20String%20Manipulation/Slides%20%28Module%207%20-%20String%20Manipulation%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Escape Hatch Decode](Module%2007%20-%20String%20Manipulation/Activity%201%20-%20Escape%20Hatch%20Decode.md), [Activity 2 - Text Surgery Relay](Module%2007%20-%20String%20Manipulation/Activity%202%20-%20Text%20Surgery%20Relay.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 7 - String Manipulation)](Module%2007%20-%20String%20Manipulation/Quiz%20%28Module%207%20-%20String%20Manipulation%29.md) (autograded).
+5. Complete the [Tutorial (Module 7 - String Manipulation)](Module%2007%20-%20String%20Manipulation/Tutorial%20%28Module%207%20-%20String%20Manipulation%29.md) (autograded), when offered.
+6. Complete [Practice (Module 7 - String Manipulation)](Module%2007%20-%20String%20Manipulation/Practice%20%28Module%207%20-%20String%20Manipulation%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -491,9 +518,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 8 - File IO) | Autograded | 1-5 |
-| Tutorial (Module 8 - File IO) | Autograded | 1-4, 6 |
-| Practice (Module 8 - File IO) | [Practice Rubric](#practice-rubric) | 1, 2, 4, 6 |
+| [Quiz (Module 8 - File IO)](Module%2008%20-%20File%20IO/Quiz%20%28Module%208%20-%20File%20IO%29.md) | Autograded | 1-5 |
+| [Tutorial (Module 8 - File IO)](Module%2008%20-%20File%20IO/Tutorial%20%28Module%208%20-%20File%20IO%29.md) | Autograded | 1-4, 6 |
+| [Practice (Module 8 - File IO)](Module%2008%20-%20File%20IO/Practice%20%28Module%208%20-%20File%20IO%29.md) | [Practice Rubric](#practice-rubric) | 1, 2, 4, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -512,19 +539,25 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 08 - File IO (Think Python Chapter 13 links) | 1-6 |
 | Course-shell videos for Module 08 | 1-4 |
-| Sections: File Open Modes; File Paths; Reading Line by Line vs All at Once; Error Handling; Serialization; Simple DB Concepts | 1-5 |
-| Slides (Module 8 - File IO) | Supplemental |
+| [Error Handling with try except](Module%2008%20-%20File%20IO/Error%20Handling%20with%20try%20except.md) | see MLOs |
+| [File Open Modes](Module%2008%20-%20File%20IO/File%20Open%20Modes.md) | see MLOs |
+| [File Paths](Module%2008%20-%20File%20IO/File%20Paths.md) | see MLOs |
+| [Reading Line by Line vs All at Once](Module%2008%20-%20File%20IO/Reading%20Line%20by%20Line%20vs%20All%20at%20Once.md) | see MLOs |
+| [Serialization (Pickle)](Module%2008%20-%20File%20IO/Serialization%20%28Pickle%29.md) | see MLOs |
+| [Simple DB Concepts](Module%2008%20-%20File%20IO/Simple%20DB%20Concepts.md) | see MLOs |
+| [Chapter 13 (Files and Databases)](Module%2008%20-%20File%20IO/Chapter%2013%20%28Files%20and%20Databases%29.md) | see MLOs |
+| [Slides (Module 8 - File IO)](Module%2008%20-%20File%20IO/Slides%20%28Module%208%20-%20File%20IO%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Path Scavenger Hunt](Module%2008%20-%20File%20IO/Activity%201%20-%20Path%20Scavenger%20Hunt.md), [Activity 2 - Broken File Clinic](Module%2008%20-%20File%20IO/Activity%202%20-%20Broken%20File%20Clinic.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 8 - File IO)](Module%2008%20-%20File%20IO/Quiz%20%28Module%208%20-%20File%20IO%29.md) (autograded).
+5. Complete the [Tutorial (Module 8 - File IO)](Module%2008%20-%20File%20IO/Tutorial%20%28Module%208%20-%20File%20IO%29.md) (autograded), when offered.
+6. Complete [Practice (Module 8 - File IO)](Module%2008%20-%20File%20IO/Practice%20%28Module%208%20-%20File%20IO%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -548,9 +581,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 9 - Classes) | Autograded | 1-5 |
-| Tutorial (Module 9 - Classes) | Autograded | 1-3, 6 |
-| Practice (Module 9 - Classes) | [Practice Rubric](#practice-rubric) | 1, 2, 6 |
+| [Quiz (Module 9 - Classes)](Module%2009%20-%20Classes/Quiz%20%28Module%209%20-%20Classes%29.md) | Autograded | 1-5 |
+| [Tutorial (Module 9 - Classes)](Module%2009%20-%20Classes/Tutorial%20%28Module%209%20-%20Classes%29.md) | Autograded | 1-3, 6 |
+| [Practice (Module 9 - Classes)](Module%2009%20-%20Classes/Practice%20%28Module%209%20-%20Classes%29.md) | [Practice Rubric](#practice-rubric) | 1, 2, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -569,19 +602,23 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 09 - Classes (Think Python Chapters 14-17 links) | 1-6 |
 | Course-shell videos for Module 09 | 1-4 |
-| Section: Encapsulation and Interface Design | 3 |
-| Slides (Module 9 - Classes) | Supplemental |
+| [Encapsulation and Interface Design](Module%2009%20-%20Classes/Encapsulation%20and%20Interface%20Design.md) | see MLOs |
+| [Chapter 14 (Classes and Functions)](Module%2009%20-%20Classes/Chapter%2014%20%28Classes%20and%20Functions%29.md) | see MLOs |
+| [Chapter 15 (Classes and Methods)](Module%2009%20-%20Classes/Chapter%2015%20%28Classes%20and%20Methods%29.md) | see MLOs |
+| [Chapter 16 (Classes and Objects)](Module%2009%20-%20Classes/Chapter%2016%20%28Classes%20and%20Objects%29.md) | see MLOs |
+| [Chapter 17 (Inheritance)](Module%2009%20-%20Classes/Chapter%2017%20%28Inheritance%29.md) | see MLOs |
+| [Slides (Module 9 - Classes)](Module%2009%20-%20Classes/Slides%20%28Module%209%20-%20Classes%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Class Design Studio](Module%2009%20-%20Classes/Activity%201%20-%20Class%20Design%20Studio.md), [Activity 2 - Inheritance Family Tree](Module%2009%20-%20Classes/Activity%202%20-%20Inheritance%20Family%20Tree.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 9 - Classes)](Module%2009%20-%20Classes/Quiz%20%28Module%209%20-%20Classes%29.md) (autograded).
+5. Complete the [Tutorial (Module 9 - Classes)](Module%2009%20-%20Classes/Tutorial%20%28Module%209%20-%20Classes%29.md) (autograded), when offered.
+6. Complete [Practice (Module 9 - Classes)](Module%2009%20-%20Classes/Practice%20%28Module%209%20-%20Classes%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -605,9 +642,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 10 - Random and Memory) | Autograded | 1-5 |
-| Tutorial (Module 10 - Random and Memory) | Autograded | 1, 3, 6 |
-| Practice (Module 10 - Random and Memory) | [Practice Rubric](#practice-rubric) | 1, 6 |
+| [Quiz (Module 10 - Random and Memory)](Module%2010%20-%20Random%20and%20Memory/Quiz%20%28Module%2010%20-%20Random%20and%20Memory%29.md) | Autograded | 1-5 |
+| [Tutorial (Module 10 - Random and Memory)](Module%2010%20-%20Random%20and%20Memory/Tutorial%20%28Module%2010%20-%20Random%20and%20Memory%29.md) | Autograded | 1, 3, 6 |
+| [Practice (Module 10 - Random and Memory)](Module%2010%20-%20Random%20and%20Memory/Practice%20%28Module%2010%20-%20Random%20and%20Memory%29.md) | [Practice Rubric](#practice-rubric) | 1, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -626,19 +663,24 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 10 - Random and Memory (with Think Python links where present) | 1-6 |
 | Course-shell videos for Module 10 | 1-5 |
-| Sections: Random Module; Pseudorandom vs True Random; Aliasing and Deep Copy; Intro to Time and Space Complexity; Common Algorithms; Time Module Basics | 1-5 |
-| Slides (Module 10 - Random and Memory) | Supplemental |
+| [Aliasing and Deep Copy](Module%2010%20-%20Random%20and%20Memory/Aliasing%20and%20Deep%20Copy.md) | see MLOs |
+| [Common Algorithms](Module%2010%20-%20Random%20and%20Memory/Common%20Algorithms.md) | see MLOs |
+| [Intro to Time and Space Complexity](Module%2010%20-%20Random%20and%20Memory/Intro%20to%20Time%20and%20Space%20Complexity.md) | see MLOs |
+| [Pseudorandom vs True Random](Module%2010%20-%20Random%20and%20Memory/Pseudorandom%20vs%20True%20Random.md) | see MLOs |
+| [Random Module](Module%2010%20-%20Random%20and%20Memory/Random%20Module.md) | see MLOs |
+| [Time Module Basics](Module%2010%20-%20Random%20and%20Memory/Time%20Module%20Basics.md) | see MLOs |
+| [Slides (Module 10 - Random and Memory)](Module%2010%20-%20Random%20and%20Memory/Slides%20%28Module%2010%20-%20Random%20and%20Memory%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Seeded Random Showdown](Module%2010%20-%20Random%20and%20Memory/Activity%201%20-%20Seeded%20Random%20Showdown.md), [Activity 2 - Complexity Sorting Cards](Module%2010%20-%20Random%20and%20Memory/Activity%202%20-%20Complexity%20Sorting%20Cards.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 10 - Random and Memory)](Module%2010%20-%20Random%20and%20Memory/Quiz%20%28Module%2010%20-%20Random%20and%20Memory%29.md) (autograded).
+5. Complete the [Tutorial (Module 10 - Random and Memory)](Module%2010%20-%20Random%20and%20Memory/Tutorial%20%28Module%2010%20-%20Random%20and%20Memory%29.md) (autograded), when offered.
+6. Complete [Practice (Module 10 - Random and Memory)](Module%2010%20-%20Random%20and%20Memory/Practice%20%28Module%2010%20-%20Random%20and%20Memory%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -662,9 +704,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 11 - Python Tricks) | Autograded | 1-5 |
-| Tutorial (Module 11 - Python Tricks) | Autograded | 1-3, 6 |
-| Practice (Module 11 - Python Tricks) | [Practice Rubric](#practice-rubric) | 2, 6 |
+| [Quiz (Module 11 - Python Tricks)](Module%2011%20-%20Python%20Tricks/Quiz%20%28Module%2011%20-%20Python%20Tricks%29.md) | Autograded | 1-5 |
+| [Tutorial (Module 11 - Python Tricks)](Module%2011%20-%20Python%20Tricks/Tutorial%20%28Module%2011%20-%20Python%20Tricks%29.md) | Autograded | 1-3, 6 |
+| [Practice (Module 11 - Python Tricks)](Module%2011%20-%20Python%20Tricks/Practice%20%28Module%2011%20-%20Python%20Tricks%29.md) | [Practice Rubric](#practice-rubric) | 2, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -683,19 +725,25 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 11 - Python Tricks (Think Python Chapter 18 links) | 1-6 |
 | Course-shell videos for Module 11 | 1-5 |
-| Sections: Sets; Comprehensions; Conditional Expressions; Lambda Functions and map filter; Iterators and Generators; zip and Unpacking | 1-5 |
-| Slides (Module 11 - Python Tricks) | Supplemental |
+| [Comprehensions](Module%2011%20-%20Python%20Tricks/Comprehensions.md) | see MLOs |
+| [Conditional Expressions](Module%2011%20-%20Python%20Tricks/Conditional%20Expressions.md) | see MLOs |
+| [Iterators and Generators](Module%2011%20-%20Python%20Tricks/Iterators%20and%20Generators.md) | see MLOs |
+| [Lambda Functions and map filter](Module%2011%20-%20Python%20Tricks/Lambda%20Functions%20and%20map%20filter.md) | see MLOs |
+| [Sets](Module%2011%20-%20Python%20Tricks/Sets.md) | see MLOs |
+| [zip and Unpacking](Module%2011%20-%20Python%20Tricks/zip%20and%20Unpacking.md) | see MLOs |
+| [Chapter 18 (Python Extras)](Module%2011%20-%20Python%20Tricks/Chapter%2018%20%28Python%20Extras%29.md) | see MLOs |
+| [Slides (Module 11 - Python Tricks)](Module%2011%20-%20Python%20Tricks/Slides%20%28Module%2011%20-%20Python%20Tricks%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Comprehension Translation Desk](Module%2011%20-%20Python%20Tricks/Activity%201%20-%20Comprehension%20Translation%20Desk.md), [Activity 2 - Pythonic Rewrite Relay](Module%2011%20-%20Python%20Tricks/Activity%202%20-%20Pythonic%20Rewrite%20Relay.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
-5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+4. Complete the [Quiz (Module 11 - Python Tricks)](Module%2011%20-%20Python%20Tricks/Quiz%20%28Module%2011%20-%20Python%20Tricks%29.md) (autograded).
+5. Complete the [Tutorial (Module 11 - Python Tricks)](Module%2011%20-%20Python%20Tricks/Tutorial%20%28Module%2011%20-%20Python%20Tricks%29.md) (autograded), when offered.
+6. Complete [Practice (Module 11 - Python Tricks)](Module%2011%20-%20Python%20Tricks/Practice%20%28Module%2011%20-%20Python%20Tricks%29.md) and submit through GitHub, when offered.
 
 
 ---
@@ -719,7 +767,7 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 12 - Fancy Data Structures) | Autograded | 1-6 |
+| [Quiz (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Quiz%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) | Autograded | 1-6 |
 | Tutorial | Not offered this term | - |
 | Practice | Not offered this term | - |
 
@@ -740,17 +788,20 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 12 - Fancy Data Structures (with Think Python links where present) | 1-6 |
 | Course-shell videos for Module 12 | 1-5 |
-| Sections: Algorithm Analysis; Linked Lists; Binary Search Tree; Advanced Complexity | 1-5 |
-| Slides (Module 12 - Fancy Data Structures) | Supplemental |
+| [Advanced Complexity](Module%2012%20-%20Fancy%20Data%20Structures/Advanced%20Complexity.md) | see MLOs |
+| [Algorithm Analysis](Module%2012%20-%20Fancy%20Data%20Structures/Algorithm%20Analysis.md) | see MLOs |
+| [Binary Search Tree](Module%2012%20-%20Fancy%20Data%20Structures/Binary%20Search%20Tree.md) | see MLOs |
+| [Linked Lists](Module%2012%20-%20Fancy%20Data%20Structures/Linked%20Lists.md) | see MLOs |
+| [Slides (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Slides%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Build-a-BST Live](Module%2012%20-%20Fancy%20Data%20Structures/Activity%201%20-%20Build-a-BST%20Live.md), [Activity 2 - Algorithm Auction](Module%2012%20-%20Fancy%20Data%20Structures/Activity%202%20-%20Algorithm%20Auction.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
+4. Complete the [Quiz (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Quiz%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) (autograded).
 5. Complete the Tutorial (autograded), when offered.
 6. Complete Practice and submit through GitHub, when offered.
 
@@ -776,9 +827,9 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| Quiz (Module 13 - C C++ Primer) | Autograded | 1-5 |
+| [Quiz (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Quiz%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) | Autograded | 1-5 |
 | Tutorial | Not offered this term | - |
-| Practice (Module 13 - C C++ Primer) | [Practice Rubric](#practice-rubric) | 4, 6 |
+| [Practice (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Practice%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) | [Practice Rubric](#practice-rubric) | 4, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -797,19 +848,23 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| TxtBook: Module 13 - C C++ Primer | 1-6 |
 | Course-shell videos for Module 13 | 1-5 |
-| Sections: Syntax Comparisons; Type Declarations and Compilation Model; Manual Memory Management; Performance Considerations | 1-5 |
-| Slides (Module 13 - C C++ Primer) | Supplemental |
+| [Manual Memory Management](Module%2013%20-%20C%20C%2B%2B%20Primer/Manual%20Memory%20Management.md) | see MLOs |
+| [Performance Considerations](Module%2013%20-%20C%20C%2B%2B%20Primer/Performance%20Considerations.md) | see MLOs |
+| [Syntax Comparisons](Module%2013%20-%20C%20C%2B%2B%20Primer/Syntax%20Comparisons.md) | see MLOs |
+| [Type Declarations and Compilation Model](Module%2013%20-%20C%20C%2B%2B%20Primer/Type%20Declarations%20and%20Compilation%20Model.md) | see MLOs |
+| [Slides (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Slides%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) | Supplemental |
+
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities); see Activity handouts in this module folder.
+1. Do the in-class interactive activity (or activities): [Activity 1 - Python to C++ Translation Relay](Module%2013%20-%20C%20C%2B%2B%20Primer/Activity%201%20-%20Python%20to%20C%2B%2B%20Translation%20Relay.md), [Activity 2 - Compile Error Clinic](Module%2013%20-%20C%20C%2B%2B%20Primer/Activity%202%20-%20Compile%20Error%20Clinic.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the Quiz (autograded).
+4. Complete the [Quiz (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Quiz%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) (autograded).
 5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+6. Complete [Practice (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Practice%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) and submit through GitHub, when offered.
+
 
 
 ---
