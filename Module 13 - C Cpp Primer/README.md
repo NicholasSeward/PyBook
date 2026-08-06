@@ -15,10 +15,12 @@ Follow the **Reading** list in order. Then do assessments.
 
 ## Reading
 
-1. [Syntax Comparisons](Syntax%20Comparisons.md) _TxtBook_
-2. [Type Declarations and Compilation Model](Type%20Declarations%20and%20Compilation%20Model.md) _TxtBook_
-3. [Manual Memory Management](Manual%20Memory%20Management.md) _TxtBook_
-4. [Performance Considerations](Performance%20Considerations.md) _TxtBook_
+1. [Cheatsheet Python vs Cpp Basics](Cheatsheet%20Python%20vs%20Cpp%20Basics.md) _TxtBook_
+2. [Syntax Comparisons](Syntax%20Comparisons.md) _TxtBook_
+3. [Cpp Pointers and References](Cpp%20Pointers%20and%20References.md) _TxtBook_
+4. [Type Declarations and Compilation Model](Type%20Declarations%20and%20Compilation%20Model.md) _TxtBook_
+5. [Manual Memory Management](Manual%20Memory%20Management.md) _TxtBook_
+6. [Performance Considerations](Performance%20Considerations.md) _TxtBook_
 
 ## Activities
 

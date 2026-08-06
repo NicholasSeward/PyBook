@@ -852,7 +852,9 @@ For each module below:
 |----------|-----------------------------------------|
 | [Module README (reading order)](Module%2013%20-%20C%20Cpp%20Primer/README.md) | Guide |
 | Course-shell videos for Module 13 | 1-5 |
+| [Cheatsheet Python vs Cpp Basics](Module%2013%20-%20C%20Cpp%20Primer/Cheatsheet%20Python%20vs%20Cpp%20Basics.md) | see MLOs |
 | [Syntax Comparisons](Module%2013%20-%20C%20Cpp%20Primer/Syntax%20Comparisons.md) | see MLOs |
+| [Cpp Pointers and References](Module%2013%20-%20C%20Cpp%20Primer/Cpp%20Pointers%20and%20References.md) | see MLOs |
 | [Type Declarations and Compilation Model](Module%2013%20-%20C%20Cpp%20Primer/Type%20Declarations%20and%20Compilation%20Model.md) | see MLOs |
 | [Manual Memory Management](Module%2013%20-%20C%20Cpp%20Primer/Manual%20Memory%20Management.md) | see MLOs |
 | [Performance Considerations](Module%2013%20-%20C%20Cpp%20Primer/Performance%20Considerations.md) | see MLOs |

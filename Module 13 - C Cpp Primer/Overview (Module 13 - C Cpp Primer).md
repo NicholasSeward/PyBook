@@ -38,10 +38,12 @@ By the end of this module, you will be able to:
 
 Complete the following readings **in order**.
 
-1. [Syntax Comparisons](https://txtbook.dev/NicholasSeward/pybook/Module%2013%20-%20C%20Cpp%20Primer/Syntax%20Comparisons.md) *TxtBook*
-2. [Type Declarations and Compilation Model](https://txtbook.dev/NicholasSeward/pybook/Module%2013%20-%20C%20Cpp%20Primer/Type%20Declarations%20and%20Compilation%20Model.md) *TxtBook*
-3. [Manual Memory Management](https://txtbook.dev/NicholasSeward/pybook/Module%2013%20-%20C%20Cpp%20Primer/Manual%20Memory%20Management.md) *TxtBook*
-4. [Performance Considerations](https://txtbook.dev/NicholasSeward/pybook/Module%2013%20-%20C%20Cpp%20Primer/Performance%20Considerations.md) *TxtBook*
+1. [Cheatsheet Python vs Cpp Basics](https://txtbook.dev/NicholasSeward/pybook/Module%2013%20-%20C%20Cpp%20Primer/Cheatsheet%20Python%20vs%20Cpp%20Basics.md) *TxtBook*
+2. [Syntax Comparisons](https://txtbook.dev/NicholasSeward/pybook/Module%2013%20-%20C%20Cpp%20Primer/Syntax%20Comparisons.md) *TxtBook*
+3. [Cpp Pointers and References](https://txtbook.dev/NicholasSeward/pybook/Module%2013%20-%20C%20Cpp%20Primer/Cpp%20Pointers%20and%20References.md) *TxtBook*
+4. [Type Declarations and Compilation Model](https://txtbook.dev/NicholasSeward/pybook/Module%2013%20-%20C%20Cpp%20Primer/Type%20Declarations%20and%20Compilation%20Model.md) *TxtBook*
+5. [Manual Memory Management](https://txtbook.dev/NicholasSeward/pybook/Module%2013%20-%20C%20Cpp%20Primer/Manual%20Memory%20Management.md) *TxtBook*
+6. [Performance Considerations](https://txtbook.dev/NicholasSeward/pybook/Module%2013%20-%20C%20Cpp%20Primer/Performance%20Considerations.md) *TxtBook*
 
 ## ✅ Assessments
 
