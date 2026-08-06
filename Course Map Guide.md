@@ -15,7 +15,9 @@ Include all necessary resources and create a schedule that sequences the modules
 | Course ID | CPSI 17503 |
 | Course Name | Programming I |
 | Instructor Name | |
-| Designer Name | |
+| Designer Name | Nicholas Seward |
+
+> NOTE: Setup for classroom50, starter templates, and Practice accept links is in [Instructor Notes.md](Instructor%20Notes.md).
 
 ### Program Outcomes Addressed (optional)
 
@@ -115,11 +117,11 @@ For each module below:
 |----------|-----------------------------------------|
 | [Module README (reading order)](Module%2001%20-%20Intro/README.md) | Guide |
 | Course-shell videos for Module 01 | 1, 5, 6 |
-| [Hello World and Comments](Module%2001%20-%20Intro/Hello%20World%20and%20Comments.md) | see MLOs |
 | [Chapter 01 (Programming as a way of thinking)](Module%2001%20-%20Intro/Chapter%2001%20%28Programming%20as%20a%20way%20of%20thinking%29.md) | see MLOs |
 | [Compiled vs Interpreted](Module%2001%20-%20Intro/Compiled%20vs%20Interpreted.md) | see MLOs |
 | [Number Systems](Module%2001%20-%20Intro/Number%20Systems.md) | see MLOs |
 | [Integrated Development Environments (IDEs)](Module%2001%20-%20Intro/Integrated%20Development%20Environments%20%28IDEs%29.md) | see MLOs |
+| [Hello World and Comments](Module%2001%20-%20Intro/Hello%20World%20and%20Comments.md) | see MLOs |
 | [Git GitHub Basics](Module%2001%20-%20Intro/Git%20GitHub%20Basics.md) | see MLOs |
 | [Slides (Module 1 - Intro)](Module%2001%20-%20Intro/Slides%20%28Module%201%20-%20Intro%29.md) | Supplemental |
 
@@ -769,7 +771,7 @@ For each module below:
 |------------|---------------------|----------------|
 | [Quiz (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Quiz%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) | Autograded | 1-6 |
 | Tutorial | Not offered this term | - |
-| Practice | Not offered this term | - |
+| [Practice (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Practice%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) | [Practice Rubric](#practice-rubric) | 2, 3, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -803,12 +805,12 @@ For each module below:
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
 4. Complete the [Quiz (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Quiz%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) (autograded).
 5. Complete the Tutorial (autograded), when offered.
-6. Complete Practice and submit through GitHub, when offered.
+6. Complete [Practice (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Practice%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) and submit through GitHub, when offered.
 
 
 ---
 
-### Module 13: C C++ Primer
+### Module 13: C Cpp Primer
 
 **Overview:** Students compare Python with C/C++ syntax and compilation, see why types and memory matter, and complete a first C++ practice that reinforces control flow in a compiled language.
 
@@ -827,16 +829,16 @@ For each module below:
 
 | Assessment | Rubric / Not graded | Aligned MLO(s) |
 |------------|---------------------|----------------|
-| [Quiz (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Quiz%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) | Autograded | 1-5 |
+| [Quiz (Module 13 - C Cpp Primer)](Module%2013%20-%20C%20Cpp%20Primer/Quiz%20%28Module%2013%20-%20C%20Cpp%20Primer%29.md) | Autograded | 1-5 |
 | Tutorial | Not offered this term | - |
-| [Practice (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Practice%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) | [Practice Rubric](#practice-rubric) | 4, 6 |
+| [Practice (Module 13 - C Cpp Primer)](Module%2013%20-%20C%20Cpp%20Primer/Practice%20%28Module%2013%20-%20C%20Cpp%20Primer%29.md) | [Practice Rubric](#practice-rubric) | 4, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
 | Activity | Aligned MLO(s) |
 |----------|----------------|
-| In-class: [Activity 1 - Python to C++ Translation Relay](Module%2013%20-%20C%20C%2B%2B%20Primer/Activity%201%20-%20Python%20to%20C%2B%2B%20Translation%20Relay.md) (25-30 min, teams) | 1, 2, 4 |
-| In-class: [Activity 2 - Compile Error Clinic](Module%2013%20-%20C%20C%2B%2B%20Primer/Activity%202%20-%20Compile%20Error%20Clinic.md) (20-25 min, pairs) | 2, 6 |
+| In-class: [Activity 1 - Python to Cpp Translation Relay](Module%2013%20-%20C%20Cpp%20Primer/Activity%201%20-%20Python%20to%20Cpp%20Translation%20Relay.md) (25-30 min, teams) | 1, 2, 4 |
+| In-class: [Activity 2 - Compile Error Clinic](Module%2013%20-%20C%20Cpp%20Primer/Activity%202%20-%20Compile%20Error%20Clinic.md) (20-25 min, pairs) | 2, 6 |
 | Course-shell participation activity (if present) | see MLOs |
 | Watch module videos in the course shell | see MLOs |
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
@@ -848,22 +850,22 @@ For each module below:
 
 | Material | Aligned MLO(s) or Supplemental/Optional |
 |----------|-----------------------------------------|
-| [Module README (reading order)](Module%2013%20-%20C%20C%2B%2B%20Primer/README.md) | Guide |
+| [Module README (reading order)](Module%2013%20-%20C%20Cpp%20Primer/README.md) | Guide |
 | Course-shell videos for Module 13 | 1-5 |
-| [Syntax Comparisons](Module%2013%20-%20C%20C%2B%2B%20Primer/Syntax%20Comparisons.md) | see MLOs |
-| [Type Declarations and Compilation Model](Module%2013%20-%20C%20C%2B%2B%20Primer/Type%20Declarations%20and%20Compilation%20Model.md) | see MLOs |
-| [Manual Memory Management](Module%2013%20-%20C%20C%2B%2B%20Primer/Manual%20Memory%20Management.md) | see MLOs |
-| [Performance Considerations](Module%2013%20-%20C%20C%2B%2B%20Primer/Performance%20Considerations.md) | see MLOs |
-| [Slides (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Slides%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) | Supplemental |
+| [Syntax Comparisons](Module%2013%20-%20C%20Cpp%20Primer/Syntax%20Comparisons.md) | see MLOs |
+| [Type Declarations and Compilation Model](Module%2013%20-%20C%20Cpp%20Primer/Type%20Declarations%20and%20Compilation%20Model.md) | see MLOs |
+| [Manual Memory Management](Module%2013%20-%20C%20Cpp%20Primer/Manual%20Memory%20Management.md) | see MLOs |
+| [Performance Considerations](Module%2013%20-%20C%20Cpp%20Primer/Performance%20Considerations.md) | see MLOs |
+| [Slides (Module 13 - C Cpp Primer)](Module%2013%20-%20C%20Cpp%20Primer/Slides%20%28Module%2013%20-%20C%20Cpp%20Primer%29.md) | Supplemental |
 
 **Steps to complete this module**
 
-1. Do the in-class interactive activity (or activities): [Activity 1 - Python to C++ Translation Relay](Module%2013%20-%20C%20C%2B%2B%20Primer/Activity%201%20-%20Python%20to%20C%2B%2B%20Translation%20Relay.md), [Activity 2 - Compile Error Clinic](Module%2013%20-%20C%20C%2B%2B%20Primer/Activity%202%20-%20Compile%20Error%20Clinic.md).
+1. Do the in-class interactive activity (or activities): [Activity 1 - Python to Cpp Translation Relay](Module%2013%20-%20C%20Cpp%20Primer/Activity%201%20-%20Python%20to%20Cpp%20Translation%20Relay.md), [Activity 2 - Compile Error Clinic](Module%2013%20-%20C%20Cpp%20Primer/Activity%202%20-%20Compile%20Error%20Clinic.md).
 2. Complete the participation activity if present.
 3. Read and watch the module materials (TxtBook + Think Python links + course-shell videos).
-4. Complete the [Quiz (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Quiz%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) (autograded).
+4. Complete the [Quiz (Module 13 - C Cpp Primer)](Module%2013%20-%20C%20Cpp%20Primer/Quiz%20%28Module%2013%20-%20C%20Cpp%20Primer%29.md) (autograded).
 5. Complete the Tutorial (autograded), when offered.
-6. Complete [Practice (Module 13 - C C++ Primer)](Module%2013%20-%20C%20C%2B%2B%20Primer/Practice%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) and submit through GitHub, when offered.
+6. Complete [Practice (Module 13 - C Cpp Primer)](Module%2013%20-%20C%20Cpp%20Primer/Practice%20%28Module%2013%20-%20C%20Cpp%20Primer%29.md) and submit through GitHub, when offered.
 
 
 

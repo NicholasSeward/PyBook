@@ -1,38 +1,84 @@
 # Practice Assignment: Module 6 - Data Structures
 
 ## Overview
-Complete **3 problems total** - choose **1 from each section** below. Each section focuses on different aspects of data structures in Python.
 
-## Instructions
-- Choose **1 problem from Section 1** (Lists)
-- Choose **1 problem from Section 2** (Dictionaries)  
-- Choose **1 problem from Section 3** (Tuples)
-- Use proper PEP 8 coding conventions
-- Test your code with different inputs
+This assignment provides an opportunity to apply the concepts covered in this module by writing Python programs using lists, dictionaries, and tuples.
 
-## File Naming and Submission
+You will complete:
 
-### File Naming
-Each problem should be a separate file:
-- **Problem 1a:** `program1a.py` (Student Grade Manager)
-- **Problem 1b:** `program1b.py` (Shopping List Manager)
-- **Problem 2a:** `program2a.py` (Contact Book)
-- **Problem 2b:** `program2b.py` (Word Frequency Counter)
-- **Problem 3a:** `program3a.py` (Coordinate Calculator)
-- **Problem 3b:** `program3b.py` (RGB Color Converter)
+- One problem from Section 1 – Lists
+- One problem from Section 2 – Dictionaries
+- One problem from Section 3 – Tuples
 
-### AI Disclaimer Requirement
-**CRITICAL:** Each file must include an AI Disclaimer at the top. The autograder will look for this exact text and check the content after it.
+---
 
-**Examples of AI Disclaimers (choose the most appropriate or write your own):**
+## ▶️ Start Here
+
+Before you begin, watch the walkthrough video below for guidance on how to approach this assignment.
+
+*[Insert walkthrough video about completing programming assignments]*
+
+---
+
+## 🚀 GitHub Classroom
+
+Open the GitHub Classroom assignment using the link below.
+
+**GitHub Classroom Assignment**
+
+[INSERT ASSIGNMENT LINK]
+
+> WARNING: Submit the **repository** URL in the LMS (Blackboard), not a Codespaces / `github.dev` link (those are private to you).
+
+---
+
+## 📋 Assignment Requirements
+
+Complete:
+
+- One problem from Section 1 – Lists
+- One problem from Section 2 – Dictionaries
+- One problem from Section 3 – Tuples
+- Follow PEP 8 coding conventions
+- Test your code with multiple inputs
+- Include the required AI Disclaimer
+- Commit and push your work to GitHub
+- Submit your GitHub repository URL in Blackboard
+
+---
+
+## 📁 File Naming
+
+Each problem should be saved as a separate Python file.
+
+| Problem | File Name |
+|---------|-----------|
+| Student Grade Manager | `program1a.py` |
+| Shopping List Manager | `program1b.py` |
+| Contact Book | `program2a.py` |
+| Word Frequency Counter | `program2b.py` |
+| Coordinate Calculator | `program3a.py` |
+| RGB Color Converter | `program3b.py` |
+
+---
+
+## 🤖 AI Usage Disclosure
+
+**CRITICAL:** Each Python file must begin with an AI Disclaimer. The autograder will look for this exact text and check the content after it.
+
+Choose the statement that best reflects how AI was (or was not) used while completing your assignment.
+
+### Examples of AI Disclaimers (choose the most appropriate or write your own)
 
 **No AI Use:**
+
 ```text
 # AI Disclaimer: This code was written without the use of AI tools.
 # Any assistance received was from course materials, textbooks, or instructor guidance only.
 ```
 
 **Minimal AI Use (e.g., syntax help, debugging):**
+
 ```text
 # AI Disclaimer: This code was written with minimal AI assistance.
 # Used AI for: syntax checking and debugging only.
@@ -40,6 +86,7 @@ Each problem should be a separate file:
 ```
 
 **Moderate AI Use (e.g., code structure, algorithm suggestions):**
+
 ```text
 # AI Disclaimer: This code was written with moderate AI assistance.
 # Used AI for: code structure suggestions and algorithm guidance.
@@ -47,6 +94,7 @@ Each problem should be a separate file:
 ```
 
 **Extensive AI Use (e.g., significant code generation):**
+
 ```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: code generation, debugging, and optimization.
@@ -54,6 +102,7 @@ Each problem should be a separate file:
 ```
 
 **Unacceptable AI Use (e.g., "vibe coding" without learning):**
+
 ```text
 # AI Disclaimer: This code was written with extensive AI assistance.
 # Used AI for: complete code generation to pass autograder.
@@ -61,33 +110,29 @@ Each problem should be a separate file:
 # I didn't actually learn anything from this assignment.
 ```
 
-**Your program code starts here...**
-
-### Submission Process
-1. Create your program files
-2. Test your code thoroughly
-3. Commit and push to GitHub
-4. Submit your repository URL
-
-**Example repository URL:** `https://github.com/Seward-Classes/practice-06-username`
+Your program code starts here...
 
 ---
 
-## Section 1: Lists (Choose 1)
+## 💻 Programming Problems
 
-### Problem 1a: Student Grade Manager
+### Section 1 - Lists (Choose One)
+
+#### Problem 1a: Student Grade Manager
 
 Create a program that manages student grades using lists and list methods.
 
 **Requirements:**
+
 - Create a list to store student grades
 - Allow the user to add grades to the list
-- Use list methods: append(), insert(), remove(), pop()
+- Use list methods: `append()`, `insert()`, `remove()`, `pop()`
 - Calculate and display statistics (average, highest, lowest)
 - Display the sorted list of grades
 - Handle empty list cases
 
 **Sample Output:**
+
 ```text
 ==========================================
 STUDENT GRADE MANAGER
@@ -107,22 +152,22 @@ Lowest grade: 78
 ==========================================
 ```
 
----
-
-### Problem 1b: Shopping List Manager
+#### Problem 1b: Shopping List Manager
 
 Create a program that manages a shopping list using lists and list operations.
 
 **Requirements:**
+
 - Create an empty shopping list
 - Allow the user to add items to the list
 - Allow the user to remove items from the list
 - Display the current list
 - Use list slicing to show first 3 items
-- Use list methods: append(), remove(), index()
+- Use list methods: `append()`, `remove()`, `index()`
 - Handle duplicate items and invalid operations
 
 **Sample Output:**
+
 ```text
 ==========================================
 SHOPPING LIST MANAGER
@@ -155,22 +200,24 @@ First 3 items: ['apples', 'bread']
 
 ---
 
-## Section 2: Dictionaries (Choose 1)
+### Section 2 - Dictionaries (Choose One)
 
-### Problem 2a: Contact Book
+#### Problem 2a: Contact Book
 
 Create a program that manages contacts using dictionaries.
 
 **Requirements:**
+
 - Create a dictionary to store contacts (name: phone_number)
 - Allow the user to add new contacts
 - Allow the user to look up contacts by name
 - Allow the user to update existing contacts
 - Display all contacts
-- Use dictionary methods: get(), keys(), values(), items()
+- Use dictionary methods: `get()`, `keys()`, `values()`, `items()`
 - Handle contact not found cases
 
 **Sample Output:**
+
 ```text
 ==========================================
 CONTACT BOOK
@@ -205,22 +252,22 @@ John Smith: 555-1234
 ==========================================
 ```
 
----
-
-### Problem 2b: Word Frequency Counter
+#### Problem 2b: Word Frequency Counter
 
 Create a program that counts word frequencies in text using dictionaries.
 
 **Requirements:**
+
 - Ask the user to enter a sentence
 - Split the sentence into words
 - Use a dictionary to count word frequencies
 - Display the word frequency results
-- Use dictionary methods: get(), setdefault(), items()
+- Use dictionary methods: `get()`, `setdefault()`, `items()`
 - Handle case sensitivity (convert to lowercase)
 - Sort results by frequency
 
 **Sample Output:**
+
 ```text
 Enter a sentence: The quick brown fox jumps over the lazy dog
 ==========================================
@@ -242,22 +289,24 @@ Total unique words: 8
 
 ---
 
-## Section 3: Tuples (Choose 1)
+### Section 3 - Tuples (Choose One)
 
-### Problem 3a: Coordinate Calculator
+#### Problem 3a: Coordinate Calculator
 
 Create a program that works with coordinate points using tuples.
 
 **Requirements:**
+
 - Create tuples to represent 2D coordinates (x, y)
 - Allow the user to enter coordinates for two points
 - Calculate the distance between the two points
 - Calculate the midpoint between the two points
 - Display coordinate information
 - Use tuple unpacking to access x and y values
-- Use tuple methods: count(), index()
+- Use tuple methods: `count()`, `index()`
 
 **Sample Output:**
+
 ```text
 ==========================================
 COORDINATE CALCULATOR
@@ -277,22 +326,22 @@ Midpoint: (5.0, 2.5)
 ==========================================
 ```
 
----
-
-### Problem 3b: RGB Color Converter
+#### Problem 3b: RGB Color Converter
 
 Create a program that works with RGB color values using tuples.
 
 **Requirements:**
+
 - Create tuples to represent RGB color values (red, green, blue)
 - Allow the user to enter RGB values (0-255)
 - Convert RGB to grayscale using the formula: (R + G + B) / 3
 - Display the original RGB and grayscale values
 - Use tuple unpacking to access color components
 - Validate that RGB values are within 0-255 range
-- Use tuple methods: count(), index()
+- Use tuple methods: `count()`, `index()`
 
 **Sample Output:**
+
 ```text
 ==========================================
 RGB COLOR CONVERTER
@@ -310,15 +359,23 @@ Converted RGB: (149, 149, 149)
 
 ---
 
-## Submission Checklist
+## 📤 Submission Instructions
 
-- [ ] Completed 1 problem from Section 1 (Lists)
-- [ ] Completed 1 problem from Section 2 (Dictionaries)
-- [ ] Completed 1 problem from Section 3 (Tuples)
-- [ ] Each file follows the naming convention
-- [ ] Each file includes proper AI disclaimer
-- [ ] Each file uses appropriate concepts for its section
-- [ ] Code is tested and working properly
-- [ ] All files are committed and pushed to GitHub
-- [ ] Repository URL is submitted on BlackBoard
+1. Complete the required programming problems.
+2. Commit and push your files to GitHub.
+3. Copy your GitHub repository URL.
+4. Submit the repository URL in Blackboard.
+
 ---
+
+## ✅ Submission Checklist
+
+- ☐ Completed one Lists problem
+- ☐ Completed one Dictionaries problem
+- ☐ Completed one Tuples problem
+- ☐ Correct file names
+- ☐ AI Disclaimer included
+- ☐ Code follows PEP 8 conventions
+- ☐ Code tested with multiple inputs
+- ☐ Repository pushed to GitHub
+- ☐ Repository URL submitted in Blackboard

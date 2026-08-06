@@ -174,6 +174,6 @@ print(5 + 3)  # Addition
 print(10 - 2)  # Subtraction
 ```
 
-**Question:** Does this print anything?
+**Question:** Does the multiline comment print anything?
 
 ---

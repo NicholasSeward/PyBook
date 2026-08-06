@@ -1,6 +1,6 @@
-# Activity 1: Python to C++ Translation Relay
+# Activity 1: Python to Cpp Translation Relay
 
-**Module:** 13 - C C++ Primer  
+**Module:** 13 - C Cpp Primer  
 **Time:** 25-30 minutes  
 **Group size:** 3-4  
 **Materials:** Laptops with C++ toolchain or Codespaces

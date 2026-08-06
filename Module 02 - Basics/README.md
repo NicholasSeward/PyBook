@@ -1,5 +1,7 @@
 # Module 02 - Basics
 
+Student-facing overview: [Overview (Module 2 - Basics)](Overview%20%28Module%202%20-%20Basics%29.md)
+
 Follow the **Reading** list in order (TxtBook sections and Think Python chapters are mixed). Then do assessments.
 
 ## Suggested path

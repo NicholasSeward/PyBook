@@ -1,52 +1,130 @@
-# Practice Assignment: Module 13 - C/C++ Primer
+# Practice Assignment: Module 13 - C Cpp Primer
 
 ## Overview
-Complete 1 problem total  -  choose either the Triangle (Section 1) or Hi-Lo (Section 2). Each reinforces core C++ basics (I/O, loops, randomness/control flow).
 
-## Instructions
-- Choose 1 problem (either Section 1 or Section 2)
-- Use clear, readable code and standard C++17
-- Test your code with different inputs
-- In GitHub Codespaces, you do NOT need bash commands  -  open your file and press the Run button (or Run → Run Without Debugging) to build and run the active C++ file
+This assignment provides an opportunity to apply the concepts covered in this module by writing a short C++ program using I/O, loops, and (for one option) randomness.
 
-## Build and Run
-- In GitHub Codespaces: open your C++ file and press the Run button; it will compile and run the active file.
+You will complete:
 
-## File Naming and Submission
-
-### File Naming
-Pick ONE of the following filenames based on the problem you choose:
-- Problem 1a: `program1a.cpp` (Triangle of Stars)
-- Problem 2a: `program2a.cpp` (Hi-Lo Guessing Game)
-
-### AI Disclaimer
-Each file must include an AI Disclaimer at the top.
-
-### Submission Process
-1. Create your program files
-2. Test your code thoroughly
-3. Commit and push to GitHub
-4. Submit your repository URL
-
-Example repository URL: `https://github.com/Seward-Classes/practice-13-username`
+- One problem total (either Section 1 – Triangle of Stars **or** Section 2 – Hi-Lo Guessing Game)
 
 ---
 
-## Section 1: Basics and I/O (Choose 1)
+## ▶️ Start Here
 
-### 1a: Triangle of Stars
+Before you begin, watch the walkthrough video below for guidance on how to approach this assignment.
 
-File: `program1a.cpp`
+*[Insert walkthrough video about completing programming assignments]*
+
+In GitHub Codespaces, open your `.cpp` file and press **Run** (or Run → Run Without Debugging) to build and run the active C++ file. You do not need bash commands for a first build.
+
+---
+
+## 🚀 GitHub Classroom
+
+Open the GitHub Classroom assignment using the link below.
+
+**GitHub Classroom Assignment**
+
+[INSERT ASSIGNMENT LINK]
+
+> WARNING: Submit the **repository** URL in the LMS (Blackboard), not a Codespaces / `github.dev` link (those are private to you).
+
+---
+
+## 📋 Assignment Requirements
+
+Complete:
+
+- One problem total (Triangle of Stars **or** Hi-Lo Guessing Game)
+- Use clear, readable code and standard C++17
+- Test your code with multiple inputs
+- Include the required AI Disclaimer
+- Commit and push your work to GitHub
+- Submit your GitHub repository URL in Blackboard
+
+---
+
+## 📁 File Naming
+
+Save your chosen problem as a separate C++ file.
+
+| Problem | File Name |
+|---------|-----------|
+| Triangle of Stars | `program1a.cpp` |
+| Hi-Lo Guessing Game | `program2a.cpp` |
+
+---
+
+## 🤖 AI Usage Disclosure
+
+**CRITICAL:** Each C++ file must begin with an AI Disclaimer. The autograder will look for this exact text and check the content after it.
+
+Choose the statement that best reflects how AI was (or was not) used while completing your assignment.
+
+### Examples of AI Disclaimers (choose the most appropriate or write your own)
+
+**No AI Use:**
+
+```text
+# AI Disclaimer: This code was written without the use of AI tools.
+# Any assistance received was from course materials, textbooks, or instructor guidance only.
+```
+
+**Minimal AI Use (e.g., syntax help, debugging):**
+
+```text
+# AI Disclaimer: This code was written with minimal AI assistance.
+# Used AI for: syntax checking and debugging only.
+# Core logic and problem-solving approach are my own work.
+```
+
+**Moderate AI Use (e.g., code structure, algorithm suggestions):**
+
+```text
+# AI Disclaimer: This code was written with moderate AI assistance.
+# Used AI for: code structure suggestions and algorithm guidance.
+# I implemented the solutions and modified the AI suggestions to fit the requirements.
+```
+
+**Extensive AI Use (e.g., significant code generation):**
+
+```text
+# AI Disclaimer: This code was written with extensive AI assistance.
+# Used AI for: code generation, debugging, and optimization.
+# I reviewed, tested, and modified all AI-generated code to ensure it meets requirements.
+```
+
+**Unacceptable AI Use (e.g., "vibe coding" without learning):**
+
+```text
+# AI Disclaimer: This code was written with extensive AI assistance.
+# Used AI for: complete code generation to pass autograder.
+# I copied the code without understanding it, just to get a green checkmark.
+# I didn't actually learn anything from this assignment.
+```
+
+Your program code starts here...
+
+---
+
+## 💻 Programming Problems
+
+### Section 1 - Basics and I/O (Choose One)
+
+#### Problem 1a: Triangle of Stars
 
 Write a program that asks for a positive integer `n` and prints a left-aligned triangle of `*` of height `n`.
 
-Requirements:
-- Prompt the user: "Enter a positive integer: " and read `n`
+**Requirements:**
+
+- Prompt the user: `Enter a positive integer: ` and read `n`
 - If `n <= 0`, you may print an error and exit (optional)
 - Print `n` lines; line i contains i stars
 
-Your program should produce this output (for n = 4):
-```
+**Sample Output:**
+
+```text
 Enter a positive integer: 4
 *
 **
@@ -54,7 +132,8 @@ Enter a positive integer: 4
 ****
 ```
 
-Starter code:
+**Starter shape:**
+
 ```cpp
 #include <iostream>
 
@@ -76,22 +155,22 @@ int main() {
 
 ---
 
-## Section 2: Randomness and Control Flow (Choose 1)
+### Section 2 - Randomness and Control Flow (Choose One)
 
-### 2a: Hi-Lo Guessing Game (Mersenne Twister)
+#### Problem 2a: Hi-Lo Guessing Game (Mersenne Twister)
 
-File: `program2a.cpp`
+The program picks a secret number in [1, 100]. After each user guess, print `Too low`, `Too high`, or `You got it!`. Continue until correct.
 
-The program picks a secret number in [1, 100]. After each user guess, print "Too low", "Too high", or "You got it!". Continue until correct.
+**Requirements:**
 
-Requirements:
 - Use `std::random_device`, `std::mt19937`, and `std::uniform_int_distribution<int>` to generate the secret
 - Prompt for guesses in a loop
 - Validate input is an integer; if not, clear and retry
 - End when the user guesses correctly
 
-Example session (secret unknown to player):
-```
+**Sample Output:**
+
+```text
 I'm thinking of a number between 1 and 100. Try to guess it!
 Enter your guess: 20
 Too low
@@ -101,7 +180,8 @@ Enter your guess: 65
 You got it!
 ```
 
-Starter code:
+**Starter shape:**
+
 ```cpp
 #include <iostream>
 #include <random>
@@ -123,18 +203,29 @@ int main() {
 }
 ```
 
-Hints:
+**Hints:**
+
 - Use `if (guess < secret)`, `else if (guess > secret)`, `else`
 - To limit attempts, add a counter and break after N tries
 - For replay, wrap logic in a loop and regenerate `secret`
 
 ---
 
-## Submission Checklist
-- [ ] Completed ONE problem (Triangle OR Hi-Lo)
-- [ ] Files are named correctly (`program1a.cpp`, `program2a.cpp`)
-- [ ] Each file includes an AI Disclaimer at the top
-- [ ] Tested with multiple inputs and edge cases
-- [ ] All files committed and pushed to GitHub
-- [ ] Repository URL submitted on BlackBoard 
+## 📤 Submission Instructions
 
+1. Complete the required programming problem.
+2. Commit and push your files to GitHub.
+3. Copy your GitHub repository URL.
+4. Submit the repository URL in Blackboard.
+
+---
+
+## ✅ Submission Checklist
+
+- ☐ Completed one problem (Triangle **or** Hi-Lo)
+- ☐ Correct file name (`program1a.cpp` or `program2a.cpp`)
+- ☐ AI Disclaimer included
+- ☐ Code follows clear C++17 style
+- ☐ Code tested with multiple inputs
+- ☐ Repository pushed to GitHub
+- ☐ Repository URL submitted in Blackboard

@@ -1,5 +1,7 @@
 # Module 08 - File IO
 
+Student-facing overview: [Overview (Module 8 - File IO)](Overview%20%28Module%208%20-%20File%20IO%29.md)
+
 Follow the **Reading** list in order (TxtBook sections and Think Python chapters are mixed). Then do assessments.
 
 ## Suggested path
@@ -14,11 +16,11 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 
 ## Reading
 
-1. [File Paths](File%20Paths.md) _TxtBook_
-2. [File Open Modes](File%20Open%20Modes.md) _TxtBook_
-3. [Reading Line by Line vs All at Once](Reading%20Line%20by%20Line%20vs%20All%20at%20Once.md) _TxtBook_
-4. [Error Handling with try except](Error%20Handling%20with%20try%20except.md) _TxtBook_
-5. [Chapter 13 (Files and Databases)](Chapter%2013%20%28Files%20and%20Databases%29.md) _Think Python_
+1. [Chapter 13 (Files and Databases)](Chapter%2013%20%28Files%20and%20Databases%29.md) _Think Python_
+2. [File Paths](File%20Paths.md) _TxtBook_
+3. [File Open Modes](File%20Open%20Modes.md) _TxtBook_
+4. [Reading Line by Line vs All at Once](Reading%20Line%20by%20Line%20vs%20All%20at%20Once.md) _TxtBook_
+5. [Error Handling with try except](Error%20Handling%20with%20try%20except.md) _TxtBook_
 6. [Serialization (Pickle)](Serialization%20%28Pickle%29.md) _TxtBook_
 7. [Simple DB Concepts](Simple%20DB%20Concepts.md) _TxtBook_
 

@@ -1,5 +1,7 @@
 # Module 09 - Classes
 
+Student-facing overview: [Overview (Module 9 - Classes)](Overview%20%28Module%209%20-%20Classes%29.md)
+
 Follow the **Reading** list in order (TxtBook sections and Think Python chapters are mixed). Then do assessments.
 
 ## Suggested path
@@ -17,8 +19,8 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 1. [Chapter 14 (Classes and Functions)](Chapter%2014%20%28Classes%20and%20Functions%29.md) _Think Python_
 2. [Chapter 15 (Classes and Methods)](Chapter%2015%20%28Classes%20and%20Methods%29.md) _Think Python_
 3. [Chapter 16 (Classes and Objects)](Chapter%2016%20%28Classes%20and%20Objects%29.md) _Think Python_
-4. [Encapsulation and Interface Design](Encapsulation%20and%20Interface%20Design.md) _TxtBook_
-5. [Chapter 17 (Inheritance)](Chapter%2017%20%28Inheritance%29.md) _Think Python_
+4. [Chapter 17 (Inheritance)](Chapter%2017%20%28Inheritance%29.md) _Think Python_
+5. [Encapsulation and Interface Design](Encapsulation%20and%20Interface%20Design.md) _TxtBook_
 
 ## Activities
 

@@ -1,5 +1,7 @@
 # Module 05 - Iteration
 
+Student-facing overview: [Overview (Module 5 - Iteration)](Overview%20%28Module%205%20-%20Iteration%29.md)
+
 Follow the **Reading** list in order (TxtBook sections and Think Python chapters are mixed). Then do assessments.
 
 ## Suggested path
@@ -14,8 +16,8 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 
 ## Reading
 
-1. [While Loops](While%20Loops.md) _TxtBook_
-2. [Chapter 07 (Iteration and Search)](Chapter%2007%20%28Iteration%20and%20Search%29.md) _Think Python_
+1. [Chapter 07 (Iteration and Search)](Chapter%2007%20%28Iteration%20and%20Search%29.md) _Think Python_
+2. [While Loops](While%20Loops.md) _TxtBook_
 3. [Accumulators and Counters](Accumulators%20and%20Counters.md) _TxtBook_
 4. [Loop Control](Loop%20Control.md) _TxtBook_
 5. [Index-based vs Direct Iteration](Index-based%20vs%20Direct%20Iteration.md) _TxtBook_

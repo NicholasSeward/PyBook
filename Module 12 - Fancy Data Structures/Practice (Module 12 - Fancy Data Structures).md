@@ -1,13 +1,13 @@
-# Practice Assignment: Module 10 - Random and Memory
+# Practice Assignment: Module 12 - Fancy Data Structures
 
 ## Overview
 
-This assignment provides an opportunity to apply the concepts covered in this module by writing Python programs using the `random` module and timing tools.
+This assignment provides an opportunity to apply the concepts covered in this module by writing short Python programs with linked lists and binary search trees.
 
 You will complete:
 
-- One problem from Section 1 – Random Number Generation
-- One problem from Section 2 – Timing and Performance
+- One problem from Section 1 – Linked Lists
+- One problem from Section 2 – Binary Search Trees
 
 ---
 
@@ -35,8 +35,8 @@ Open the GitHub Classroom assignment using the link below.
 
 Complete:
 
-- One problem from Section 1 – Random Number Generation
-- One problem from Section 2 – Timing and Performance
+- One problem from Section 1 – Linked Lists
+- One problem from Section 2 – Binary Search Trees
 - Follow PEP 8 coding conventions
 - Test your code with multiple inputs
 - Include the required AI Disclaimer
@@ -51,10 +51,10 @@ Each problem should be saved as a separate Python file.
 
 | Problem | File Name |
 |---------|-----------|
-| Random Password Generator | `program1a.py` |
-| Card Shuffler | `program1b.py` |
-| Typewriter Effect | `program2a.py` |
-| Gregory-Leibniz Pi Calculation | `program2b.py` |
+| Build and Traverse | `program1a.py` |
+| Insert at Front | `program1b.py` |
+| Insert and Search | `program2a.py` |
+| In-Order Print | `program2b.py` |
 
 ---
 
@@ -112,62 +112,92 @@ Your program code starts here...
 
 ## 💻 Programming Problems
 
-### Section 1 - Random Number Generation (Choose One)
+### Section 1 - Linked Lists (Choose One)
 
-#### Problem 1a: Random Password Generator
+#### Problem 1a: Build and Traverse
 
-Create a password generator that creates random passwords with customizable options.
-
-**Requirements:**
-
-- Write a function that generates a random password of a given length
-- Allow options to include/exclude numbers and symbols
-- Use `random.choice()` to select random characters
-- Generate and display 3 different passwords with different settings
-
-#### Problem 1b: Card Shuffler
-
-Simulate a deck of cards and shuffle it using the random module.
+Create a simple singly linked list and print its values.
 
 **Requirements:**
 
-- Create a standard 52-card deck (13 ranks × 4 suits)
-- Use `random.shuffle()` to shuffle the deck
-- Deal 5 cards to 2 players
-- Display each player's hand
-- Use `random.seed()` to make the shuffle reproducible
+- Define a `Node` class with `data` and `next`
+- Build a list with at least **5** nodes (you may hardcode the values)
+- Write a function `traverse(head)` that walks the list and prints each value on one line (or separated by spaces)
+- Call `traverse` from `main` (or the bottom of your file)
+
+**Sample Output:**
+
+```text
+10 20 30 40 50
+```
+
+#### Problem 1b: Insert at Front
+
+Build a linked list by always inserting new values at the **front**.
+
+**Requirements:**
+
+- Define a `Node` class with `data` and `next`
+- Write a function `insert_front(head, value)` that returns the new head
+- Ask the user for integers until they type `done`
+- Insert each integer at the front of the list
+- Print the final list from head to end (order will be reverse of entry order)
+
+**Sample Output:**
+
+```text
+Enter an integer (or 'done'): 1
+Enter an integer (or 'done'): 2
+Enter an integer (or 'done'): 3
+Enter an integer (or 'done'): done
+List: 3 -> 2 -> 1
+```
 
 ---
 
-### Section 2 - Timing and Performance (Choose One)
+### Section 2 - Binary Search Trees (Choose One)
 
-#### Problem 2a: Typewriter Effect
+#### Problem 2a: Insert and Search
 
-Create a typewriter effect that prints characters one at a time with timing.
-
-**Requirements:**
-
-- Write a function that takes a string and prints each character one at a time with a small pause (e.g., `time.sleep(0.05)`) between each character
-  - Hint: Use `print(char, end="")` so the output stays on the same line
-- Allow the user to type in a message (`input()`)
-- Use your function to print out the user's message in typewriter style
-- Use `time.perf_counter()` to measure the total time taken to type out the whole string
-- After the function finishes, print out the elapsed time in seconds
-
-#### Problem 2b: Gregory-Leibniz Pi Calculation
-
-Calculate pi using the Gregory-Leibniz series.
+Create a minimal BST that can insert values and search for a value.
 
 **Requirements:**
 
-- Write a function that takes in `n` (the number of terms) and returns an approximation of pi using the Gregory-Leibniz series:
-  - Formula: pi = 4/1 - 4/3 + 4/5 - 4/7 + 4/9 - ...
-- Ask the user to input how many terms to use
-- Call your function with the user's input, report the calculated value of pi
-- Use `time.perf_counter()` to measure how long the calculation takes
-- After showing the result, leave a comment in your code about:
-  - How large `n` needs to be to get the first 5 digits (3.1415) of pi correct
-  - And how long that calculation took on your machine
+- Define a `Node` class with `value`, `left`, and `right`
+- Write `insert(root, value)` that inserts into a BST (return the root)
+- Write `contains(root, value)` that returns `True` if the value is in the tree
+- Insert these values in order: `8, 3, 10, 1, 6`
+- Ask the user for a number and print whether it is in the tree
+
+**Sample Output:**
+
+```text
+Enter a number to search: 6
+Found: True
+
+Enter a number to search: 7
+Found: False
+```
+
+(You may ask once, or loop until `done`.)
+
+#### Problem 2b: In-Order Print
+
+Build a BST and print values in sorted order using an in-order traversal.
+
+**Requirements:**
+
+- Define a `Node` class with `value`, `left`, and `right`
+- Write `insert(root, value)` for a BST
+- Write `inorder(root)` that prints values from smallest to largest
+- Insert: `8, 3, 10, 1, 6, 14, 4, 7`
+- Call `inorder` and print the sorted sequence
+
+**Sample Output:**
+
+```text
+1 3 4 6 7 8 10 14
+```
 
 ---
 
@@ -182,8 +212,8 @@ Calculate pi using the Gregory-Leibniz series.
 
 ## ✅ Submission Checklist
 
-- ☐ Completed one Random Number Generation problem
-- ☐ Completed one Timing and Performance problem
+- ☐ Completed one Linked Lists problem
+- ☐ Completed one Binary Search Trees problem
 - ☐ Correct file names
 - ☐ AI Disclaimer included
 - ☐ Code follows PEP 8 conventions

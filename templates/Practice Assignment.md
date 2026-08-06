@@ -1,13 +1,12 @@
-# Practice Assignment: Module 10 - Random and Memory
+# Practice Assignment: Module {{N}} - {{Topic}}
 
 ## Overview
 
-This assignment provides an opportunity to apply the concepts covered in this module by writing Python programs using the `random` module and timing tools.
+This assignment provides an opportunity to apply the concepts covered in this module by writing Python programs{{OVERVIEW_FOCUS}}.
 
 You will complete:
 
-- One problem from Section 1 – Random Number Generation
-- One problem from Section 2 – Timing and Performance
+{{COMPLETE_LIST}}
 
 ---
 
@@ -15,7 +14,7 @@ You will complete:
 
 Before you begin, watch the walkthrough video below for guidance on how to approach this assignment.
 
-*[Insert walkthrough video about completing programming assignments]*
+{{WALKTHROUGH_VIDEO}}
 
 ---
 
@@ -25,7 +24,7 @@ Open the GitHub Classroom assignment using the link below.
 
 **GitHub Classroom Assignment**
 
-[INSERT ASSIGNMENT LINK]
+{{ACCEPT_LINK}}
 
 > WARNING: Submit the **repository** URL in the LMS (Blackboard), not a Codespaces / `github.dev` link (those are private to you).
 
@@ -35,8 +34,7 @@ Open the GitHub Classroom assignment using the link below.
 
 Complete:
 
-- One problem from Section 1 – Random Number Generation
-- One problem from Section 2 – Timing and Performance
+{{REQUIREMENTS_LIST}}
 - Follow PEP 8 coding conventions
 - Test your code with multiple inputs
 - Include the required AI Disclaimer
@@ -51,10 +49,7 @@ Each problem should be saved as a separate Python file.
 
 | Problem | File Name |
 |---------|-----------|
-| Random Password Generator | `program1a.py` |
-| Card Shuffler | `program1b.py` |
-| Typewriter Effect | `program2a.py` |
-| Gregory-Leibniz Pi Calculation | `program2b.py` |
+{{FILE_TABLE_ROWS}}
 
 ---
 
@@ -112,62 +107,7 @@ Your program code starts here...
 
 ## 💻 Programming Problems
 
-### Section 1 - Random Number Generation (Choose One)
-
-#### Problem 1a: Random Password Generator
-
-Create a password generator that creates random passwords with customizable options.
-
-**Requirements:**
-
-- Write a function that generates a random password of a given length
-- Allow options to include/exclude numbers and symbols
-- Use `random.choice()` to select random characters
-- Generate and display 3 different passwords with different settings
-
-#### Problem 1b: Card Shuffler
-
-Simulate a deck of cards and shuffle it using the random module.
-
-**Requirements:**
-
-- Create a standard 52-card deck (13 ranks × 4 suits)
-- Use `random.shuffle()` to shuffle the deck
-- Deal 5 cards to 2 players
-- Display each player's hand
-- Use `random.seed()` to make the shuffle reproducible
-
----
-
-### Section 2 - Timing and Performance (Choose One)
-
-#### Problem 2a: Typewriter Effect
-
-Create a typewriter effect that prints characters one at a time with timing.
-
-**Requirements:**
-
-- Write a function that takes a string and prints each character one at a time with a small pause (e.g., `time.sleep(0.05)`) between each character
-  - Hint: Use `print(char, end="")` so the output stays on the same line
-- Allow the user to type in a message (`input()`)
-- Use your function to print out the user's message in typewriter style
-- Use `time.perf_counter()` to measure the total time taken to type out the whole string
-- After the function finishes, print out the elapsed time in seconds
-
-#### Problem 2b: Gregory-Leibniz Pi Calculation
-
-Calculate pi using the Gregory-Leibniz series.
-
-**Requirements:**
-
-- Write a function that takes in `n` (the number of terms) and returns an approximation of pi using the Gregory-Leibniz series:
-  - Formula: pi = 4/1 - 4/3 + 4/5 - 4/7 + 4/9 - ...
-- Ask the user to input how many terms to use
-- Call your function with the user's input, report the calculated value of pi
-- Use `time.perf_counter()` to measure how long the calculation takes
-- After showing the result, leave a comment in your code about:
-  - How large `n` needs to be to get the first 5 digits (3.1415) of pi correct
-  - And how long that calculation took on your machine
+{{PROGRAMMING_PROBLEMS}}
 
 ---
 
@@ -182,8 +122,7 @@ Calculate pi using the Gregory-Leibniz series.
 
 ## ✅ Submission Checklist
 
-- ☐ Completed one Random Number Generation problem
-- ☐ Completed one Timing and Performance problem
+{{CHECKLIST_ITEMS}}
 - ☐ Correct file names
 - ☐ AI Disclaimer included
 - ☐ Code follows PEP 8 conventions

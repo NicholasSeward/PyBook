@@ -1,6 +1,8 @@
 # Module 12 - Fancy Data Structures
 
-Follow the **Reading** list in order (TxtBook sections and Think Python chapters are mixed). Then do assessments.
+Student-facing overview: [Overview (Module 12 - Fancy Data Structures)](Overview%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md)
+
+Follow the **Reading** list in order. Then do assessments.
 
 ## Suggested path
 
@@ -9,6 +11,7 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 3. Watch course-shell videos (LMS)
 4. Skim slides if helpful
 5. Quiz (autograded)
+6. Practice (GitHub), when offered
 
 ## Reading
 
@@ -26,7 +29,7 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 
 - [Quiz (Module 12 - Fancy Data Structures)](Quiz%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) (autograded)
 - Tutorial: not offered
-- Practice: not offered
+- [Practice (Module 12 - Fancy Data Structures)](Practice%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) (GitHub)
 
 ## Slides
 

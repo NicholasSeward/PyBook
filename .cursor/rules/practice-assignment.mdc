@@ -1,0 +1,113 @@
+---
+description: Create or edit GitHub Practice assignments from templates/Practice Assignment.md
+globs: "**/Practice (Module*).md,templates/Practice Assignment.md"
+alwaysApply: false
+---
+
+# Practice Assignment pages
+
+Student-facing Practice specs. Copy from `templates/Practice Assignment.md` into `Module NN - Topic/Practice (Module N - Topic).md`. Match polished Practices such as Module 2 (flat) or Module 3 (sections).
+
+## Sources
+
+Module topic/MLOs, existing problem bank (if rewriting), Course Map Practice row, and Instructor Notes for classroom50 / accept links.
+
+## Fill rules
+
+| Placeholder | Value |
+|-------------|--------|
+| `{{N}}` / `{{Topic}}` | Module number and short title |
+| `{{OVERVIEW_FOCUS}}` | Short phrase after "programs" (e.g. ` using conditionals and functions`) |
+| `{{COMPLETE_LIST}}` | Bullets matching the choice pattern (see below) |
+| `{{WALKTHROUGH_VIDEO}}` | Embed/link, or `*[Insert walkthrough video about completing programming assignments]*` |
+| `{{ACCEPT_LINK}}` | classroom50 / Classroom accept URL, or `[INSERT ASSIGNMENT LINK]` |
+| `{{REQUIREMENTS_LIST}}` | Same choose bullets as Overview (shared bullets stay in the template) |
+| `{{FILE_TABLE_ROWS}}` | `\| Problem Title \| \`file.py\` \|` using the **actual** problem titles |
+| `{{PROGRAMMING_PROBLEMS}}` | Flat list or sectioned OR list; see choice patterns |
+| `{{CHECKLIST_ITEMS}}` | One checklist line per required completion (`- ☐ …`) |
+
+Do **not** put the starter-template line in the student Practice page (instructors track `programming-1` / `programming-2` in Instructor Notes).
+
+## Checklists
+
+Markdown task lists (`- [ ]`) do **not** copy cleanly into Blackboard. Always use the ballot-box emoji instead:
+
+```markdown
+- ☐ Completed one Title problem
+- ☐ Correct file names
+```
+
+Never use `- [ ]` or `- [x]` in Practice pages.
+
+## Choice patterns (pick one)
+
+### A. Sections with OR (choose one per section)
+
+Use when problems group by skill. Each section is an **either/or**: pick **one** problem from that section.
+
+```markdown
+### Section K - Title (Choose One)
+
+#### Problem Ka: Name
+...
+#### Problem Kb: Name
+...
+```
+
+- Overview / Requirements: `One problem from Section K – Title` (one bullet per section).
+- Checklist: `Completed one Title problem` (one line per section).
+- File names often use lettered ids (`program1a.py`, `program1b.py`).
+
+### B. Flat choose-N (any N of M)
+
+Use when all problems are peers. No sections. Complete **any N** of the M problems.
+
+```markdown
+#### Problem 1: Name
+...
+#### Problem 2: Name
+...
+```
+
+- Overview / Requirements: `Any N of the M problems below`.
+- Checklist: `Completed N of M problems`.
+- File names often use numbered ids (`program1.py`, `program2.py`).
+
+Do **not** require every problem unless the module truly needs that.
+
+## Problem body shape
+
+```markdown
+#### Problem …: Name
+
+Intro sentence.
+
+**Requirements:**
+
+- ...
+
+**Rules / Scale:** (when needed)
+
+- ...
+
+**Sample Output:**
+
+\`\`\`text
+...
+\`\`\`
+```
+
+- Keep sample output in a `text` fence.
+- Keep published file names stable.
+- Reuse the template’s Start Here, AI Disclosure, and Submission blocks; do not invent a second AI disclaimer set.
+
+## Voice and LMS
+
+- Student voice; Blackboard = LMS URL submission.
+- Label the accept control **GitHub Classroom Assignment** even when the backend is classroom50.
+- Always keep the WARNING: submit the **repository** URL, not Codespaces / `github.dev`.
+- No em dashes.
+
+## Sync
+
+After changing how many problems students must complete, update that module’s Overview Practice blurb to match.

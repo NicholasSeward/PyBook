@@ -1,0 +1,71 @@
+---
+description: Create or edit LMS Module Overview pages from templates/Module Overview.md
+globs: "**/Overview (Module*).md,templates/Module Overview.md"
+alwaysApply: false
+---
+
+# Module Overview pages
+
+Student-facing LMS overviews. Copy from `templates/Module Overview.md` into `Module NN - Topic/Overview (Module N - Topic).md`. Match Module 4 for Learning Outcomes and overall shape (Modules 3–5 are good references).
+
+## Sources
+
+Pull content from the module `README.md`, `Course Map Guide.md` (overview + MLOs + materials), Practice file (problem count / goal), and each Think Python chapter’s top `NOTE` (official chapter title + notebook URL).
+
+## Fill rules
+
+| Placeholder | Value |
+|-------------|--------|
+| `{{N}}` | Module number without leading zero (e.g. `4`) |
+| `{{NN}}` | Two-digit quiz/tutorial/practice id (e.g. `04`) |
+| `{{Topic}}` | Short title from the folder (e.g. `Functions and Recursion`) |
+| `{{WELCOME_PARAGRAPH}}` | 2–3 sentences from the Course Map overview; student voice |
+| `{{LEARNING_OUTCOMES}}` | Numbered list from Course Map MLOs (required; see below) |
+| `{{READING_LIST}}` | Numbered list; see reading links below |
+| `{{PRACTICE_BLURB}}` | One sentence matching that module’s Practice (problem count / goal) |
+
+## Learning Outcomes (required)
+
+Every Overview must include this block **after Welcome** and **before** Suggested Learning Path:
+
+```markdown
+## 🎯 Learning Outcomes
+
+By the end of this module, you will be able to:
+
+1. …
+2. …
+```
+
+- Copy MLO **descriptions** from the Course Map Guide for that module.
+- Keep them measurable and student-facing.
+- Number them `1.` … `N.` (usually six).
+- Do **not** include the CLO column, MLO ids as labels, or links.
+- Example (Module 4): return values, default arguments, decomposition, stack frames, signatures/annotations, multi-function interface.
+
+When editing an older Overview that lacks this section (e.g. Modules 1–2), add it from the Course Map MLOs.
+
+## Reading links (TxtBook vs Think Python)
+
+These are different products. Do **not** point Think Python items at the in-repo / TxtBook reference copies.
+
+| Kind | Link to | Label |
+|------|---------|--------|
+| **Think Python** | Official notebook on GitHub: `https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chapNN.ipynb` (from the chapter file’s top NOTE). Students open it in **Google Colab**; cells share one environment. | `*Think Python*` |
+| **TxtBook** | Full rendered URL: `https://txtbook.dev/NicholasSeward/pybook/Module%20NN%20-%20Topic/File%20Name.md` (encode spaces as `%20`, `+` as `%2B`, `()` as `%28`/`%29`) | `*TxtBook*` |
+
+- Display Think Python items like: `Chapter N: Official Title` (title from the NOTE / Think Python, not the local filename alone).
+- Keep the template’s short Colab / shared-environment note under Required Reading when the module includes Think Python.
+- Prefer **Think Python** chapter(s) first, then **TxtBook** sections in a sensible teaching order; sync the module `README.md`.
+- **Links only in Required Reading.** No links in Welcome, Learning Outcomes, Learning Path, or Assessments.
+
+## Shape and voice
+
+- Keep the template headings, emoji labels, numbered Learning Path, and assessment bullet pattern.
+- Assessments: bold title on the parent bullet; description as one nested bullet under it; no assessment links.
+- Use `## ✅ Assessments` (not a markdown link heading).
+- No em dashes. After creating, link the Overview from that module’s `README.md`.
+
+## Omit when missing
+
+If the module has no Tutorial or Practice, drop that assessment bullet. Keep Quiz when present. If a module has no Think Python chapter, omit the Colab paragraph under Required Reading.

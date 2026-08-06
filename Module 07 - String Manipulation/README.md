@@ -1,5 +1,7 @@
 # Module 07 - String Manipulation
 
+Student-facing overview: [Overview (Module 7 - String Manipulation)](Overview%20%28Module%207%20-%20String%20Manipulation%29.md)
+
 Follow the **Reading** list in order (TxtBook sections and Think Python chapters are mixed). Then do assessments.
 
 ## Suggested path

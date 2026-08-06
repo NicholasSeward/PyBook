@@ -1,6 +1,6 @@
 # Activity 2: Compile Error Clinic
 
-**Module:** 13 - C C++ Primer  
+**Module:** 13 - C Cpp Primer  
 **Time:** 20-25 minutes  
 **Group size:** Pairs  
 **Materials:** 3 broken C++ files

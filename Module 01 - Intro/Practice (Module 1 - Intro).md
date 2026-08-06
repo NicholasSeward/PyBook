@@ -1,253 +1,103 @@
-# Practice (Module 1 - Intro)
-## Programming I - CPSI 17503
-### University of Arkansas at Little Rock
+# Practice Assignment: Module 1 - Intro
 
-**Instructions:** This practice assignment will take approximately 45-60 minutes to complete. You will write and run code to answer questions. Make sure you have Python installed and running on your computer.
+## Programming I – Practice Assignment 01
+
+**Goal:** Accept the assignment, open it in Codespaces, write `hello_world.py`, commit/push, and submit your **repo** link in the LMS.
+
+Starter template (Codespaces / Python): `programming-1`
 
 ---
 
-## Section 1: Your First Python Program
+## 1) Accept the Assignment
 
-**Step 1:** Open your Python editor or IDE and create a new file called `practice1.py`
+**Accept link:**
 
-**Step 2:** Type the following code exactly as shown:
+This creates your own repo (the name usually ends with your GitHub username).
 
-```py
-print("Hello, World!")
+> NOTE: If accept fails, open GitHub → **Settings → Organizations**, accept any pending class organization invite, then try the accept link again. If you never got an invite, email your instructor your GitHub username and ask them to resend it.
+
+**Example repository URL:**
+
+---
+
+## 2) Open in Codespaces (required)
+
+1. Open your assignment repo on GitHub.
+2. Click **Code → Codespaces → Create codespace on main**.
+3. Edit `hello_world.py`.
+
+---
+
+## 3) What to write (`hello_world.py`)
+
+Your program must:
+
+- Print a personalized greeting (include your name)
+- Mention your favorite color
+- Include a dad joke (one line is fine)
+- Have at least 3 meaningful comments
+- Run with no errors
+
+Run it:
+
+```text
+python hello_world.py
 ```
 
-**Step 3:** Save the file and run it.
+---
 
-**Question 1:** What output do you see when you run this program?
-   Write your answer: ________________
+## 4) Commit + Push (important)
 
-**Question 2:** How many lines of code are in your program?
-   Write your answer: ________________
+In the Source Control panel:
+
+1. Type a commit message first (example: `Practice 01 complete`).
+2. If you try to commit with no message, the browser may hang.
+3. **Commit**, then **Push**.
 
 ---
 
-## Section 2: Understanding Comments
+## 5) AI disclaimer
 
-**Step 1:** Add a comment to your program. Modify it to look like this:
+Choose one of these (or write your own). Put it as comments near the top of your program:
+
+**Option A — No AI**
 
 ```py
-# This is my first Python program
-print("Hello, World!")
+# AI Usage: None. I wrote this code myself.
 ```
 
-**Step 2:** Run the program again.
-
-**Question 3:** Does the comment appear in the output when you run the program?
-   a) Yes
-   b) No
-
-**Question 4:** What symbol do you use to create a comment in Python?
-   Write your answer: ________________
-
----
-
-## Section 3: Multiple Print Statements
-
-**Step 1:** Add another print statement to your program. Make it look like this:
+**Option B — Some AI (reviewed + controlled)**
 
 ```py
-# This is my first Python program
-print("Hello, World!")
-print("I am learning Python!")
+# AI Usage: Some. I used AI for help, but I reviewed everything and made sure the final code does exactly what I intended.
 ```
 
-**Step 2:** Run the program.
-
-**Question 5:** How many lines of output do you see now?
-   Write your answer: ________________
-
-**Question 6:** In what order do the lines appear?
-   a) "I am learning Python!" first, then "Hello, World!"
-   b) "Hello, World!" first, then "I am learning Python!"
-
----
-
-## Section 4: Experimenting with Print
-
-**Step 1:** Try changing the text in your print statements. Modify your program to print your name:
+**Option C — A lot of AI (joke — don’t do this)**
 
 ```py
-# This program prints my name
-print("Hello, World!")
-print("My name is [Your Actual Name]")
+# AI Usage: A lot. I have no idea how this works. (Joking — don’t do this.)
 ```
 
-**Step 2:** Run the program.
+---
 
-**Question 7:** What happens if you remove the quotes around your name?
-   a) The program runs normally
-   b) You get an error message
-   c) Nothing changes
+## 6) Submission (LMS)
 
-**Question 8:** What happens if you misspell "print" as "prnt"?
-   a) The program runs normally
-   b) You get an error message
-   c) Nothing changes
+Upload a **link to your GitHub repo** (not a zip, not a Codespace link).
+
+Your repo link should look like:
+
+`https://github.com/<org-or-owner>/practice-01-<YourGitHubUsername>`
+
+Double-check that the link opens **your** repo and that `hello_world.py` is updated on GitHub (after push).
+
+> WARNING: Do **not** submit your Codespace link. It is private and graders cannot open it.
 
 ---
 
-## Section 5: Understanding Errors
+## Checklist
 
-**Step 1:** Intentionally create an error. Change your program to:
-
-```py
-# This program has an error
-print("Hello, World!")
-prnt("This line has an error")
-```
-
-**Step 2:** Try to run the program.
-
-**Question 9:** What type of error message do you see?
-   a) A syntax error
-   b) A runtime error
-   c) No error message
-   d) A logical error
-
-**Question 10:** What does the error message tell you about the problem?
-   Write your answer: ________________
-
----
-
-## Section 6: Fixing Errors
-
-**Step 1:** Fix the error by changing "prnt" back to "print":
-
-```py
-# This program has been fixed
-print("Hello, World!")
-print("This line has been fixed")
-```
-
-**Step 2:** Run the program.
-
-**Question 11:** Does the program run successfully now?
-   a) Yes
-   b) No
-
-**Question 12:** What is the output of your corrected program?
-   Write your answer: ________________
-
----
-
-## Section 7: Adding More Information
-
-**Step 1:** Add more information to your program. Make it look like this:
-
-```py
-# This program introduces me
-print("Hello, World!")
-print("My name is [Your Name]")
-print("I am a student at UALR")
-print("I am learning Python programming")
-```
-
-**Step 2:** Run the program.
-
-**Question 13:** How many lines of output do you see now?
-   Write your answer: ________________
-
-**Question 14:** What happens if you add an extra space at the beginning of a line?
-   a) The program runs normally
-   b) You get an error
-   c) The output is different
-
----
-
-## Section 8: Testing Different Text
-
-**Step 1:** Experiment with different types of text. Try this:
-
-```py
-# Testing different text
-print("Hello, World!")
-print("12345")
-print("Python is fun!")
-print("")
-print("This line has no text")
-```
-
-**Step 2:** Run the program.
-
-**Question 15:** What happens when you print an empty string (like `print("")`)?
-   a) Nothing is displayed
-   b) An error occurs
-   c) A blank line appears
-   d) The program crashes
-
-**Question 16:** Can you print numbers as text?
-   a) Yes
-   b) No
-
----
-
-## Section 9: Your Custom Program
-
-**Exercise:** Create a program that:
-1. Has a comment explaining what it does
-2. Prints your name
-3. Prints your major or field of study
-4. Prints why you want to learn programming
-5. Prints your favorite color
-
-**Step 1:** Write your program in the space below:
-
-```py
-# [Write your comment here]
-
-# [Write your print statements here]
-```
-
-**Step 2:** Run your program.
-
-**Question 17:** How many lines of output does your custom program produce?
-   Write your answer: ________________
-
-**Question 18:** Does your program run without any errors?
-   a) Yes
-   b) No
-
----
-
-## Section 10: Understanding What You've Learned
-
-**Question 19:** Based on your experiments, what is the purpose of the `print()` function?
-   Write your answer: ________________
-
-**Question 20:** What is the purpose of comments in Python code?
-   Write your answer: ________________
-
----
-
-## Summary
-
-In this practice, you have:
-- Created and run your first Python program
-- Learned how to use the `print()` function
-- Understood how comments work
-- Experienced and fixed programming errors
-- Created a custom program with multiple outputs
-
-**Key Concepts Learned:**
-- Python programs are written in text files with a `.py` extension
-- The `print()` function displays text on the screen
-- Comments start with `#` and are ignored by Python
-- Programs run line by line from top to bottom
-- Errors help you understand what went wrong
-
-**Next Steps:**
-- Try adding more print statements
-- Experiment with different text and numbers
-- Practice writing clear comments
-- Get comfortable with running and debugging your code
-
----
-
-**Total Questions: 20**
-**Estimated Time: 45-60 minutes**
-**Topics Covered:** First program, print function, comments, errors, debugging, basic syntax
+- [ ] Accepted the assignment and opened Codespaces
+- [ ] `hello_world.py` meets all requirements and runs
+- [ ] AI disclaimer comments are at the top
+- [ ] Committed with a message and pushed
+- [ ] LMS submission is the **repository** URL (not Codespaces)

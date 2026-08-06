@@ -1,5 +1,7 @@
 # Module 06 - Data Structures
 
+Student-facing overview: [Overview (Module 6 - Data Structures)](Overview%20%28Module%206%20-%20Data%20Structures%29.md)
+
 Follow the **Reading** list in order (TxtBook sections and Think Python chapters are mixed). Then do assessments.
 
 ## Suggested path
@@ -15,10 +17,10 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 ## Reading
 
 1. [Chapter 09 (Lists)](Chapter%2009%20%28Lists%29.md) _Think Python_
-2. [List Methods](List%20Methods.md) _TxtBook_
-3. [Immutable vs Mutable](Immutable%20vs%20Mutable.md) _TxtBook_
-4. [Chapter 10 (Dictionaries)](Chapter%2010%20%28Dictionaries%29.md) _Think Python_
-5. [Chapter 11 (Tuples)](Chapter%2011%20%28Tuples%29.md) _Think Python_
+2. [Chapter 10 (Dictionaries)](Chapter%2010%20%28Dictionaries%29.md) _Think Python_
+3. [Chapter 11 (Tuples)](Chapter%2011%20%28Tuples%29.md) _Think Python_
+4. [List Methods](List%20Methods.md) _TxtBook_
+5. [Immutable vs Mutable](Immutable%20vs%20Mutable.md) _TxtBook_
 
 ## Activities
 

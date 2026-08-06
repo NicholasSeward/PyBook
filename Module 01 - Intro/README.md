@@ -1,5 +1,7 @@
 # Module 01 - Intro
 
+Student-facing overview: [Overview (Module 1 - Intro)](Overview%20%28Module%201%20-%20Intro%29.md)
+
 Follow the **Reading** list in order (TxtBook sections and Think Python chapters are mixed). Then do assessments.
 
 ## Suggested path
@@ -14,11 +16,11 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 
 ## Reading
 
-1. [Hello World and Comments](Hello%20World%20and%20Comments.md) _TxtBook_
-2. [Chapter 01 (Programming as a way of thinking)](Chapter%2001%20%28Programming%20as%20a%20way%20of%20thinking%29.md) _Think Python_
-3. [Compiled vs Interpreted](Compiled%20vs%20Interpreted.md) _TxtBook_
-4. [Number Systems](Number%20Systems.md) _TxtBook_
-5. [Integrated Development Environments (IDEs)](Integrated%20Development%20Environments%20%28IDEs%29.md) _TxtBook_
+1. [Chapter 01 (Programming as a way of thinking)](Chapter%2001%20%28Programming%20as%20a%20way%20of%20thinking%29.md) _Think Python_
+2. [Compiled vs Interpreted](Compiled%20vs%20Interpreted.md) _TxtBook_
+3. [Number Systems](Number%20Systems.md) _TxtBook_
+4. [Integrated Development Environments (IDEs)](Integrated%20Development%20Environments%20%28IDEs%29.md) _TxtBook_
+5. [Hello World and Comments](Hello%20World%20and%20Comments.md) _TxtBook_
 6. [Git GitHub Basics](Git%20GitHub%20Basics.md) _TxtBook_
 
 ## Activities

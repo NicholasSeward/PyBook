@@ -1,6 +1,8 @@
 # Module 10 - Random and Memory
 
-Follow the **Reading** list in order (TxtBook sections and Think Python chapters are mixed). Then do assessments.
+Student-facing overview: [Overview (Module 10 - Random and Memory)](Overview%20%28Module%2010%20-%20Random%20and%20Memory%29.md)
+
+Follow the **Reading** list in order. Then do assessments.
 
 ## Suggested path
 

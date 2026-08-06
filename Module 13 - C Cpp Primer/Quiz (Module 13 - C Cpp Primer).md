@@ -1,4 +1,4 @@
-# Quiz (Module 13 - C C++ Primer)
+# Quiz (Module 13 - C Cpp Primer)
 
 ## Multiple Choice Questions (10 questions)
 

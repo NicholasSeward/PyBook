@@ -1,6 +1,8 @@
-# Module 13 - C C++ Primer
+# Module 13 - C Cpp Primer
 
-Follow the **Reading** list in order (TxtBook sections and Think Python chapters are mixed). Then do assessments.
+Student-facing overview: [Overview (Module 13 - C Cpp Primer)](Overview%20%28Module%2013%20-%20C%20Cpp%20Primer%29.md)
+
+Follow the **Reading** list in order. Then do assessments.
 
 ## Suggested path
 
@@ -20,15 +22,15 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 
 ## Activities
 
-- [Activity 1 - Python to C++ Translation Relay](Activity%201%20-%20Python%20to%20C%2B%2B%20Translation%20Relay.md)
+- [Activity 1 - Python to Cpp Translation Relay](Activity%201%20-%20Python%20to%20Cpp%20Translation%20Relay.md)
 - [Activity 2 - Compile Error Clinic](Activity%202%20-%20Compile%20Error%20Clinic.md)
 
 ## Assessments
 
-- [Quiz (Module 13 - C C++ Primer)](Quiz%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) (autograded)
+- [Quiz (Module 13 - C Cpp Primer)](Quiz%20%28Module%2013%20-%20C%20Cpp%20Primer%29.md) (autograded)
 - Tutorial: not offered
-- [Practice (Module 13 - C C++ Primer)](Practice%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md) (GitHub)
+- [Practice (Module 13 - C Cpp Primer)](Practice%20%28Module%2013%20-%20C%20Cpp%20Primer%29.md) (GitHub)
 
 ## Slides
 
-- [Slides (Module 13 - C C++ Primer)](Slides%20%28Module%2013%20-%20C%20C%2B%2B%20Primer%29.md)
+- [Slides (Module 13 - C Cpp Primer)](Slides%20%28Module%2013%20-%20C%20Cpp%20Primer%29.md)
