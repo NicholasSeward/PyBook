@@ -28,7 +28,7 @@ Those links below are the **original** book. You can still **clone a clone**: fo
 
 Example (original): `https://github.com/nicholasseward/pybook` ↔ `https://txtbook.dev/NicholasSeward/pybook`
 
-Point your LMS / students at **your** rendered TxtBook URL after you clone (even if that clone came from another instructor’s clone) and customize accept links, Discord, wording, etc.
+Point your LMS / students at **your** rendered TxtBook URL after you clone (even if that clone came from another instructor’s clone) and customize accept links, wording, and any optional community space.
 
 ---
 
@@ -51,11 +51,17 @@ When you write LMS overviews or announcements, link Think Python chapters to the
 
 Module videos often include **specifics from a past class** (dates, deadlines, tools, or jokes tied to that term). For the most part they still work for the concepts. You are free to **keep them**, **skip the dated bits**, or **replace them** with your own recordings.
 
+Student pages (Practices, Projects, and some overviews) also have **aspirational placeholders** such as "Insert walkthrough video." Those are optional. You can:
+
+- Cover that material in class instead
+- Record your own short video and paste the link
+- Delete the placeholder block if you are not using a video
+
 ---
 
 ## Getting started (LMS)
 
-Put a **Discord or Slack invite link** in the LMS **Getting Started** section so students have a place for quick help before they drown in email. Refresh or rotate the invite if it expires.
+A Discord or Slack space is **recommended** so students have a place for quick help. If you use one, put the invite in the LMS **Getting Started** section and refresh it if it expires.
 
 > NOTE: Prefer the LMS Getting Started page over the public textbook repo for term-specific invites.
 
@@ -84,26 +90,26 @@ Classic **GitHub Classroom is deprecated**. The replacement is **classroom50**.
 
 | Use | Template | Notes |
 |-----|----------|-------|
-| All Practices / projects (default) | `programming-1` | Main template; Codespace / `.devcontainer` for Python |
-| **Practice 13** (C++) | `programming-2` | Exception: C++ starter |
+| All Practices / projects (default) | [programming-1](https://github.com/Seward-Classes/programming-1) | Main template; Codespace / `.devcontainer` for Python |
+| **Practice 13** (C++) | [programming-2](https://github.com/Seward-Classes/programming-2) | Exception: C++ starter |
 | **project04** | <https://github.com/env3d/cs1-llm-local-chatbot> | Exception: local LLM chatbot starter |
-| Module 12 | `programming-1` | Short linked-list + BST practice |
 
 > NOTE: Do not attach `programming-1` to project04 or Practice 13.
 
-Keep template names stable in student docs; point them at whatever org/URL hosts `programming-1` / `programming-2` in your deployment. For project04, use the env3d URL above.
 
 ### What to fill in the Practice files (collectively)
 
-For every Practice that has a classroom50 block (01–13), plus project04 when you publish it:
+For every Practice that has a classroom50 block (01–13), plus each Project (01–04) when you publish it:
 
 - Paste the **Accept link** when the assignment exists.
-- Leave **Example repository URL** blank, or add one real student-shaped sample after you test-accept.
-- Confirm the starter line: `programming-1` (default), `programming-2` (Practice 13), or the env3d chatbot repo (project04).
-- Mirror the accept link in the LMS assignment.
-- Module 01 is the Codespaces onboarding practice (`hello_world.py`); keep org-invite troubleshooting notes generic (no hard-coded org name in the book).
 
-You do not need a per-module URL tracker in this doc; treat it as one checklist item for the whole set of Practices.
+Projects live in the module folder where they are due:
+
+- Module 03: [Project 01 - Quiz Game](Module%2003%20-%20Conditionals%20and%20Functions/Project%2001%20-%20Quiz%20Game.md)
+- Module 06: [Project 02 - Course Registration Simulator](Module%2006%20-%20Data%20Structures/Project%2002%20-%20Course%20Registration%20Simulator.md)
+- Module 09: [Project 03 - Course Registration Simulator OOP](Module%2009%20-%20Classes/Project%2003%20-%20Course%20Registration%20Simulator%20OOP.md)
+- Module 12: [Project 04 - Persistent Local Chatbot](Module%2012%20-%20Fancy%20Data%20Structures/Project%2004%20-%20Persistent%20Local%20Chatbot.md)
+
 
 ---
 
@@ -111,20 +117,19 @@ You do not need a per-module URL tracker in this doc; treat it as one checklist 
 
 Use the [Practice Rubric](Course%20Map%20Guide.md#practice-rubric) in the Course Map Guide.
 
-For a **just-good-enough but working** automated helper, contact **njseward@ualr.edu** about **fragil**. It uses the `gh` command line and the OpenAI API. Cost has been under about **$10 / semester** at ~100 students for the author, but you must set up billing yourself. OpenAI is **prepaid**, so you are not exposed to an unbounded surprise bill if you cap the balance.
+For a **just-good-enough but working** automated helper, contact **njseward@ualr.edu** about a rough autograder app. It uses the `gh` command line and the OpenAI API. Cost has been under about **$10 / semester** at ~100 students for the author, but you must set up billing yourself. OpenAI is **prepaid**, so you are not exposed to an unbounded surprise bill if you cap the balance.
 
 ---
 
 ## Term checklist
 
-- [ ] Discord or Slack invite posted in the LMS **Getting Started** section
+- [ ] Optional: Discord or Slack invite in the LMS **Getting Started** section (recommended)
 - [ ] classroom50 available for the term (Fall 2026+); do not rely on classic GitHub Classroom
 - [ ] Templates: `programming-1` for everything except **project04** (`cs1-llm-local-chatbot`) and **Practice 13** (`programming-2`)
-- [ ] One classroom50 assignment per Practice (including Module 12)
-- [ ] Accept links (and optional example repo URLs) filled in Practice `.md` files and LMS
+- [ ] One classroom50 assignment per Practice (including Module 12) and per Project (01–04)
+- [ ] Accept links (and optional example repo URLs) filled in Practice / Project `.md` files and LMS
 - [ ] LMS asks for repository URL, not Codespaces URL
 - [ ] Rubric / late / resubmit policy matches the syllabus
-- [ ] Optional: fragil + `gh` + OpenAI prepaid setup if you want assisted grading
 
 ---
 

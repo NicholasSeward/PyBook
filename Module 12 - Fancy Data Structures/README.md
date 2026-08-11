@@ -12,6 +12,7 @@ Follow the **Reading** list in order. Then do assessments.
 4. Skim slides if helpful
 5. Quiz (autograded)
 6. Practice (GitHub), when offered
+7. Project 04 (GitHub), when assigned
 
 ## Reading
 
@@ -30,6 +31,7 @@ Follow the **Reading** list in order. Then do assessments.
 - [Quiz (Module 12 - Fancy Data Structures)](Quiz%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) (autograded)
 - Tutorial: not offered
 - [Practice (Module 12 - Fancy Data Structures)](Practice%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) (GitHub)
+- [Project 04 - Persistent Local Chatbot](Project%2004%20-%20Persistent%20Local%20Chatbot.md) (GitHub)
 
 ## Slides
 

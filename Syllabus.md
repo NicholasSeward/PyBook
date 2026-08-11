@@ -259,13 +259,13 @@ Failure to adhere to these constraints may be treated as academic misconduct.
 
 **Reading:** Chapters 3 & 5 – Functions, Conditionals and Recursion
 
-**Due:** Project 1
-
 ### Week 4: Functions and Recursion (Module 4)
 
 **Topics:** Function Signatures; Default Arguments; Return Values; Modular Design; Recursion; Call Stack Visualization
 
 **Reading:** Chapters 4 & 6 – Functions and Interfaces, Return Values
+
+**Due:** Project 1
 
 ### Week 5: Iteration (Module 5)
 
@@ -279,8 +279,6 @@ Failure to adhere to these constraints may be treated as academic misconduct.
 
 **Reading:** Chapters 9, 10, 11 – Lists, Dictionaries, Tuples
 
-**Due:** Project 2
-
 ### Week 7: Midterm Week
 
 **Due:** Midterm Exam (Covers Weeks 1–6)
@@ -290,6 +288,8 @@ Failure to adhere to these constraints may be treated as academic misconduct.
 **Topics:** Strings as Sequences; Indexing & Slicing; String Methods; Regex; ASCII & Unicode; Escape Characters
 
 **Reading:** Chapter 8 – Strings and Regular Expressions
+
+**Due:** Project 2
 
 ### Week 9: File I/O (Module 8)
 
@@ -303,13 +303,13 @@ Failure to adhere to these constraints may be treated as academic misconduct.
 
 **Reading:** Chapters 14–17 – Classes and Objects, Inheritance
 
-**Due:** Project 3
-
 ### Week 11: Random & Memory (Module 10)
 
 **Topics:** Pseudorandom vs True Random; random Module; References & Aliasing; deepcopy; Stack vs Heap; Intro Complexity; time Module
 
 **Reading:** Custom Material
+
+**Due:** Project 3
 
 ### Week 12: Python Tricks (Module 11)
 
@@ -317,19 +317,21 @@ Failure to adhere to these constraints may be treated as academic misconduct.
 
 **Reading:** Chapter 18 – Python Extras
 
-**Due:** Project 4
-
 ### Week 13: Fancy Data Structures (Module 12)
 
 **Topics:** Linked Lists; Trees; Binary Search Trees; Time & Space Complexity; Algorithm Review
 
 **Reading:** Custom Material
 
+**Due:** Project 4
+
 ### Week 14: C/Cpp Primer (Module 13)
 
 **Topics:** Python vs C/C++ Syntax; Manual Memory Management; Performance; Type Declarations; Compilation Model
 
 **Reading:** Custom Material
+
+**Due:** Project 4
 
 ### Final
 

@@ -33,6 +33,7 @@ By the end of this module, you will be able to:
 4. Open the Lecture Resources and review the lecture slides and watch the lecture video
 5. Complete the Module Quiz
 6. Complete the GitHub Practice Assignment
+7. Complete Project 04 (Persistent Local Chatbot) when assigned
 
 ## 📚 Required Reading
 
@@ -51,3 +52,5 @@ Complete the following assessments in the order listed below. Each activity buil
   - Check your understanding of the module's key concepts.
 - 🛠 **Practice12: Assignment – Module 12: Fancy Data Structures** *(GitHub)*
   - Apply what you've learned by completing two short programming problems (one linked list and one BST) and submitting your GitHub repository.
+- 🎯 **Project04: Persistent Local Chatbot** *(GitHub)*
+  - Build a command-line chatbot around a local model with JSON message history. Work in `main.py` and submit your GitHub repository.

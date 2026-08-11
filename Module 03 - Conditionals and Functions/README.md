@@ -13,6 +13,7 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 5. Quiz (autograded)
 6. Tutorial (autograded), when offered
 7. Practice (GitHub), when offered
+8. Project 01 (GitHub), when assigned
 
 ## Reading
 
@@ -31,6 +32,7 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 - [Quiz (Module 3 - Conditionals and Functions)](Quiz%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) (autograded)
 - [Tutorial (Module 3 - Conditionals and Functions)](Tutorial%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) (autograded)
 - [Practice (Module 3 - Conditionals and Functions)](Practice%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) (GitHub)
+- [Project 01 - Quiz Game](Project%2001%20-%20Quiz%20Game.md) (GitHub)
 
 ## Slides
 

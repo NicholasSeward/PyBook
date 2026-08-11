@@ -34,6 +34,7 @@ By the end of this module, you will be able to:
 5. Complete the Module Quiz
 6. Complete the Guided Tutorial
 7. Complete the GitHub Practice Assignment
+8. Complete Project 01 (Quiz Game) when assigned
 
 ## 📚 Required Reading
 
@@ -56,3 +57,5 @@ Complete the following assessments in the order listed below. Each activity buil
   - Complete the guided coding tutorial and corresponding assessment.
 - 🛠 **Practice03: Assignment – Module 3: Conditionals and Functions** *(GitHub)*
   - Apply what you've learned by completing two programming problems (one Conditionals and one Functions) and submitting your GitHub repository.
+- 🎯 **Project01: Quiz Game** *(GitHub)*
+  - Build a command-line quiz (scored or classification). Choose Option A or Option B; submit `project01.py` through GitHub.

@@ -50,6 +50,7 @@ Include all necessary resources and create a schedule that sequences the modules
 | Quiz | LMS / TxtBook quiz | Autograded |
 | Tutorial | LMS / TxtBook tutorial | Autograded |
 | Practice | GitHub repository submission | Instructor graded with [Practice Rubric](#practice-rubric) |
+| Project | GitHub repository submission | Instructor graded with [Project Rubric](#project-rubric) |
 
 ---
 
@@ -58,7 +59,7 @@ Include all necessary resources and create a schedule that sequences the modules
 For each module below:
 
 - **MLOs** are measurable outcomes. CLO numbers in parentheses show course alignment.
-- **Assessments** are Quiz, Tutorial, and Practice unless noted.
+- **Assessments** are Quiz, Tutorial, and Practice unless noted (some modules also include a course Project).
 - **Instructional materials** center on the TxtBook module (with Think Python links). Videos live in the course shell. Each module folder also has a `README.md` with reading order.
 - **Student steps** follow the same workflow every module.
 
@@ -220,6 +221,7 @@ For each module below:
 | [Quiz (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Quiz%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) | Autograded | 1-5 |
 | [Tutorial (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Tutorial%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) | Autograded | 1-4, 6 |
 | [Practice (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Practice%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) | [Practice Rubric](#practice-rubric) | 1, 3, 6 |
+| [Project 01 - Quiz Game](Module%2003%20-%20Conditionals%20and%20Functions/Project%2001%20-%20Quiz%20Game.md) | [Project Rubric](#project-rubric) | 1-4, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -232,6 +234,7 @@ For each module below:
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
 | Autograded quiz and tutorial (when offered) | see MLOs |
 | Practice submission via GitHub (when offered) | see MLOs |
+| Project 01 submission via GitHub (when assigned) | see MLOs |
 
 
 **Instructional Materials**
@@ -254,6 +257,7 @@ For each module below:
 4. Complete the [Quiz (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Quiz%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) (autograded).
 5. Complete the [Tutorial (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Tutorial%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) (autograded), when offered.
 6. Complete [Practice (Module 3 - Conditionals and Functions)](Module%2003%20-%20Conditionals%20and%20Functions/Practice%20%28Module%203%20-%20Conditionals%20and%20Functions%29.md) and submit through GitHub, when offered.
+7. Complete [Project 01 - Quiz Game](Module%2003%20-%20Conditionals%20and%20Functions/Project%2001%20-%20Quiz%20Game.md) and submit through GitHub, when assigned.
 
 
 ---
@@ -403,6 +407,7 @@ For each module below:
 | [Quiz (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Quiz%20%28Module%206%20-%20Data%20Structures%29.md) | Autograded | 1-5 |
 | [Tutorial (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Tutorial%20%28Module%206%20-%20Data%20Structures%29.md) | Autograded | 1-3, 6 |
 | [Practice (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Practice%20%28Module%206%20-%20Data%20Structures%29.md) | [Practice Rubric](#practice-rubric) | 1, 2, 5, 6 |
+| [Project 02 - Course Registration Simulator](Module%2006%20-%20Data%20Structures/Project%2002%20-%20Course%20Registration%20Simulator.md) | [Project Rubric](#project-rubric) | 1, 2, 5, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -415,6 +420,7 @@ For each module below:
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
 | Autograded quiz and tutorial (when offered) | see MLOs |
 | Practice submission via GitHub (when offered) | see MLOs |
+| Project 02 submission via GitHub (when assigned) | see MLOs |
 
 
 **Instructional Materials**
@@ -438,6 +444,7 @@ For each module below:
 4. Complete the [Quiz (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Quiz%20%28Module%206%20-%20Data%20Structures%29.md) (autograded).
 5. Complete the [Tutorial (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Tutorial%20%28Module%206%20-%20Data%20Structures%29.md) (autograded), when offered.
 6. Complete [Practice (Module 6 - Data Structures)](Module%2006%20-%20Data%20Structures/Practice%20%28Module%206%20-%20Data%20Structures%29.md) and submit through GitHub, when offered.
+7. Complete [Project 02 - Course Registration Simulator](Module%2006%20-%20Data%20Structures/Project%2002%20-%20Course%20Registration%20Simulator.md) and submit through GitHub, when assigned.
 
 
 ---
@@ -586,6 +593,7 @@ For each module below:
 | [Quiz (Module 9 - Classes)](Module%2009%20-%20Classes/Quiz%20%28Module%209%20-%20Classes%29.md) | Autograded | 1-5 |
 | [Tutorial (Module 9 - Classes)](Module%2009%20-%20Classes/Tutorial%20%28Module%209%20-%20Classes%29.md) | Autograded | 1-3, 6 |
 | [Practice (Module 9 - Classes)](Module%2009%20-%20Classes/Practice%20%28Module%209%20-%20Classes%29.md) | [Practice Rubric](#practice-rubric) | 1, 2, 6 |
+| [Project 03 - Course Registration Simulator OOP](Module%2009%20-%20Classes/Project%2003%20-%20Course%20Registration%20Simulator%20OOP.md) | [Project Rubric](#project-rubric) | 1-3, 5, 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -598,6 +606,7 @@ For each module below:
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
 | Autograded quiz and tutorial (when offered) | see MLOs |
 | Practice submission via GitHub (when offered) | see MLOs |
+| Project 03 submission via GitHub (when assigned) | see MLOs |
 
 
 **Instructional Materials**
@@ -621,6 +630,7 @@ For each module below:
 4. Complete the [Quiz (Module 9 - Classes)](Module%2009%20-%20Classes/Quiz%20%28Module%209%20-%20Classes%29.md) (autograded).
 5. Complete the [Tutorial (Module 9 - Classes)](Module%2009%20-%20Classes/Tutorial%20%28Module%209%20-%20Classes%29.md) (autograded), when offered.
 6. Complete [Practice (Module 9 - Classes)](Module%2009%20-%20Classes/Practice%20%28Module%209%20-%20Classes%29.md) and submit through GitHub, when offered.
+7. Complete [Project 03 - Course Registration Simulator OOP](Module%2009%20-%20Classes/Project%2003%20-%20Course%20Registration%20Simulator%20OOP.md) and submit through GitHub, when assigned.
 
 
 ---
@@ -772,6 +782,7 @@ For each module below:
 | [Quiz (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Quiz%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) | Autograded | 1-6 |
 | Tutorial | Not offered this term | - |
 | [Practice (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Practice%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) | [Practice Rubric](#practice-rubric) | 2, 3, 6 |
+| [Project 04 - Persistent Local Chatbot](Module%2012%20-%20Fancy%20Data%20Structures/Project%2004%20-%20Persistent%20Local%20Chatbot.md) | [Project Rubric](#project-rubric) | 6 |
 
 **Activities: Learner Interaction and Engagement**
 
@@ -784,6 +795,7 @@ For each module below:
 | Work TxtBook module sections (includes Think Python links where provided) | see MLOs |
 | Autograded quiz and tutorial (when offered) | see MLOs |
 | Practice submission via GitHub (when offered) | see MLOs |
+| Project 04 submission via GitHub (when assigned) | see MLOs |
 
 
 **Instructional Materials**
@@ -806,6 +818,7 @@ For each module below:
 4. Complete the [Quiz (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Quiz%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) (autograded).
 5. Complete the Tutorial (autograded), when offered.
 6. Complete [Practice (Module 12 - Fancy Data Structures)](Module%2012%20-%20Fancy%20Data%20Structures/Practice%20%28Module%2012%20-%20Fancy%20Data%20Structures%29.md) and submit through GitHub, when offered.
+7. Complete [Project 04 - Persistent Local Chatbot](Module%2012%20-%20Fancy%20Data%20Structures/Project%2004%20-%20Persistent%20Local%20Chatbot.md) and submit through GitHub, when assigned.
 
 
 ---
@@ -936,3 +949,26 @@ Late penalties and resubmit penalties **may stack**.
 2. If it fails that gate: request resubmit (if allowed) or assign 0 with a concrete fix list.
 3. If it passes that gate: apply -10 / up to -30 for small or multiple defects, or full credit.
 4. Apply late and/or post-initial-round penalties according to the syllabus; note when they stack.
+
+---
+
+## Project Rubric
+
+Used for the four course GitHub Projects (Project 01–04). Matches the syllabus Project Grading Policy. Projects use the same late/resubmit stacking rules as Practices unless the syllabus says otherwise.
+
+### Grade outcomes
+
+| Score | Meaning |
+|-------|---------|
+| 90–100% | Project exceeds the minimum requirements (meaningful extension beyond core) |
+| 90% | Project meets all minimum requirements with no bugs |
+| 80% | Project meets all minimum requirements with minor bugs |
+| 50% | Project meets some requirements, but is incomplete |
+| 0% | Project is missing most required components |
+
+### Grader notes
+
+- Core / option requirements and determinism rules are defined on each Project page.
+- Above 90% requires a meaningful extension **and** a complete core submission.
+- Project 02 uses a special late window on the student page (-10% if late but before 3/31). Confirm the date each term.
+- If a submission will receive a **0**, list specific reasons and required fixes (same feedback expectation as the Practice Rubric).

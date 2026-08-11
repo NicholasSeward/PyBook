@@ -1,0 +1,77 @@
+---
+description: Create or edit GitHub Project assignments from templates/Project Assignment.md
+globs: "**/Project 0*.md,templates/Project Assignment.md"
+alwaysApply: false
+---
+
+# Project Assignment pages
+
+Student-facing Project specs. Copy from `templates/Project Assignment.md` into `Module NN - Topic/Project NN - Title.md`. Match Project 01 (Quiz Game) and Project 02 (Course Registration Simulator).
+
+## Placement
+
+| Project | Module folder |
+|---------|----------------|
+| 01 | Module 03 - Conditionals and Functions |
+| 02 | Module 06 - Data Structures |
+| 03 | Module 09 - Classes |
+| 04 | Module 12 - Fancy Data Structures |
+
+## Fill rules
+
+| Placeholder | Value |
+|-------------|--------|
+| `{{NN}}` / `{{Title}}` | Two-digit id and short title |
+| `{{OVERVIEW_PARAGRAPH}}` | What to build + which skills it shows |
+| `{{COMPLETE_LIST}}` | What students submit (one option, or all core requirements) |
+| `{{WALKTHROUGH_VIDEO}}` | Embed/link, or `*[Insert walkthrough video about completing programming projects]*` |
+| `{{ACCEPT_LINK}}` | Always `[INSERT ASSIGNMENT LINK]` on the student page |
+| `{{REQUIREMENTS_LIST}}` | Core / option bullets (shared bullets stay in the template) |
+| `{{GRADING_NOTE}}` | Extra 90% note if needed (extensions, `Additional requirements:`) |
+| `{{PROGRAMMING_PROBLEMS}}` | Options or a single required program |
+| `{{CHECKLIST_ITEMS}}` | One checklist line per required completion (`- ☐ …`) |
+
+Do **not** put a starter-template line or a live accept URL on the student Project page. Instructors paste the link in the LMS / when publishing.
+
+## GitHub block (not Classroom)
+
+Say **GitHub**, not Classroom or classroom50, on student pages:
+
+```markdown
+## 🚀 GitHub
+
+Open the GitHub assignment using the link below.
+
+**GitHub Assignment**
+
+[INSERT ASSIGNMENT LINK]
+```
+
+Always keep the WARNING: submit the **repository** URL, not Codespaces / `github.dev`.
+
+## Checklists
+
+Markdown task lists (`- [ ]`) do **not** copy cleanly into Blackboard. Always use the ballot-box emoji:
+
+```markdown
+- ☐ Menu loop works until exit
+- ☐ Correct file name (`project02.py`)
+```
+
+Never use `- [ ]` or `- [x]` in Project pages.
+
+## Grading and file name
+
+- Include the 90% vs above-90% table (core = up to 90%; meaningful extension = above 90%).
+- One file: `project{{NN}}.py`, except **Project 04** grades `main.py` in the chatbot starter.
+- Reuse the template AI Disclosure block. Do not invent a second set.
+- Project 04: tell students to set Python **3.12.1**; do not put the live accept URL or env3d starter URL on the student page.
+
+## Voice and LMS
+
+- Student voice; Blackboard = LMS URL submission.
+- No em dashes.
+
+## Sync
+
+After adding a Project, wire it into that module’s Overview, README, and the Course Map Project row.

@@ -34,6 +34,7 @@ By the end of this module, you will be able to:
 5. Complete the Module Quiz
 6. Complete the Guided Tutorial
 7. Complete the GitHub Practice Assignment
+8. Complete Project 03 (Course Registration Simulator OOP) when assigned
 
 ## 📚 Required Reading
 
@@ -57,3 +58,5 @@ Complete the following assessments in the order listed below. Each activity buil
   - Complete the guided coding tutorial and corresponding assessment.
 - 🛠 **Practice09: Assignment – Module 9: Classes** *(GitHub)*
   - Apply what you've learned by completing two programming problems (one from each section) and submitting your GitHub repository.
+- 🎯 **Project03: Course Registration Simulator (OOP)** *(GitHub)*
+  - Rebuild the registration simulator with classes (`Student`, `Course`, `Registrar`). Keep I/O out of objects. Submit `project03.py` through GitHub.

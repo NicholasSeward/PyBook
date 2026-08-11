@@ -34,6 +34,7 @@ By the end of this module, you will be able to:
 5. Complete the Module Quiz
 6. Complete the Guided Tutorial
 7. Complete the GitHub Practice Assignment
+8. Complete Project 02 (Course Registration Simulator) when assigned
 
 ## 📚 Required Reading
 
@@ -57,3 +58,5 @@ Complete the following assessments in the order listed below. Each activity buil
   - Complete the guided coding tutorial and corresponding assessment.
 - 🛠 **Practice06: Assignment – Module 6: Data Structures** *(GitHub)*
   - Apply what you've learned by completing three programming problems (one from each section) and submitting your GitHub repository.
+- 🎯 **Project02: Course Registration Simulator** *(GitHub)*
+  - Build a menu-driven program that manages courses, students, and grades with dictionaries. Submit `project02.py` through GitHub.

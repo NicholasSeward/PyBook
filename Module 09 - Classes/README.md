@@ -13,6 +13,7 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 5. Quiz (autograded)
 6. Tutorial (autograded), when offered
 7. Practice (GitHub), when offered
+8. Project 03 (GitHub), when assigned
 
 ## Reading
 
@@ -32,6 +33,7 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 - [Quiz (Module 9 - Classes)](Quiz%20%28Module%209%20-%20Classes%29.md) (autograded)
 - [Tutorial (Module 9 - Classes)](Tutorial%20%28Module%209%20-%20Classes%29.md) (autograded)
 - [Practice (Module 9 - Classes)](Practice%20%28Module%209%20-%20Classes%29.md) (GitHub)
+- [Project 03 - Course Registration Simulator OOP](Project%2003%20-%20Course%20Registration%20Simulator%20OOP.md) (GitHub)
 
 ## Slides
 

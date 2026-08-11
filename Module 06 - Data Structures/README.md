@@ -13,6 +13,7 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 5. Quiz (autograded)
 6. Tutorial (autograded), when offered
 7. Practice (GitHub), when offered
+8. Project 02 (GitHub), when assigned
 
 ## Reading
 
@@ -32,6 +33,7 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 - [Quiz (Module 6 - Data Structures)](Quiz%20%28Module%206%20-%20Data%20Structures%29.md) (autograded)
 - [Tutorial (Module 6 - Data Structures)](Tutorial%20%28Module%206%20-%20Data%20Structures%29.md) (autograded)
 - [Practice (Module 6 - Data Structures)](Practice%20%28Module%206%20-%20Data%20Structures%29.md) (GitHub)
+- [Project 02 - Course Registration Simulator](Project%2002%20-%20Course%20Registration%20Simulator.md) (GitHub)
 
 ## Slides
 
