@@ -1,4 +1,4 @@
-> NOTE: Adapted from [*Think Python*, 3rd edition](https://allendowney.github.io/ThinkPython/) by Allen B. Downey, [Chapter 7: Iteration and Search](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap07.ipynb). Provided here for convenience.
+> NOTE: Adapted from [*Think Python*, 3rd edition](https://allendowney.github.io/ThinkPython/) by Allen B. Downey, [Chapter 7: Iteration and Search](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap07.ipynb). Provided here for convenience.
 
 # Iteration and Search
 

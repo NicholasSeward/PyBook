@@ -42,9 +42,9 @@ Complete the following readings **in order**. The readings intentionally combine
 
 Open **Think Python** chapters in Google Colab (use *Open in Colab* from the notebook link, or open the `.ipynb` in Colab). In Colab, all code cells share one environment. Use the **TxtBook** links for custom sections in this course.
 
-1. [Chapter 9: Lists](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap09.ipynb) *Think Python*
-2. [Chapter 10: Dictionaries](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap10.ipynb) *Think Python*
-3. [Chapter 11: Tuples](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap11.ipynb) *Think Python*
+1. [Chapter 9: Lists](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap09.ipynb) *Think Python*
+2. [Chapter 10: Dictionaries](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap10.ipynb) *Think Python*
+3. [Chapter 11: Tuples](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap11.ipynb) *Think Python*
 4. [List Methods](https://txtbook.dev/NicholasSeward/pybook/Module%2006%20-%20Data%20Structures/List%20Methods.md) *TxtBook*
 5. [Immutable vs Mutable](https://txtbook.dev/NicholasSeward/pybook/Module%2006%20-%20Data%20Structures/Immutable%20vs%20Mutable.md) *TxtBook*
 

@@ -41,7 +41,7 @@ Complete the following readings **in order**. The readings intentionally combine
 
 Open **Think Python** chapters in Google Colab (use *Open in Colab* from the notebook link, or open the `.ipynb` in Colab). In Colab, all code cells share one environment. Use the **TxtBook** links for custom sections in this course.
 
-1. [Chapter 18: Python Extras](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap18.ipynb) *Think Python*
+1. [Chapter 18: Python Extras](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap18.ipynb) *Think Python*
 2. [Sets](https://txtbook.dev/NicholasSeward/pybook/Module%2011%20-%20Python%20Tricks/Sets.md) *TxtBook*
 3. [Comprehensions](https://txtbook.dev/NicholasSeward/pybook/Module%2011%20-%20Python%20Tricks/Comprehensions.md) *TxtBook*
 4. [Conditional Expressions](https://txtbook.dev/NicholasSeward/pybook/Module%2011%20-%20Python%20Tricks/Conditional%20Expressions.md) *TxtBook*

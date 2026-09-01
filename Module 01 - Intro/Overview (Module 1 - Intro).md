@@ -27,7 +27,7 @@ Complete the module activities in the order below for the best learning experien
 Complete the following readings **in order**. The readings intentionally combine **TxtBook** sections with **Think Python** chapters.
 
 1. [Hello World and Comments](https://txtbook.dev/NicholasSeward/pybook/Module%2001%20-%20Intro/Hello%20World%20and%20Comments.md) *TxtBook*
-2. [Chapter 1: The Way of the Program (Think Python)](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb) *Think Python*
+2. [Chapter 1: The Way of the Program (Think Python)](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb) *Think Python*
 3. [Compiled vs Interpreted](https://txtbook.dev/NicholasSeward/pybook/Module%2001%20-%20Intro/Compiled%20vs%20Interpreted.md) *TxtBook*
 4. [Number Systems](https://txtbook.dev/NicholasSeward/pybook/Module%2001%20-%20Intro/Number%20Systems.md) *TxtBook*
 5. [Integrated Development Environments (IDEs)](https://txtbook.dev/NicholasSeward/pybook/Module%2001%20-%20Intro/Integrated%20Development%20Environments%20(IDEs).md) *TxtBook*

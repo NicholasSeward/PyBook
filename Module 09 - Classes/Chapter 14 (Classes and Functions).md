@@ -1,4 +1,4 @@
-> NOTE: Adapted from [*Think Python*, 3rd edition](https://allendowney.github.io/ThinkPython/) by Allen B. Downey, [Chapter 14: Classes and Functions](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap14.ipynb). Provided here for convenience.
+> NOTE: Adapted from [*Think Python*, 3rd edition](https://allendowney.github.io/ThinkPython/) by Allen B. Downey, [Chapter 14: Classes and Functions](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap14.ipynb). Provided here for convenience.
 
 # Classes and Functions
 

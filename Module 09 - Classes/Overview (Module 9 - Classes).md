@@ -42,10 +42,10 @@ Complete the following readings **in order**. The readings intentionally combine
 
 Open **Think Python** chapters in Google Colab (use *Open in Colab* from the notebook link, or open the `.ipynb` in Colab). In Colab, all code cells share one environment. Use the **TxtBook** links for custom sections in this course.
 
-1. [Chapter 14: Classes and Functions](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap14.ipynb) *Think Python*
-2. [Chapter 15: Classes and Methods](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap15.ipynb) *Think Python*
-3. [Chapter 16: Classes and Objects](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap16.ipynb) *Think Python*
-4. [Chapter 17: Inheritance](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap17.ipynb) *Think Python*
+1. [Chapter 14: Classes and Functions](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap14.ipynb) *Think Python*
+2. [Chapter 15: Classes and Methods](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap15.ipynb) *Think Python*
+3. [Chapter 16: Classes and Objects](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap16.ipynb) *Think Python*
+4. [Chapter 17: Inheritance](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap17.ipynb) *Think Python*
 5. [Encapsulation and Interface Design](https://txtbook.dev/NicholasSeward/pybook/Module%2009%20-%20Classes/Encapsulation%20and%20Interface%20Design.md) *TxtBook*
 
 ## ✅ Assessments

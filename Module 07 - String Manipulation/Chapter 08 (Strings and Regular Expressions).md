@@ -1,4 +1,4 @@
-> NOTE: Adapted from [*Think Python*, 3rd edition](https://allendowney.github.io/ThinkPython/) by Allen B. Downey, [Chapter 8: Strings and Regular Expressions](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap08.ipynb). Provided here for convenience.
+> NOTE: Adapted from [*Think Python*, 3rd edition](https://allendowney.github.io/ThinkPython/) by Allen B. Downey, [Chapter 8: Strings and Regular Expressions](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap08.ipynb). Provided here for convenience.
 
 # Strings and Regular Expressions
 

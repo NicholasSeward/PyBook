@@ -41,7 +41,7 @@ Complete the following readings **in order**. The readings intentionally combine
 
 Open **Think Python** chapters in Google Colab (use *Open in Colab* from the notebook link, or open the `.ipynb` in Colab). In Colab, all code cells share one environment. Use the **TxtBook** links for custom sections in this course.
 
-1. [Chapter 7: Iteration and Search](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap07.ipynb) *Think Python*
+1. [Chapter 7: Iteration and Search](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap07.ipynb) *Think Python*
 2. [While Loops](https://txtbook.dev/NicholasSeward/pybook/Module%2005%20-%20Iteration/While%20Loops.md) *TxtBook*
 3. [Accumulators and Counters](https://txtbook.dev/NicholasSeward/pybook/Module%2005%20-%20Iteration/Accumulators%20and%20Counters.md) *TxtBook*
 4. [Loop Control](https://txtbook.dev/NicholasSeward/pybook/Module%2005%20-%20Iteration/Loop%20Control.md) *TxtBook*

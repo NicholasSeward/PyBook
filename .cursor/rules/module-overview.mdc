@@ -51,7 +51,7 @@ These are different products. Do **not** point Think Python items at the in-repo
 
 | Kind | Link to | Label |
 |------|---------|--------|
-| **Think Python** | Official notebook on GitHub: `https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chapNN.ipynb` (from the chapter file’s top NOTE). Students open it in **Google Colab**; cells share one environment. | `*Think Python*` |
+| **Think Python** | Google Colab: `https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chapNN.ipynb` (from the chapter file’s top NOTE). Cells share one environment. | `*Think Python*` |
 | **TxtBook** | Full rendered URL: `https://txtbook.dev/NicholasSeward/pybook/Module%20NN%20-%20Topic/File%20Name.md` (encode spaces as `%20`, `+` as `%2B`, `()` as `%28`/`%29`) | `*TxtBook*` |
 
 - Display Think Python items like: `Chapter N: Official Title` (title from the NOTE / Think Python, not the local filename alone).

@@ -1,4 +1,4 @@
-> NOTE: Adapted from [*Think Python*, 3rd edition](https://allendowney.github.io/ThinkPython/) by Allen B. Downey, [Chapter 6: Return Values](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap06.ipynb). Provided here for convenience.
+> NOTE: Adapted from [*Think Python*, 3rd edition](https://allendowney.github.io/ThinkPython/) by Allen B. Downey, [Chapter 6: Return Values](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap06.ipynb). Provided here for convenience.
 
 # Return Values
 

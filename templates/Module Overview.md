@@ -40,7 +40,7 @@ Open **Think Python** chapters in Google Colab (use *Open in Colab* from the not
 
 <!-- Example reading items:
 
-1. [Chapter 2: Variables and Statements](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap02.ipynb) *Think Python*
+1. [Chapter 2: Variables and Statements](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap02.ipynb) *Think Python*
 2. [Casting between types](https://txtbook.dev/NicholasSeward/pybook/Module%2002%20-%20Basics/Casting%20between%20types.md) *TxtBook*
 
 -->

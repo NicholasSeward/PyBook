@@ -28,7 +28,7 @@ Complete the following readings **in order**. The readings intentionally combine
 
 Open **Think Python** chapters in Google Colab (use *Open in Colab* from the notebook link, or open the `.ipynb` in Colab). In Colab, all code cells share one environment. Use the **TxtBook** links for custom sections in this course.
 
-1. [Chapter 2: Variables and Statements](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap02.ipynb) *Think Python*
+1. [Chapter 2: Variables and Statements](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap02.ipynb) *Think Python*
 2. [Casting between types](https://txtbook.dev/NicholasSeward/pybook/Module%2002%20-%20Basics/Casting%20between%20types.md) *TxtBook*
 3. [Formatting Strings (f-strings)](https://txtbook.dev/NicholasSeward/pybook/Module%2002%20-%20Basics/Formatting%20Strings%20(f-strings).md) *TxtBook*
 4. [Coding Conventions (PEP 8)](https://txtbook.dev/NicholasSeward/pybook/Module%2002%20-%20Basics/Coding%20Conventions%20(PEP%208).md) *TxtBook*

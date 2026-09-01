@@ -42,8 +42,8 @@ Complete the following readings **in order**. The readings intentionally combine
 
 Open **Think Python** chapters in Google Colab (use *Open in Colab* from the notebook link, or open the `.ipynb` in Colab). In Colab, all code cells share one environment. Use the **TxtBook** links for custom sections in this course.
 
-1. [Chapter 5: Conditionals and Recursion](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap05.ipynb) *Think Python*
-2. [Chapter 3: Functions](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap03.ipynb) *Think Python*
+1. [Chapter 5: Conditionals and Recursion](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap05.ipynb) *Think Python*
+2. [Chapter 3: Functions](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap03.ipynb) *Think Python*
 3. [Truthy and Falsy Values](https://txtbook.dev/NicholasSeward/pybook/Module%2003%20-%20Conditionals%20and%20Functions/Truthy%20and%20Falsy%20Values.md) *TxtBook*
 4. [Scope (local, global)](https://txtbook.dev/NicholasSeward/pybook/Module%2003%20-%20Conditionals%20and%20Functions/Scope%20(local,%20global).md) *TxtBook*
 

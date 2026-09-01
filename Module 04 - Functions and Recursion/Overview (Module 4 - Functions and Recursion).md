@@ -41,8 +41,8 @@ Complete the following readings **in order**. The readings intentionally combine
 
 Open **Think Python** chapters in Google Colab (use *Open in Colab* from the notebook link, or open the `.ipynb` in Colab). In Colab, all code cells share one environment. Use the **TxtBook** links for custom sections in this course.
 
-1. [Chapter 6: Return Values](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap06.ipynb) *Think Python*
-2. [Chapter 4: Functions and Interfaces](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap04.ipynb) *Think Python*
+1. [Chapter 6: Return Values](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap06.ipynb) *Think Python*
+2. [Chapter 4: Functions and Interfaces](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap04.ipynb) *Think Python*
 3. [Default Arguments](https://txtbook.dev/NicholasSeward/pybook/Module%2004%20-%20Functions%20and%20Recursion/Default%20Arguments.md) *TxtBook*
 4. [Function Signatures and Annotations](https://txtbook.dev/NicholasSeward/pybook/Module%2004%20-%20Functions%20and%20Recursion/Function%20Signatures%20and%20Annotations.md) *TxtBook*
 5. [Modular Design and Decomposition](https://txtbook.dev/NicholasSeward/pybook/Module%2004%20-%20Functions%20and%20Recursion/Modular%20Design%20and%20Decomposition.md) *TxtBook*

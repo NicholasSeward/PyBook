@@ -41,7 +41,7 @@ Complete the following readings **in order**. The readings intentionally combine
 
 Open **Think Python** chapters in Google Colab (use *Open in Colab* from the notebook link, or open the `.ipynb` in Colab). In Colab, all code cells share one environment. Use the **TxtBook** links for custom sections in this course.
 
-1. [Chapter 13: Files and Databases](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap13.ipynb) *Think Python*
+1. [Chapter 13: Files and Databases](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap13.ipynb) *Think Python*
 2. [File Paths](https://txtbook.dev/NicholasSeward/pybook/Module%2008%20-%20File%20IO/File%20Paths.md) *TxtBook*
 3. [File Open Modes](https://txtbook.dev/NicholasSeward/pybook/Module%2008%20-%20File%20IO/File%20Open%20Modes.md) *TxtBook*
 4. [Reading Line by Line vs All at Once](https://txtbook.dev/NicholasSeward/pybook/Module%2008%20-%20File%20IO/Reading%20Line%20by%20Line%20vs%20All%20at%20Once.md) *TxtBook*

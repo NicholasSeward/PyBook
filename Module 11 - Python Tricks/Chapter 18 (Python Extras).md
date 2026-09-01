@@ -1,4 +1,4 @@
-> NOTE: Adapted from [*Think Python*, 3rd edition](https://allendowney.github.io/ThinkPython/) by Allen B. Downey, [Chapter 18: Python Extras](https://github.com/AllenDowney/ThinkPython/blob/v3/chapters/chap18.ipynb). Provided here for convenience.
+> NOTE: Adapted from [*Think Python*, 3rd edition](https://allendowney.github.io/ThinkPython/) by Allen B. Downey, [Chapter 18: Python Extras](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap18.ipynb). Provided here for convenience.
 
 Here are versions of the `Card`, `Deck`, and `Hand` classes from Chapter 17, which we will use in some examples in this chapter.
 
