@@ -22,6 +22,10 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 4. [Coding Conventions (PEP 8)](Coding%20Conventions%20%28PEP%208%29.md) _TxtBook_
 5. [Errors and Tracebacks](Errors%20and%20Tracebacks.md) _TxtBook_
 
+### Bonus (optional)
+
+6. [Bonus: Common Errors and Troubleshooting Tips](Bonus%20Common%20Errors%20and%20Troubleshooting%20Tips.md) _TxtBook_
+
 ## Activities
 
 - [Activity 1 - Error Autopsy](Activity%201%20-%20Error%20Autopsy.md)

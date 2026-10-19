@@ -27,6 +27,7 @@ Follow the **Reading** list in order (TxtBook sections and Think Python chapters
 
 - [Activity 1 - Human Call Stack](Activity%201%20-%20Human%20Call%20Stack.md)
 - [Activity 2 - Decompose the Spec](Activity%202%20-%20Decompose%20the%20Spec.md)
+- [Kahoot Module 4 Functions and Recursion](Kahoot%20Module%204%20Functions%20and%20Recursion.csv) (optional in-class quiz CSV; open in Excel/Sheets and save as `.xlsx` to import into Kahoot)
 
 ## Assessments
 

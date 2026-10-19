@@ -123,6 +123,29 @@ Fenced blocks get a **Run** button. Prefer `py` for runnable Python (Pyodide in 
 - Use `turtle` for any example that imports or drives the `turtle` module (including `make_turtle` / `jumpto` / `moveto` helpers).
 - Use untagged fences for expressions, partial snippets, or sketches that cannot run alone.
 - Use `md` playgrounds only for formatting demos.
+- Playgrounds do **not** share state with each other. Seed files inside the same fence.
+
+### Runtime file tabs and `# @file:`
+
+When Python creates or modifies a file, TxtBook shows a tab for that file after **Run**. Do not `print` file contents just to show them; use the tab.
+
+Seed starting files in the same `py` fence with `# @file:` markers (same idea as C++ `// @file:`):
+
+```py
+# @file: main.py
+with open("data.txt", "r") as file:
+    print(len(file.read()))
+
+# @file: data.txt
+Line 1
+Line 2
+Line 3
+```
+
+| Marker | Meaning |
+|--------|---------|
+| `# @file: main.py` | Runnable Python (put first when you also seed data files) |
+| `# @file: data.txt` | Seeded text file tab with the lines that follow |
 
 ## Code and examples
 

@@ -1,41 +1,17 @@
 # Tutorial (Module 8 - File IO)
 
-## Setup: Creating Test Files
-
-Before starting the tutorial, run this code to create the files we'll need:
-
-```python
-# Create data.txt
-with open('data.txt', 'w') as file:
-    file.write("Line 1\nLine 2\nLine 3")
-
-# Create numbers.txt
-with open('numbers.txt', 'w') as file:
-    file.write("10\n20\n30")
-
-# Create colors.txt
-with open('colors.txt', 'w') as file:
-    file.write("Red\nGreen\nBlue")
-
-print("Setup complete! All test files created.")
-```
-
-**Note:** For each code block below, run the code and then check the created files to see what was written. You can open the files in your text editor or use `print(open('filename.txt').read())` to view their contents.
-
 ---
 
 ## Code Block 1: Basic File Writing
 
 **Try this code:**
 
-```python
-with open('output.txt', 'w') as file:
+```py
+with open("output.txt", "w") as file:
     file.write("Hello World\n")
     file.write("Python File IO")
 print("File written successfully")
 ```
-
-**After running:** Check the contents of `output.txt` by opening it in your text editor or running: `print(open('output.txt').read())`
 
 **Question 1:** What does this code print?
 - A) `Hello World\nPython File IO`
@@ -44,8 +20,8 @@ print("File written successfully")
 - D) Nothing
 
 **Question 2:** How would you modify the code to append to the file instead of overwriting it?
-- A) Change `'w'` to `'a'`
-- B) Change `'w'` to `'r'`
+- A) Change `"w"` to `"a"`
+- B) Change `"w"` to `"r"`
 - C) Change `file.write()` to `file.append()`
 - D) Change `with` to `append`
 
@@ -55,14 +31,19 @@ print("File written successfully")
 
 **Try this code:**
 
-```python
-# Assume 'data.txt' contains: "Line 1\nLine 2\nLine 3"
-with open('data.txt', 'r') as file:
+```py
+# @file: main.py
+with open("data.txt", "r") as file:
     content = file.read()
     print(len(content))
+
+# @file: data.txt
+Line 1
+Line 2
+Line 3
 ```
 
-**Question 3:** What does this code print (assuming the file contains "Line 1\nLine 2\nLine 3")?
+**Question 3:** What does this code print (the file contains `"Line 1\nLine 2\nLine 3"`)?
 - A) `3`
 - B) `21`
 - C) `24`
@@ -80,13 +61,18 @@ with open('data.txt', 'r') as file:
 
 **Try this code:**
 
-```python
-# Assume 'numbers.txt' contains: "10\n20\n30"
+```py
+# @file: main.py
 total = 0
-with open('numbers.txt', 'r') as file:
+with open("numbers.txt", "r") as file:
     for line in file:
         total += int(line.strip())
 print(total)
+
+# @file: numbers.txt
+10
+20
+30
 ```
 
 **Question 5:** What does this code print?
@@ -107,21 +93,16 @@ print(total)
 
 **Try this code:**
 
-```python
-# First write to a file
-with open('test.txt', 'w') as file:
+```py
+with open("test.txt", "w") as file:
     file.write("First line\n")
 
-# Then append to it
-with open('test.txt', 'a') as file:
+with open("test.txt", "a") as file:
     file.write("Second line\n")
 
-# Finally read it
-with open('test.txt', 'r') as file:
+with open("test.txt", "r") as file:
     print(file.read())
 ```
-
-**After running:** Open `test.txt` in your text editor to see both lines. Notice how `'w'` creates the file and `'a'` adds to it without erasing.
 
 **Question 7:** What does this code print?
 - A) `First line`
@@ -129,10 +110,10 @@ with open('test.txt', 'r') as file:
 - C) `First line` then `Second line`
 - D) `First line\nSecond line\n`
 
-**Question 8:** How would you modify the code so the file only contains "Second line\n"?
-- A) Change the second `'a'` to `'w'`
+**Question 8:** How would you modify the code so the file only contains `"Second line\n"`?
+- A) Change the second `"a"` to `"w"`
 - B) Remove the first `with` block
-- C) Change the first `'w'` to `'a'`
+- C) Change the first `"w"` to `"a"`
 - D) Both A and B would work
 
 ---
@@ -141,9 +122,10 @@ with open('test.txt', 'r') as file:
 
 **Try this code:**
 
-```python
+```py
 import os
-path = os.path.join('folder', 'subfolder', 'file.txt')
+
+path = os.path.join("folder", "subfolder", "file.txt")
 print(path)
 exists = os.path.exists(path)
 print(exists)
@@ -167,9 +149,9 @@ print(exists)
 
 **Try this code:**
 
-```python
+```py
 try:
-    with open('nonexistent.txt', 'r') as file:
+    with open("nonexistent.txt", "r") as file:
         content = file.read()
     print("File read successfully")
 except FileNotFoundError:
@@ -184,8 +166,8 @@ print("Program continues")
 - D) Error message
 
 **Question 12:** How would you modify the code to create the file if it doesn't exist?
-- A) Add `with open('nonexistent.txt', 'w') as file: pass` in the except block
-- B) Change `'r'` to `'w'` in the try block
+- A) Add `with open("nonexistent.txt", "w") as file: pass` in the except block
+- B) Change `"r"` to `"w"` in the try block
 - C) Remove the try-except block
 - D) Change `FileNotFoundError` to `FileExistsError`
 
@@ -195,14 +177,12 @@ print("Program continues")
 
 **Try this code:**
 
-```python
+```py
 lines = ["Apple\n", "Banana\n", "Cherry\n"]
-with open('fruits.txt', 'w') as file:
+with open("fruits.txt", "w") as file:
     file.writelines(lines)
 print(len(lines))
 ```
-
-**After running:** Open `fruits.txt` to see the content. Then run: `print(open('fruits.txt').read())` to view it in Python.
 
 **Question 13:** What does this code print to the console? And what is written to `fruits.txt`?
 - A) Prints `3`, file contains: `Apple\nBanana\nCherry\n`
@@ -222,12 +202,17 @@ print(len(lines))
 
 **Try this code:**
 
-```python
-# Assume 'colors.txt' contains: "Red\nGreen\nBlue"
-with open('colors.txt', 'r') as file:
+```py
+# @file: main.py
+with open("colors.txt", "r") as file:
     lines = file.readlines()
 print(lines[1].strip())
 print(len(lines))
+
+# @file: colors.txt
+Red
+Green
+Blue
 ```
 
 **Question 15:** What does this code print?
@@ -248,23 +233,19 @@ print(len(lines))
 
 **Try this code:**
 
-```python
+```py
 import pickle
 
-# Save data to pickle file
-data = {'name': 'Alice', 'age': 25, 'city': 'NYC'}
-with open('person.pkl', 'wb') as file:
+data = {"name": "Alice", "age": 25, "city": "NYC"}
+with open("person.pkl", "wb") as file:
     pickle.dump(data, file)
 print("Data saved")
 
-# Load data from pickle file
-with open('person.pkl', 'rb') as file:
+with open("person.pkl", "rb") as file:
     data2 = pickle.load(file)
 print("Data loaded:", data2)
 print("Are they equal?", data == data2)
 ```
-
-**After running:** Notice that `person.pkl` is not human-readable (it's binary). But Python can perfectly reconstruct the dictionary!
 
 **Question 17:** What does this code print?
 - A) `Data saved` then `Data loaded: {'name': 'Alice', 'age': 25, 'city': 'NYC'}` then `Are they equal? True`
@@ -273,10 +254,7 @@ print("Are they equal?", data == data2)
 - D) `Data saved` only
 
 **Question 18:** How would you modify the code to save and load a list instead of a dictionary?
-- A) Change `data` to `['Alice', 25, 'NYC']` - pickle.dump() and pickle.load() work the same way
+- A) Change `data` to `['Alice', 25, 'NYC']` - `pickle.dump()` and `pickle.load()` work the same way
 - B) Change `pickle.dump()` to `pickle.dump_list()`
-- C) Change the file mode from `'wb'` to `'w'`
+- C) Change the file mode from `"wb"` to `"w"`
 - D) Lists cannot be pickled
-
----
-

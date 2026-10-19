@@ -34,6 +34,10 @@ Open **Think Python** chapters in Google Colab (use *Open in Colab* from the not
 4. [Coding Conventions (PEP 8)](https://txtbook.dev/NicholasSeward/pybook/Module%2002%20-%20Basics/Coding%20Conventions%20(PEP%208).md) *TxtBook*
 5. [Errors and Tracebacks](https://txtbook.dev/NicholasSeward/pybook/Module%2002%20-%20Basics/Errors%20and%20Tracebacks.md) *TxtBook*
 
+### Bonus (optional)
+
+6. [Bonus: Common Errors and Troubleshooting Tips](https://txtbook.dev/NicholasSeward/pybook/Module%2002%20-%20Basics/Bonus%20Common%20Errors%20and%20Troubleshooting%20Tips.md) *TxtBook*
+
 ## ✅ Assessments
 
 Complete the following assessments in the order listed below. Each activity builds on the previous one to reinforce your understanding and preparation for each programming assignment.

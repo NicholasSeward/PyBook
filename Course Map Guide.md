@@ -185,6 +185,7 @@ For each module below:
 | [Formatting Strings (f-strings)](Module%2002%20-%20Basics/Formatting%20Strings%20%28f-strings%29.md) | see MLOs |
 | [Coding Conventions (PEP 8)](Module%2002%20-%20Basics/Coding%20Conventions%20%28PEP%208%29.md) | see MLOs |
 | [Errors and Tracebacks](Module%2002%20-%20Basics/Errors%20and%20Tracebacks.md) | see MLOs |
+| [Bonus: Common Errors and Troubleshooting Tips](Module%2002%20-%20Basics/Bonus%20Common%20Errors%20and%20Troubleshooting%20Tips.md) | Supplemental |
 | [Slides (Module 2 - Basics)](Module%2002%20-%20Basics/Slides%20%28Module%202%20-%20Basics%29.md) | Supplemental |
 
 **Steps to complete this module**
